@@ -1,0 +1,142 @@
+{
+   "Format": "1.11.0",
+   "Changes": [
+
+   	{
+    	"Action": "Load",
+    	"Target": "characters/Dialogue/Emily",
+    	"FromFile": "assets/characters/Dialogue/Emily.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "characters/Dialogue/Haley",
+    	"FromFile": "assets/characters/Dialogue/Haley.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "characters/Dialogue/Penny",
+    	"FromFile": "assets/characters/Dialogue/Penny.xnb"
+    },
+	{
+    	"Action": "Load",
+    	"Target": "characters/Dialogue/MarriageDialogueEmily",
+    	"FromFile": "assets/characters/Dialogue/MarriageDialogueEmily.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "characters/Dialogue/MarriageDialogueHaley",
+    	"FromFile": "assets/characters/Dialogue/MarriageDialogueHaley.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "characters/Dialogue/MarriageDialoguePenny",
+    	"FromFile": "assets/characters/Dialogue/MarriageDialoguePenny.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "characters/Dialogue/MarriageDialogue",
+    	"FromFile": "assets/characters/Dialogue/MarriageDialogue.xnb"
+    },    
+    {
+    	"Action": "Load",
+    	"Target": "Data/Events/Farm",
+    	"FromFile": "assets/Data/Events/Farm.xnb"
+    },
+    {
+    	"Action": "Load",
+        "Target": "LooseSprites/Billboard",
+        "FromFile": "assets/LooseSprites/Billboard.png"
+    },
+    {
+    	"Action": "Load",
+        "Target": "Minigames/TitleButtons",
+        "FromFile": "assets/Minigames/TitleButtons.png"
+    },
+    {
+    	"Action": "Load",
+         "Target": "LooseSprites/JojaCDForm",
+         "FromFile": "assets/LooseSprites/JojaCDForm.png"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "LooseSprites/CraneGame",
+    	"FromFile": "assets/LooseSprites/CraneGame_international.png"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Maps/fall_outdoorsTileSheet",
+    	"FromFile": "assets/Maps/fall_outdoorsTileSheet.pt-BR.png"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Maps/spring_outdoorsTileSheet",
+    	"FromFile": "assets/Maps/spring_outdoorsTileSheet.pt-BR.png"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Maps/summer_outdoorsTileSheet",
+    	"FromFile": "assets/Maps/summer_outdoorsTileSheet.pt-BR.png"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Maps/winter_outdoorsTileSheet",
+    	"FromFile": "assets/Maps/winter_outdoorsTileSheet.pt-BR.png"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Maps/MovieTheaterJoja_TileSheet",
+    	"FromFile": "assets/Maps/MovieTheaterJoja_TileSheet_international.png"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Strings/animationDescriptions",
+    	"FromFile": "assets/Strings/animationDescriptions.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Strings/Buildings",
+    	"FromFile": "assets/Strings/Buildings.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Strings/Characters",
+    	"FromFile": "assets/Strings/Characters.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Strings/Events",
+    	"FromFile": "assets/Strings/Events.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Strings/FarmAnimals",
+    	"FromFile": "assets/Strings/FarmAnimals.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Strings/Locations",
+    	"FromFile": "assets/Strings/Locations.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Strings/Notes",
+    	"FromFile": "assets/Strings/Notes.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Strings/Objects",
+    	"FromFile": "assets/Strings/Objects.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Strings/Quests",
+    	"FromFile": "assets/Strings/Quests.xnb"
+    },
+    {
+    	"Action": "Load",
+    	"Target": "Strings/SpeechBubbles",
+    	"FromFile": "assets/Strings/SpeechBubbles.xnb"
+    },
+
+   ]
+}
