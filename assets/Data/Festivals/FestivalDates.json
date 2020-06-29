@@ -1,0 +1,28 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "spring13": "Egg Festival",
+        "spring24": "Flower Dance",
+        "summer11": "Luau",
+        "summer28": "Dance of the Moonlight Jellies",
+        "fall16": "Stardew Valley Fair",
+        "fall27": "Spirit's Eve",
+        "winter8": "Festival of Ice",
+        "winter25": "Feast of the Winter Star"
+    }
+}
