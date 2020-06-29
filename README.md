@@ -1,2 +1,2 @@
 # SVModIndo
- Mengubah isi konten Stradew Valley dari Bahasa Inggris ke Bahasa Indonesia
+ Mengubah isi konten Stardew Valley dari Bahasa Inggris ke Bahasa Indonesia
