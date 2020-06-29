@@ -1,0 +1,30 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Fri.000": "What a lovely loom. I'm in heaven right now.",
+        "marriage_Mon.002": "Gus seems to have problems organizing everything without me around.",
+        "winter_11.000": "Most of us visit the doctor for a yearly check-up.",
+        "marriage_Fri.001": "I come here to smell the fruit.",
+        "winter_11.001": "Doctor, I'd like to go with the 'natural remedy' if possible.",
+        "marriage_Mon.001": "I'm trying to get a good walk in today. My legs feel like cannelloni.",
+        "marriage_Fri.000": "I'm just looking for mermaids.",
+        "marriage_Mon.000": "It's good to the visit the old house. It's full of memories.",
+        "marriage_Fri.002": "Friday nights are busy, so I'm just helping out for old time's sake. It's fun!$h",
+        "winter_15.000": "I think this boat's my favorite. It's so unique!"
+    }
+}

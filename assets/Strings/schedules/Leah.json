@@ -1,0 +1,24 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "spring_16.001": "Do I look healthy, Doctor Harvey?",
+        "marriage_Mon.000": "Hello, @. I'm just enjoying the fresh air for a while. I was starting to get cabin fever at home.",
+        "winter_15.000": "Hmmm... a Lupini original? Not bad...",
+        "spring_16.000": "Hi. Here to see the doctor?"
+    }
+}

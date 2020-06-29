@@ -1,0 +1,26 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_18.000": "I have to visit the doctor today, but I'm not afraid!",
+        "winter_15.001": "I wish I was old enough to see the mermaid show...$s",
+        "winter_18.001": "Can you show me how this tool works, Doctor Harvey?",
+        "summer.000": "1... 2... 3... 4... Here comes a wave! *giggle*$h",
+        "winter_15.000": "1... 2... 3... 4... Oh no! I messed up again.",
+        "spring.000": "1... 2... 3... 4... Oh no! I messed up again."
+    }
+}

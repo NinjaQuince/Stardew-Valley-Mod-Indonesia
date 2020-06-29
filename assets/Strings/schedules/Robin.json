@@ -1,0 +1,24 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "summer_18.001": "Nothing bad to report, Doc. I feel as healthy as ever.",
+        "summer_18.000": "What's a healthy young person like you doing here?",
+        "Tue.000": "We meet every week to encourage each other to stay healthy.",
+        "winter_16.000": "My favorite thing is seeing the boats. The creaking sound of the wood is strangely comforting."
+    }
+}
