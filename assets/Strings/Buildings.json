@@ -1,33 +1,15 @@
 {
-    "header": {
-        "target": "w",
-        "formatVersion": 5,
-        "hidef": true,
-        "compressed": 128
-    },
-    "readers": [
-        {
-            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "version": 0
-        },
-        {
-            "type": "Microsoft.Xna.Framework.Content.StringReader",
-            "version": 0
-        }
-    ],
-    "content": {
-        "UnderConstruction": "Under construction.",
-        "DismountBeforeEntering": "Dismount before entering",
-        "PiecesOfHay": "Pieces of Hay: {0}/{1}",
-        "AddedHay": "Added {0} pieces of hay to the silo.",
-        "MillFull": "No space left",
-        "CantMill": "Can't be milled",
-        "NeedSilo": "Silo Required",
-        "CantEnter": "Can't enter right now",
-        "WrongFishType": "Your {0} doesn't want to live in a {1} pond.",
-        "WrongFishTypeCoral": "{0} can only be placed in a {0} Pond.",
-        "CantPutInPonds": "The {0} wouldn't be happy in there.",
-        "NoFish": "Fish can be placed into this pond.",
-        "PondFull": "This pond is full."
-    }
+  "UnderConstruction": "Under construction.",
+  "DismountBeforeEntering": "Dismount before entering",
+  "PiecesOfHay": "Pieces of Hay: {0}/{1}",
+  "AddedHay": "Added {0} pieces of hay to the silo.",
+  "MillFull": "No space left",
+  "CantMill": "Can't be milled",
+  "NeedSilo": "Silo Required",
+  "CantEnter": "Can't enter right now",
+  "WrongFishType": "Your {0} doesn't want to live in a {1} pond.",
+  "WrongFishTypeCoral": "{0} can only be placed in a {0} Pond.",
+  "CantPutInPonds": "The {0} wouldn't be happy in there.",
+  "NoFish": "Fish can be placed into this pond.",
+  "PondFull": "This pond is full."
 }
