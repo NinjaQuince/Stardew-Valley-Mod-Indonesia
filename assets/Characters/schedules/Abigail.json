@@ -1,0 +1,22 @@
+{
+  "rain": "900 SeedShop 9 5 0/1100 SeedShop 13 20 0/1300 SeedShop 39 5 0/1500 SeedShop 7 9 2/1900 SeedShop 6 4 0/2200 SeedShop 1 9 3 abigail_sleep",
+  "rain2": "900 SeedShop 34 5 0/1100 SeedShop 9 17 3/1400 Saloon 42 17 2 abigail_sit_down/2000 SeedShop 1 9 3 abigail_sleep",
+  "winter_15": "900 SeedShop 39 5 0/1030 ScienceHouse 5 19 1/1430 Beach 30 34 2 \"Strings\\schedules\\Abigail:winter_15.000\"/2400 SeedShop 1 9 3 abigail_sleep",
+  "marriage_Mon": "830 SeedShop 6 19 0 \"Strings\\schedules\\Abigail:marriage_Mon.000\"/1300 Town 47 87 0 \"Strings\\schedules\\Abigail:marriage_Mon.001\"/1700 Saloon 33 18 0 \"Strings\\schedules\\Abigail:marriage_Mon.002\"/2030 BusStop -1 23 3",
+  "marriage_Fri": "800 SeedShop 36 9 0 \"Strings\\schedules\\Abigail:marriage_Fri.000\"/1100 Mountain 49 31 2 abigail_flute/1500 Saloon 42 17 2 abigail_sit_down \"Strings\\schedules\\Abigail:marriage_Fri.001\"/2030 BusStop -1 23 3",
+  "fall_Mon": "900 SeedShop 10 5 0/1100 Beach 13 39 2/1800 SeedShop 1 9 3 abigail_sleep",
+  "6": "900 SeedShop 39 5 0/1030 SeedShop 2 20 3/1500 Mountain 46 23 2 abigail_flute/2000 SeedShop 1 9 3 abigail_sleep",
+  "16": "GOTO 6",
+  "spring_4": "900 SeedShop 11 5 0 \"Strings\\schedules\\Abigail:spring_4.000\"/1230 Hospital 13 14 0 \"Strings\\schedules\\Abigail:spring_4.001\"/1330 Hospital 4 6 1 \"Strings\\schedules\\Abigail:spring_4.002\"/1600 SeedShop 10 5 0/2000 SeedShop 1 9 3 abigail_sleep",
+  "Sun": "900 SeedShop 4 5 0/1030 SeedShop 20 5 1 \"Strings\\schedules\\Abigail:Sun.000\"/1300 Forest 14 40 2/2000 SeedShop 1 9 3 abigail_sleep",
+  "11_6": "GOTO spring",
+  "25_6": "GOTO spring",
+  "11": "NOT friendship Sebastian 6/1000 SebastianRoom 5 4 2 abigail_sit_down/1700 SeedShop 1 9 3 abigail_sleep",
+  "25": "NOT friendship Sebastian 6/GOTO 11",
+  "Wed": "1000 ArchaeologyHouse 11 9 0/1800 Town 47 87 0/2200 SeedShop 1 9 3 abigail_sleep",
+  "Fri": "900 SeedShop 34 5 0/1100 SeedShop 9 17 3/1500 Saloon 42 17 2 abigail_sit_down/2100 SeedShop 1 9 3 abigail_sleep",
+  "fall": "900 SeedShop 39 5 0/1030 SeedShop 2 20 3/1300 BusStop 22 5 2/1700 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3 abigail_sleep",
+  "winter": "900 SeedShop 39 5 0/1030 ScienceHouse 5 19 1/1430 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3 abigail_sleep",
+  "summer": "900 SeedShop 39 5 0/1030 Railroad 30 45 0/1400 Mountain 49 31 1/1740 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3 abigail_sleep",
+  "spring": "900 SeedShop 39 5 0/1030 SeedShop 2 20 3/1300 Town 73 54 2/1630 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3 abigail_sleep"
+}
