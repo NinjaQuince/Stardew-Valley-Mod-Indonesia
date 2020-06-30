@@ -1,142 +1,200 @@
 {
-   "Format": "1.11.0",
-   "Changes": [
-
-   	{
-    	"Action": "Load",
-    	"Target": "characters/Dialogue/Emily",
-    	"FromFile": "assets/characters/Dialogue/Emily.json"
+  "Format": "1.11.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Abigail",
+      "FromFile": "assets/Characters/Dialogue/Abigail.json"
     },
     {
-    	"Action": "Load",
-    	"Target": "characters/Dialogue/Haley",
-    	"FromFile": "assets/characters/Dialogue/Haley.json"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Dwarf",
+      "FromFile": "assets/Characters/Dialogue/Dwarf.json"
     },
     {
-    	"Action": "Load",
-    	"Target": "characters/Dialogue/Penny",
-    	"FromFile": "assets/characters/Dialogue/Penny.json"
-    },
-	{
-    	"Action": "Load",
-    	"Target": "characters/Dialogue/MarriageDialogueEmily",
-    	"FromFile": "assets/characters/Dialogue/MarriageDialogueEmily.json"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Gil",
+      "FromFile": "assets/Characters/Dialogue/Gil.json"
     },
     {
-    	"Action": "Load",
-    	"Target": "characters/Dialogue/MarriageDialogueHaley",
-    	"FromFile": "assets/characters/Dialogue/MarriageDialogueHaley.json"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Emily",
+      "FromFile": "assets/Characters/Dialogue/Emily.json"
     },
     {
-    	"Action": "Load",
-    	"Target": "characters/Dialogue/MarriageDialoguePenny",
-    	"FromFile": "assets/characters/Dialogue/MarriageDialoguePenny.json"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Haley",
+      "FromFile": "assets/Characters/Dialogue/Haley.json"
     },
     {
-    	"Action": "Load",
-    	"Target": "characters/Dialogue/MarriageDialogue",
-    	"FromFile": "assets/characters/Dialogue/MarriageDialogue.json"
-    },    
-    {
-    	"Action": "Load",
-    	"Target": "Data/Events/Farm",
-    	"FromFile": "assets/Data/Events/Farm.json"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Jas",
+      "FromFile": "assets/Characters/Dialogue/Jas.json"
     },
     {
-    	"Action": "Load",
-        "Target": "LooseSprites/Billboard",
-        "FromFile": "assets/LooseSprites/Billboard.png"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Krobus",
+      "FromFile": "assets/Characters/Dialogue/Krobus.json"
     },
     {
-    	"Action": "Load",
-        "Target": "Minigames/TitleButtons",
-        "FromFile": "assets/Minigames/TitleButtons.png"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogue",
+      "FromFile": "assets/Characters/Dialogue/MarriageDialogue.json"
     },
     {
-    	"Action": "Load",
-         "Target": "LooseSprites/JojaCDForm",
-         "FromFile": "assets/LooseSprites/JojaCDForm.png"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueEmily",
+      "FromFile": "assets/Characters/Dialogue/MarriageDialogueEmily.json"
     },
     {
-    	"Action": "Load",
-    	"Target": "LooseSprites/CraneGame",
-    	"FromFile": "assets/LooseSprites/CraneGame_international.png"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueHaley",
+      "FromFile": "assets/Characters/Dialogue/MarriageDialogueHaley.json"
     },
     {
-    	"Action": "Load",
-    	"Target": "Maps/fall_outdoorsTileSheet",
-    	"FromFile": "assets/Maps/fall_outdoorsTileSheet.pt-BR.png"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialoguePenny",
+      "FromFile": "assets/Characters/Dialogue/MarriageDialoguePenny.json"
     },
     {
-    	"Action": "Load",
-    	"Target": "Maps/spring_outdoorsTileSheet",
-    	"FromFile": "assets/Maps/spring_outdoorsTileSheet.pt-BR.png"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Mister Qi",
+      "FromFile": "assets/Characters/Dialogue/Mister Qi.json"
     },
     {
-    	"Action": "Load",
-    	"Target": "Maps/summer_outdoorsTileSheet",
-    	"FromFile": "assets/Maps/summer_outdoorsTileSheet.pt-BR.png"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Penny",
+      "FromFile": "assets/Characters/Dialogue/Penny.json"
     },
     {
-    	"Action": "Load",
-    	"Target": "Maps/winter_outdoorsTileSheet",
-    	"FromFile": "assets/Maps/winter_outdoorsTileSheet.pt-BR.png"
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Vincent",
+      "FromFile": "assets/Characters/Dialogue/Vincent.json"
     },
     {
-    	"Action": "Load",
-    	"Target": "Maps/MovieTheaterJoja_TileSheet",
-    	"FromFile": "assets/Maps/MovieTheaterJoja_TileSheet_international.png"
+      "Action": "Load",
+      "Target": "Data/Events/Farm",
+      "FromFile": "assets/Data/Events/Farm.json"
     },
     {
-    	"Action": "Load",
-    	"Target": "Strings/animationDescriptions",
-    	"FromFile": "assets/Strings/animationDescriptions.json"
+      "Action": "Load",
+      "Target": "LooseSprites/Billboard",
+      "FromFile": "assets/LooseSprites/Billboard.png"
     },
     {
-    	"Action": "Load",
-    	"Target": "Strings/Buildings",
-    	"FromFile": "assets/Strings/Buildings.json"
+      "Action": "Load",
+      "Target": "LooseSprites/ControllerMaps",
+      "FromFile": "assets/LooseSprites/ControllerMaps.png"
     },
     {
-    	"Action": "Load",
-    	"Target": "Strings/Characters",
-    	"FromFile": "assets/Strings/Characters.json"
+      "Action": "Load",
+      "Target": "LooseSprites/CraneGame",
+      "FromFile": "assets/LooseSprites/CraneGame.png"
     },
     {
-    	"Action": "Load",
-    	"Target": "Strings/Events",
-    	"FromFile": "assets/Strings/Events.json"
+      "Action": "Load",
+      "Target": "LooseSprites/JojaCDForm",
+      "FromFile": "assets/LooseSprites/JojaCDForm.png"
     },
     {
-    	"Action": "Load",
-    	"Target": "Strings/FarmAnimals",
-    	"FromFile": "assets/Strings/FarmAnimals.json"
+      "Action": "Load",
+      "Target": "LooseSprites/JunimoNote",
+      "FromFile": "assets/LooseSprites/JunimoNote.png"
     },
     {
-    	"Action": "Load",
-    	"Target": "Strings/Locations",
-    	"FromFile": "assets/Strings/Locations.json"
+      "Action": "Load",
+      "Target": "Maps/fall_outdoorsTileSheet",
+      "FromFile": "assets/Maps/fall_outdoorsTileSheet.pt-BR.png"
     },
     {
-    	"Action": "Load",
-    	"Target": "Strings/Notes",
-    	"FromFile": "assets/Strings/Notes.json"
+      "Action": "Load",
+      "Target": "Maps/spring_outdoorsTileSheet",
+      "FromFile": "assets/Maps/spring_outdoorsTileSheet.pt-BR.png"
     },
     {
-    	"Action": "Load",
-    	"Target": "Strings/Objects",
-    	"FromFile": "assets/Strings/Objects.json"
+      "Action": "Load",
+      "Target": "Maps/summer_outdoorsTileSheet",
+      "FromFile": "assets/Maps/summer_outdoorsTileSheet.pt-BR.png"
     },
     {
-    	"Action": "Load",
-    	"Target": "Strings/Quests",
-    	"FromFile": "assets/Strings/Quests.json"
+      "Action": "Load",
+      "Target": "Maps/winter_outdoorsTileSheet",
+      "FromFile": "assets/Maps/winter_outdoorsTileSheet.pt-BR.png"
     },
     {
-    	"Action": "Load",
-    	"Target": "Strings/SpeechBubbles",
-    	"FromFile": "assets/Strings/SpeechBubbles.json"
+      "Action": "Load",
+      "Target": "Maps/MovieTheaterJoja_TileSheet",
+      "FromFile": "assets/Maps/MovieTheaterJoja_TileSheet.png"
     },
-
-   ]
+    {
+      "Action": "Load",
+      "Target": "Minigames/Intro",
+      "FromFile": "assets/Minigames/Intro.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Minigames/jojacorps",
+      "FromFile": "assets/Minigames/jojacorps.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Minigames/TitleButtons",
+      "FromFile": "assets/Minigames/TitleButtons.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/animationDescriptions",
+      "FromFile": "assets/Strings/animationDescriptions.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Buildings",
+      "FromFile": "assets/Strings/Buildings.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Characters",
+      "FromFile": "assets/Strings/Characters.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/credits",
+      "FromFile": "assets/Strings/credits.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Events",
+      "FromFile": "assets/Strings/Events.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/FarmAnimals",
+      "FromFile": "assets/Strings/FarmAnimals.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Locations",
+      "FromFile": "assets/Strings/Locations.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Notes",
+      "FromFile": "assets/Strings/Notes.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Objects",
+      "FromFile": "assets/Strings/Objects.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Quests",
+      "FromFile": "assets/Strings/Quests.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/SpeechBubbles",
+      "FromFile": "assets/Strings/SpeechBubbles.json"
+    }
+  ]
 }
