@@ -1,0 +1,16 @@
+{
+  "rain": "800 ScienceHouse 6 4 0/1000 ScienceHouse 9 6 1/1230 ScienceHouse 2 21 1/1430 ScienceHouse 19 18 0/1630 ScienceHouse 5 6 1 maru_tinker/1800 ScienceHouse 2 6 3/2000 ScienceHouse 9 6 1/2300 ScienceHouse 2 4 3 maru_sleep",
+  "marriage_Mon": "800 ScienceHouse 6 20 0 \"Strings\\schedules\\Maru:marriage_Mon.000\"/1200 ScienceHouse 16 18 0 \"Strings\\schedules\\Maru:marriage_Mon.001\"/1400 Town 63 15 2 maru_sit_down \"Strings\\schedules\\Maru:marriage_Mon.002\"/1800 BusStop -1 23 3",
+  "marriageJob": "730 Hospital 6 15 2 \"Strings\\schedules\\Maru:marriageJob.000\"/1400 Hospital 9 15 3 \"Strings\\schedules\\Maru:marriageJob.001\"/1600 Hospital 8 17 1 \"Strings\\schedules\\Maru:marriageJob.002\"/1640 BusStop -1 23 3",
+  "Tue": "730 Hospital 6 15 2/1400 Hospital 9 15 3/1600 Hospital 8 17 1/1640 ScienceHouse 26 13 1/2200 ScienceHouse 9 6 1/2400 ScienceHouse 2 4 3 maru_sleep",
+  "Thu": "GOTO Tue",
+  "Mon": "800 ScienceHouse 5 6 1 maru_tinker/1000 ScienceHouse 19 18 0/1330 Town 43 77 2 maru_sit_down/1830 ScienceHouse 5 6 1 maru_tinker/2300 ScienceHouse 2 4 3 maru_sleep",
+  "Sun": "GOTO Mon",
+  "Summer_Mon": "800 ScienceHouse 5 6 1 maru_tinker/1000 ScienceHouse 19 18 0/1310 Town 64 16 3/1830 ScienceHouse 5 6 1 maru_tinker/2300 ScienceHouse 2 4 3 maru_sleep",
+  "Summer_Sun": "800 ScienceHouse 5 6 1 maru_tinker/1000 ScienceHouse 19 18 0/1230 ScienceHouse 7 6 1/1810 ScienceHouse 5 6 1 maru_tinker/2300 ScienceHouse 2 4 3 maru_sleep",
+  "winter": "800 ScienceHouse 5 6 1 maru_tinker/900 ScienceHouse 19 18 0/1100 CommunityCenter 15 27 0/1600 ScienceHouse 5 6 1 maru_tinker/2200 ScienceHouse 2 4 3 maru_sleep",
+  "winter_16": "800 ScienceHouse 5 6 1 maru_tinker/900 ScienceHouse 19 18 0/1100 ScienceHouse 5 6 1 maru_tinker/1540 Beach 11 33 3 \"Strings\\schedules\\Maru:winter_16.000\"/2330 ScienceHouse 2 4 3 maru_sleep",
+  "CommunityCenter_Replacement": "ScienceHouse 5 19 1",
+  "summer": "800 ScienceHouse 5 6 1 maru_tinker/1000 ScienceHouse 19 18 0/1400 Mountain 55 31 0/1900 Mountain 8 23 3 \"Strings\\schedules\\Maru:summer.000\"/2400 ScienceHouse 2 4 3 maru_sleep",
+  "spring": "800 ScienceHouse 5 6 1 maru_tinker/1000 ScienceHouse 19 18 0/1400 Town 63 15 2 maru_sit_down/1800 ScienceHouse 5 6 1 maru_tinker/2200 ScienceHouse 2 4 3 maru_sleep"
+}

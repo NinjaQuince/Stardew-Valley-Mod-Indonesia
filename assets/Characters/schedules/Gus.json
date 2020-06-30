@@ -1,0 +1,8 @@
+{
+  "rain": "GOTO spring",
+  "Mon": "800 SeedShop 13 23 0 \"Strings\\schedules\\Gus:Mon.000\"/1100 Saloon 10 18 2/1830 Saloon 12 18 0/1850 Saloon 10 18 2/1940 Saloon 12 18 0/1950 Saloon 10 18 2/2030 Saloon 12 18 0/2040 Saloon 10 18 2/2400 Saloon 23 4 1 gus_sleep",
+  "Tue": "800 Saloon 16 4 2 gus_sit_down/830 CommunityCenter 5 5 0 square_5_1_0/1230 Saloon 10 18 2/1830 Saloon 12 18 0/1850 Saloon 10 18 2/1940 Saloon 12 18 0/1950 Saloon 10 18 2/2030 Saloon 12 18 0/2040 Saloon 10 18 2/2400 Saloon 23 4 1 gus_sleep",
+  "fall_4": "800 Saloon 16 4 2 gus_sit_down/1030 Hospital 12 14 0 \"Strings\\schedules\\Gus:fall_4.000\"/1330 Hospital 4 6 1 \"Strings\\schedules\\Gus:fall_4.001\"/1600 Saloon 10 18 2/1940 Saloon 12 18 0/1950 Saloon 10 18 2/2030 Saloon 12 18 0/2040 Saloon 10 18 2/2400 Saloon 23 4 1 gus_sleep",
+  "spring": "800 Saloon 16 4 2 gus_sit_down/1200 Saloon 14 18 2 gus_clean/1830 Saloon 12 18 0/1850 Saloon 10 18 2/1940 Saloon 12 18 0/1950 Saloon 10 18 2/2030 Saloon 12 18 0/2040 Saloon 10 18 2/2400 Saloon 23 4 1 gus_sleep",
+  "Sun": "MAIL saloonSportsRoom/GOTO spring/800 Saloon 16 4 2 gus_sit_down/1140 Saloon 34 8 0 \"Strings\\schedules\\Gus:Sun.000\"/1500 Saloon 12 18 0/1850 Saloon 10 18 2/1940 Saloon 12 18 0/1950 Saloon 10 18 2/2030 Saloon 12 18 0/2040 Saloon 10 18 2/2400 Saloon 23 4 1 gus_sleep"
+}

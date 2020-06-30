@@ -1,0 +1,12 @@
+{
+  "rain": "800 JoshHouse 3 17 0 square_3_1_0/1040 JoshHouse 17 22 3/1210 JoshHouse 3 19 2/1630 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1",
+  "2": "800 JoshHouse 3 17 0 square_3_1_0/1030 Hospital 15 15 3 evelyn_sit_left \"Strings\\schedules\\Evelyn:2.000\"/1330 Hospital 4 6 1 \"Strings\\schedules\\Evelyn:2.001\"/1600 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1",
+  "23": "800 JoshHouse 3 17 0 square_3_1_0/1040 Hospital 10 16 0 \"Strings\\schedules\\Evelyn:23.000\"/1330 Hospital 4 7 0 \"Strings\\schedules\\Evelyn:23.001\"/1610 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1",
+  "winter_17": "800 JoshHouse 3 17 0 square_3_1_0/1040 JoshHouse 17 22 3/1210 JoshHouse 3 19 2/1300 JoshHouse 20 20 3 evelyn_sit_left/1630 Beach 12 39 2 \"Strings\\schedules\\Evelyn:winter_17.000\"/2340 JoshHouse 2 5 1",
+  "winter": "800 JoshHouse 3 17 0 square_3_1_0/1040 JoshHouse 17 22 3/1210 JoshHouse 3 19 2/1300 JoshHouse 20 20 3 evelyn_sit_left/1630 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1",
+  "Thu": "800 JoshHouse 3 17 0 square_3_1_0/1040 JoshHouse 17 22 3/1210 CommunityCenter 18 25 3 evelyn_sit_left \"Strings\\schedules\\Evelyn:Thu.000\"/1630 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1",
+  "Sat": "GOTO Thu",
+  "Mon": "GOTO Thu",
+  "spring": "800 JoshHouse 3 17 0 square_3_1_0/1040 JoshHouse 17 22 3/1210 JoshHouse 3 19 2/1300 Town 36 78 3/1630 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1",
+  "summer": "800 JoshHouse 3 17 0 square_3_1_0/1040 JoshHouse 17 22 3/1210 JoshHouse 3 19 2/1300 Town 20 62 3 evelyn_garden/1630 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1"
+}

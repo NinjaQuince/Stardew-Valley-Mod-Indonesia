@@ -1,0 +1,5 @@
+{
+  "rain": "GOTO spring",
+  "Fri": "700 SeedShop 10 20 0/830 SeedShop 4 17 2/1700 Saloon 16 20 0 \"Strings\\schedules\\Pierre:Fri.000\"/2250 SeedShop 24 4 1 pierre_sleep",
+  "spring": "700 SeedShop 10 20 0/830 SeedShop 4 17 2/1700 SeedShop 11 20 0/1900 SeedShop 37 5 0/2100 SeedShop 20 5 0/2300 SeedShop 24 4 1 pierre_sleep"
+}

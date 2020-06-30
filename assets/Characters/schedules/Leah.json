@@ -1,0 +1,14 @@
+{
+  "rain": "GOTO Fri",
+  "marriage_Mon": "830 Forest 63 50 2 \"Strings\\schedules\\Leah:marriage_Mon.000\"/1500 Forest 106 34 2/1730 BusStop -1 23 3",
+  "winter_15": "900 LeahHouse 3 7 3 leah_sculpt/1200 LeahHouse 6 5 0/1400 LeahHouse 9 5 0/1600 Beach 41 35 0 \"Strings\\schedules\\Leah:winter_15.000\"/2340 LeahHouse 2 4 3 leah_sleep",
+  "spring_16": "900 LeahHouse 3 7 3 leah_sculpt/1030 Hospital 12 14 0 \"Strings\\schedules\\Leah:spring_16.000\"/1330 Hospital 4 6 1 \"Strings\\schedules\\Leah:spring_16.001\"/1600 Saloon 2 20 1/2340 LeahHouse 2 4 3 leah_sleep",
+  "winter": "GOTO rain",
+  "fall": "900 LeahHouse 3 7 3 leah_sculpt/1200 Town 86 66 3 square_1_5_3/1900 LeahHouse 8 5 0/2200 LeahHouse 13 10 2/2400 LeahHouse 2 4 3 leah_sleep",
+  "Mon": "900 LeahHouse 3 7 3 leah_sculpt/1100 SeedShop 11 23 0 square_3_1_0/1700 LeahHouse 8 5 0/2200 LeahHouse 13 10 2/2400 LeahHouse 2 4 3 leah_sleep",
+  "Fri": "900 LeahHouse 3 7 3 leah_sculpt/1200 LeahHouse 6 5 0/1400 LeahHouse 9 5 0/1600 Saloon 2 20 1/2340 LeahHouse 2 4 3 leah_sleep",
+  "Sat": "GOTO Fri",
+  "summer": "MAIL beachBridgeFixed/GOTO summer_noBridge/900 LeahHouse 3 7 3 leah_sculpt/1200 Beach 72 18 2 leah_draw/1900 LeahHouse 8 5 0/2200 LeahHouse 13 10 2/2400 LeahHouse 2 4 3 leah_sleep",
+  "summer_noBridge": "900 LeahHouse 3 7 3 leah_sculpt/1200 Beach 38 24 2 leah_draw/1900 LeahHouse 8 5 0/2200 LeahHouse 13 10 2/2400 LeahHouse 2 4 3 leah_sleep",
+  "spring": "900 LeahHouse 3 7 3 leah_sculpt/1200 Forest 68 50 2/1500 Forest 33 25 2 leah_draw/1830 Forest 21 29 1/1930 LeahHouse 8 5 0/2200 LeahHouse 13 10 2/2400 LeahHouse 2 4 3 leah_sleep"
+}

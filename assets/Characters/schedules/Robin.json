@@ -1,0 +1,9 @@
+{
+  "rain": "800 ScienceHouse 8 18 2/1700 ScienceHouse 29 9 0/1930 ScienceHouse 16 5 0/2100 ScienceHouse 21 4 1 robin_sleep",
+  "Mon": "800 ScienceHouse 8 18 2/1700 CommunityCenter 9 19 3/1940 ScienceHouse 16 5 0/2200 ScienceHouse 21 4 1 robin_sleep",
+  "Tue": "930 SeedShop 27 18 0/1300 SeedShop 27 22 2 robin_exercise/1600 SeedShop 24 16 0 \"Strings\\schedules\\Robin:Tue.000\"/1800 ScienceHouse 16 5 0/2100 ScienceHouse 21 4 1 robin_sleep",
+  "summer_18": "700 ScienceHouse 8 18 2/800 Hospital 12 14 0 \"Strings\\schedules\\Robin:summer_18.000\"/1330 Hospital 4 6 1 \"Strings\\schedules\\Robin:summer_18.001\"/1600 ScienceHouse 16 5 0/2100 ScienceHouse 21 4 1 robin_sleep",
+  "Fri": "800 ScienceHouse 8 18 2/1600 Saloon 22 22 1/1920 Saloon 23 22 1 robin_dance/2100 ScienceHouse 21 4 1 robin_sleep",
+  "winter_16": "800 ScienceHouse 8 18 2/1700 Beach 13 31 1 \"Strings\\schedules\\Robin:winter_16.000\"/2330 ScienceHouse 21 4 1 robin_sleep",
+  "spring": "800 ScienceHouse 8 18 2/1700 Mountain 29 36 2/1930 ScienceHouse 16 5 0/2100 ScienceHouse 21 4 1 robin_sleep"
+}

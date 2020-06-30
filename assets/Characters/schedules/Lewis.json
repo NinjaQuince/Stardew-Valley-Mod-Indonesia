@@ -1,0 +1,18 @@
+{
+  "rain": "800 ManorHouse 8 5 0/1000 ManorHouse 7 5 0 square_5_1_0/1400 Saloon 12 20 0/1950 ManorHouse 7 5 0 square_5_1_0/2200 ManorHouse 22 4 1 lewis_sleep",
+  "fall_9": "900 AnimalShop 17 5 0/1030 Hospital 12 14 0/1330 Hospital 4 6 1 \"Strings\\schedules\\Lewis:fall_9.000\"/1600 AnimalShop 24 15 0/2100 AnimalShop 12 5 3",
+  "winter_16": "800 ManorHouse 8 5 0/1000 Town 62 88 0/1040 Town 65 86 3 lewis_garden/1140 Town 30 56 2/1400 Town 41 57 0/1620 Beach 40 34 2 \"Strings\\schedules\\Lewis:winter_16.000\"/2300 ManorHouse 22 4 1 lewis_sleep",
+  "Tue": "800 ManorHouse 8 5 0/1000 Town 62 88 0/1040 Town 65 86 3 lewis_garden/1140 SeedShop 6 19 0 \"Strings\\schedules\\Lewis:Tue.000\"/1600 ManorHouse 7 5 0 square_5_1_0/2100 ManorHouse 3 6 0/2200 ManorHouse 22 4 1 lewis_sleep",
+  "6": "800 ManorHouse 8 5 0/1000 Blacksmith 4 15 0 \"Strings\\schedules\\Lewis:6.000\"/1300 ArchaeologyHouse 2 10 0 \"Strings\\schedules\\Lewis:6.001\"/1600 ManorHouse 7 5 0 square_5_1_0/2100 ManorHouse 3 6 0/2200 ManorHouse 22 4 1 lewis_sleep",
+  "20": "GOTO 6",
+  "3": "800 ManorHouse 8 5 0/1000 AnimalShop 11 16 0 \"Strings\\schedules\\Lewis:3.000\"/1600 ManorHouse 7 5 0 square_5_1_0/2100 ManorHouse 3 6 0/2200 ManorHouse 22 4 1 lewis_sleep",
+  "24": "GOTO 3",
+  "1": "800 ManorHouse 8 5 0/1000 FishShop 4 6 3 \"Strings\\schedules\\Lewis:1.000\"/1600 ManorHouse 7 5 0 square_5_1_0/2100 ManorHouse 3 6 0/2200 ManorHouse 22 4 1 lewis_sleep",
+  "15": "800 ManorHouse 8 5 0/1000 ScienceHouse 7 20 0 \"Strings\\schedules\\Lewis:15.000\"/1600 ManorHouse 7 5 0 square_5_1_0/2100 ManorHouse 3 6 0/2200 ManorHouse 22 4 1 lewis_sleep",
+  "Fri": "800 ManorHouse 8 5 0/1000 Town 62 88 0/1040 Town 65 86 3 lewis_garden/1140 Town 30 56 2/1400 Town 29 27 3/1700 Saloon 9 22 3 lewis_drink/2300 ManorHouse 22 4 1 lewis_sleep",
+  "winter_Sun": "800 ManorHouse 8 5 0/900 ManorHouse 7 5 0 square_5_1_0/1100 Library 22 9 3/1600 ManorHouse 7 5 0 square_5_1_0/2000 ManorHouse 3 6 0/2200 ManorHouse 22 4 1 lewis_sleep",
+  "fall_Sun": "800 ManorHouse 8 5 0/930 Town 62 88 0/1020 Town 65 86 3 lewis_garden/1110 Forest 84 40 2/1600 ManorHouse 7 5 0 square_5_1_0/2000 ManorHouse 3 6 0/2200 ManorHouse 22 4 1 lewis_sleep",
+  "summer_Sun": "800 ManorHouse 8 5 0/1000 Town 62 88 0/1040 Town 65 86 3 lewis_garden/1140 Beach 19 24 2/1600 ManorHouse 7 5 0 square_5_1_0/2000 ManorHouse 3 6 0/2200 ManorHouse 22 4 1 lewis_sleep",
+  "spring": "800 ManorHouse 8 5 0/900 Town 62 88 0/940 Town 65 86 3 lewis_garden/1040 CommunityCenter 55 6 0/1400 CommunityCenter 47 5 0/1440 CommunityCenter 51 4 2/1600 CommunityCenter 47 13 0/1700 CommunityCenter 33 9 0/1830 ManorHouse 3 6 0/2300 ManorHouse 22 4 1 lewis_sleep",
+  "default": "800 ManorHouse 8 5 0/1000 Town 62 88 0/1040 Town 65 86 3 lewis_garden/1140 Town 30 56 2/1400 Town 41 57 0/1600 ManorHouse 7 5 0 square_5_1_0/2000 ManorHouse 3 6 0/2200 ManorHouse 22 4 1 lewis_sleep"
+}

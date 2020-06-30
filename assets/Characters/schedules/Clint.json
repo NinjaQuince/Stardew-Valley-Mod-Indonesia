@@ -1,0 +1,8 @@
+{
+  "rain": "GOTO spring",
+  "winter_16": "900 Blacksmith 3 13 2 \"Strings\\schedules\\Clint:winter_16.000\"/1030 Hospital 12 14 0 \"Strings\\schedules\\Clint:winter_16.001\"/1330 Hospital 4 6 1 \"Strings\\schedules\\Clint:winter_16.002\"/1600 Saloon 19 23 3/2400 Blacksmith 10 4 1 clint_sleep",
+  "Fri": "850 CommunityCenter 62 14 0 square_3_1_0/1700 Saloon 19 23 3/2400 Blacksmith 10 4 1 clint_sleep",
+  "CommunityCenter_Replacement": "JojaMart 27 5 0",
+  "winter_15": "850 Blacksmith 3 13 2/1700 Beach 37 33 1 \"Strings\\schedules\\Clint:winter_15.000\"/2400 Blacksmith 10 4 1 clint_sleep",
+  "spring": "850 Blacksmith 3 13 2/1700 Blacksmith 8 12 1 clint_hammer/1900 Saloon 19 23 3/2400 Blacksmith 10 4 1 clint_sleep"
+}

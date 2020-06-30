@@ -1,0 +1,21 @@
+{
+  "rain": "1000 SamHouse 15 13 0/1100 SamHouse 17 15 2 sam_guitar/1500 SamHouse 8 6 3 sam_gameboy/1700 SamHouse 17 13 0/1830 SamHouse 22 16 1/2000 SamHouse 22 13 1 sam_sleep",
+  "marriage_Mon": "800 SamHouse 8 5 3 \"Strings\\schedules\\Sam:marriage_Mon.000\"/1100 SamHouse 3 13 2 \"Strings\\schedules\\Sam:marriage_Mon.001\"/1500 BusStop -1 23 3",
+  "marriage_Fri": "800 SamHouse 8 5 3 \"Strings\\schedules\\Sam:marriage_Fri.000\"/1100 Town 43 79 2 sam_skateboarding/1500 Saloon 36 21 3 sam_pool \"Strings\\schedules\\Sam:marriage_Fri.001\"/2100 BusStop -1 23 3",
+  "rain2": "1000 SamHouse 15 13 0/1100 SamHouse 6 13 0/1400 Saloon 38 18 0 \"Strings\\schedules\\Sam:rain2.000\"/1940 SamHouse 22 13 1 sam_sleep",
+  "winter_17": "1000 SamHouse 15 13 0/1040 SamHouse 17 15 2 sam_guitar/1700 Beach 11 34 3 \"Strings\\schedules\\Sam:winter_17.000\"/2400 SamHouse 22 13 1 sam_sleep",
+  "summer": "1000 SamHouse 15 13 0/1040 SamHouse 17 15 2 sam_guitar/1340 Beach 46 24 2/1900 SamHouse 22 16 1/2100 SamHouse 22 13 1 sam_sleep",
+  "fall": "1000 SamHouse 15 13 0/1040 SamHouse 17 15 2 sam_guitar/1320 Forest 66 50 2/1900 SamHouse 22 16 1/2100 SamHouse 22 13 1 sam_sleep",
+  "winter": "1000 SamHouse 15 13 0/1040 SamHouse 17 15 2 sam_guitar/1320 Saloon 20 19 3/1900 SamHouse 22 16 1/2100 SamHouse 22 13 1 sam_sleep",
+  "fall_11": "1000 SamHouse 15 13 0 \"Strings\\schedules\\Sam:fall_11.000\"/1130 Hospital 14 15 3 sam_gameboy/1330 Hospital 4 6 1 \"Strings\\schedules\\Sam:fall_11.001\"/1600 Town 11 94 2 \"Strings\\schedules\\Sam:fall_11.002\"/2100 SamHouse 22 13 1 sam_sleep",
+  "Sat": "800 Town 25 98 2/1100 Town 18 94 3 sam_gameboy/1230 SamHouse 17 15 2 sam_guitar/1500 SamHouse 19 13 3/1800 Town 12 94 3/1940 SamHouse 22 13 1 sam_sleep",
+  "9_6": "GOTO spring",
+  "23_6": "GOTO spring",
+  "9": "NOT friendship Penny 6/900 SamHouse 15 13 0/1100 Town 79 95 2/1600 Town 24 97 3 sam_gameboy/1900 SamHouse 17 13 0/2130 SamHouse 22 13 1 sam_sleep",
+  "23": "NOT friendship Penny 6/GOTO 9",
+  "Mon": "1000 SamHouse 17 15 2/1100 JojaMart 16 5 2 sam_work/1600 SamHouse 17 13 0/2130 SamHouse 22 13 1 sam_sleep",
+  "Wed": "GOTO Mon",
+  "JojaMart_Replacement": "ArchaeologyHouse 40 4 2",
+  "Fri": "1000 SamHouse 17 15 2 sam_guitar/1100 Town 14 90 2 sam_skateboarding/1500 Saloon 36 21 3 sam_pool/2120 SamHouse 22 13 1 sam_sleep",
+  "spring": "1000 SamHouse 15 13 0/1040 SamHouse 17 15 2 sam_guitar/1340 Town 71 99 2/1830 SamHouse 22 16 1/2100 SamHouse 22 13 1 sam_sleep"
+}

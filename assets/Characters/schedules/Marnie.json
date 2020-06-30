@@ -1,0 +1,13 @@
+{
+  "rain": "GOTO spring",
+  "winter_18": "900 AnimalShop 17 5 0 \"Strings\\schedules\\Marnie:winter_18.000\"/1040 Hospital 13 14 3 \"Strings\\schedules\\Marnie:winter_18.001\"/1330 Hospital 2 7 1 \"Strings\\schedules\\Marnie:winter_18.002\"/1610 AnimalShop 24 15 0/2100 AnimalShop 12 5 3 marnie_sleep",
+  "winter_16": "830 AnimalShop 17 5 0/850 AnimalShop 12 14 2/1600 Beach 37 31 0 \"Strings\\schedules\\Marnie:winter_16.000\"/2340 AnimalShop 12 5 3 marnie_sleep",
+  "fall_18": "900 AnimalShop 17 5 0/1030 Hospital 12 14 0/1330 Hospital 4 6 1 \"Strings\\schedules\\Marnie:fall_18.000\"/1600 AnimalShop 24 15 0/2100 AnimalShop 12 5 3 marnie_sleep",
+  "Tue": "900 AnimalShop 17 5 0/1000 SeedShop 23 16 2/1300 SeedShop 28 17 2 marnie_exercise/1600 SeedShop 25 15 3 \"Strings\\schedules\\Marnie:Tue.000\"/1810 AnimalShop 24 15 0/2100 AnimalShop 12 5 3 marnie_sleep",
+  "Mon": "810 SeedShop 11 20 0/1200 AnimalShop 24 15 0/2100 AnimalShop 12 5 3 marnie_sleep",
+  "Wed": "GOTO Sat",
+  "Fri": "830 AnimalShop 17 5 0/850 AnimalShop 12 14 2/1600 AnimalShop 17 8 1/1700 Saloon 8 22 1 marnie_drink/2300 AnimalShop 12 5 3 marnie_sleep",
+  "Sat": "830 AnimalShop 17 5 0/850 AnimalShop 12 14 2/1600 AnimalShop 17 8 1/1700 Saloon 9 22 1 marnie_drink/2300 AnimalShop 12 5 3 marnie_sleep",
+  "Sun": "GOTO Sat",
+  "spring": "830 AnimalShop 17 5 0/850 AnimalShop 12 14 2/1600 AnimalShop 24 15 0/1800 AnimalShop 17 8 1/2100 AnimalShop 12 5 3 marnie_sleep"
+}

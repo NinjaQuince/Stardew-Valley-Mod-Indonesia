@@ -1,0 +1,14 @@
+{
+  "rain": "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1330 ElliottHouse 1 5 0/1800 ElliottHouse 7 7 2/2000 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1 elliott_sleep",
+  "marriage_Mon": "830 Beach 46 11 2 \"Strings\\schedules\\Elliott:marriage_Mon.000\"/1700 BusStop -1 23 3",
+  "winter_17": "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1130 ArchaeologyHouse 21 11 2 elliott_read/1650 Beach 38 36 2 \"Strings\\schedules\\Elliott:winter_17.000\"/2500 ElliottHouse 13 4 1 elliott_sleep",
+  "summer_9": "900 ElliottHouse 1 5 0/1030 Hospital 12 14 0 \"Strings\\schedules\\Elliott:summer_9.000\"/1330 Hospital 4 6 1 \"Strings\\schedules\\Elliott:summer_9.001\"/1600 ElliottHouse 7 7 2/2100 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1 elliott_sleep",
+  "winter": "GOTO fall",
+  "fall": "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1130 ArchaeologyHouse 21 11 2 elliott_read/1730 ElliottHouse 7 7 2/2100 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1 elliott_sleep",
+  "Thu": "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1130 SeedShop 10 20 0/1730 ElliottHouse 7 7 2/2100 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1 elliott_sleep",
+  "Sun": "GOTO Fri",
+  "Fri": "NOT friendship Leah 6/800 ElliottHouse 1 5 0/1100 Beach 24 32 3 square_1_5_3/1700 Saloon 4 19 2 elliott_drink/2340 ElliottHouse 13 4 1 elliott_sleep",
+  "Fri6": "GOTO Thu",
+  "summer": "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1130 Forest 96 39 2/1800 ElliottHouse 7 7 2/2200 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1 elliott_sleep",
+  "spring": "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1200 Beach 49 19 2/1330 ElliottHouse 1 5 0/1500 Town 55 104 1/1800 ElliottHouse 7 7 2/2000 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1 elliott_sleep"
+}

@@ -1,0 +1,14 @@
+{
+  "rain": "800 JoshHouse 8 19 2 alex_football/1300 JoshHouse 14 5 2 alex_lift_weights/1600 Town 50 68 1/1830 JoshHouse 8 19 2/2000 JoshHouse 17 5 0/2200 JoshHouse 21 4 1 alex_sleep",
+  "marriage_Mon": "830 JoshHouse 6 18 2 \"Strings\\schedules\\Alex:marriage_Mon.000\"/1800 BusStop -1 23 3",
+  "marriage_Sun": "MAIL saloonSportsRoom/GOTO NO_SCHEDULE/800 Town 64 64 2 alex_football/1100 Saloon 32 7 0 \"Strings\\schedules\\Alex:Sun.000_married\"/1500 Town 50 68 1/1830 JoshHouse 8 19 2/2000 JoshHouse 17 5 0/2200 BusStop -1 23 3",
+  "summer_16": "800 Town 64 64 2 alex_football/1030 Hospital 15 15 3 alex_sit_left \"Strings\\schedules\\Alex:summer_16.000\"/1330 Hospital 4 6 1 \"Strings\\schedules\\Alex:summer_16.001\"/1600 JoshHouse 15 4 2/2400 JoshHouse 21 4 1 alex_sleep",
+  "winter_17": "900 BathHouse_MensLocker 3 5 2 alex_lift_weights/1500 Beach 27 24 1 \"Strings\\schedules\\Alex:winter_17.000\"/2400 JoshHouse 21 4 1 alex_sleep",
+  "winter": "900 BathHouse_MensLocker 3 5 2 alex_lift_weights/1500 JoshHouse 14 5 2/1800 Town 50 68 1/1930 JoshHouse 8 19 2/2100 JoshHouse 17 5 0/2240 JoshHouse 21 4 1 alex_sleep",
+  "Wed_6": "GOTO season",
+  "Wed": "NOT friendship Haley 6/800 Town 64 64 2 alex_football/1200 HaleyHouse 7 23 3 alex_sit_left/1630 Town 50 68 1/1840 JoshHouse 8 19 2/2000 JoshHouse 17 5 0/2200 JoshHouse 21 4 1 alex_sleep",
+  "Sun": "MAIL saloonSportsRoom/GOTO Sun_normal/800 Town 64 64 2 alex_football/1100 Saloon 32 7 0 \"Strings\\schedules\\Alex:Sun.000\"/1500 Town 50 68 1/1830 JoshHouse 8 19 2/2000 JoshHouse 17 5 0/2200 JoshHouse 21 4 1 alex_sleep",
+  "Sun_normal": "GOTO season",
+  "summer": "730 Beach 30 13 2 square_7_7/1200 Town 88 91 2/1700 JoshHouse 14 5 2 alex_lift_weights/1900 JoshHouse 8 19 2/2000 JoshHouse 17 5 0/2200 JoshHouse 21 4 1 alex_sleep",
+  "spring": "800 Town 64 64 2 alex_football/1300 JoshHouse 14 5 2 alex_lift_weights/1600 Town 50 68 1/1830 JoshHouse 8 19 2/2000 JoshHouse 17 5 0/2200 JoshHouse 21 4 1 alex_sleep"
+}

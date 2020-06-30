@@ -1,0 +1,21 @@
+{
+  "rain": "900 Trailer 5 5 0/1100 Trailer 9 7 0/1300 Trailer 12 6 0 penny_dishes/1500 Trailer 14 4 2 penny_sit_down/1800 Trailer 4 4 2 penny_read/2100 Trailer 4 9 1 penny_sleep",
+  "rain2": "810 Town 104 89 2 \"Strings\\schedules\\Penny:rain2.000\"/1200 ArchaeologyHouse 20 5 0/1600 Trailer 14 4 2 penny_sit_down/1900 Trailer 12 6 0 penny_dishes/2100 Trailer 4 9 1 penny_sleep",
+  "summer": "810 Town 96 18 3/1300 Town 63 15 2 penny_sit_down/1800 Trailer 12 6 0 penny_dishes/2100 Trailer 4 9 1 penny_sleep",
+  "winter_15": "900 Trailer 5 5 0/1100 Trailer 9 7 0/1300 Trailer 12 6 0 penny_dishes/1500 Trailer 14 4 2 penny_sit_down/1600 Beach 35 36 2 \"Strings\\schedules\\Penny:winter_15.000\"/2350 Trailer 4 9 1 penny_sleep",
+  "winter": "900 Trailer 1 8 0/1030 CommunityCenter 23 17 2 penny_read/1500 CommunityCenter 46 13 0/1800 Trailer 12 6 0 penny_dishes/2100 Trailer 4 9 1 penny_sleep",
+  "CommunityCenter_Replacement": "ArchaeologyHouse 16 10 2",
+  "winter_4": "900 Trailer 1 8 0 \"Strings\\schedules\\Penny:winter_4.000\"/1130 Hospital 4 17 2 penny_sit_down/1330 Hospital 4 6 1 \"Strings\\schedules\\Penny:winter_4.001\"/1600 Town 75 52 2 penny_sit_down/1900 Trailer 12 6 0 penny_dishes/2100 Trailer 4 9 1 penny_sleep",
+  "9_6": "GOTO spring",
+  "23_6": "GOTO spring",
+  "9": "NOT friendship Sam 6/900 Trailer 1 8 0/1100 Town 78 93 2 penny_sit_down/1600 Trailer 12 6 0 penny_dishes/1840 Trailer 4 9 1 penny_sleep",
+  "23": "NOT friendship Sam 6/GOTO 9",
+  "Summer_Sun": "800 Town 96 18 3/1200 ScienceHouse 8 5 2 penny_sit_down/1800 Trailer 12 6 0 penny_dishes/2100 Trailer 4 9 1 penny_sleep",
+  "marriageJob": "830 ArchaeologyHouse 17 9 2 penny_read \"Strings\\schedules\\Penny:marriageJob.000\"/1400 Town 88 100 2/1620 Town 17 90 3 penny_wave_left/1750 Forest 92 20 3 penny_wave_left/1830 BusStop -1 23 3",
+  "Tue": "830 Trailer 6 5 0/900 ArchaeologyHouse 17 9 2 penny_read/1400 Town 88 100 2/1620 Town 17 90 3 penny_wave_left/1750 Forest 92 20 3 penny_wave_left/1830 Trailer 4 9 1 penny_sleep",
+  "Wed": "GOTO Tue",
+  "Fri": "GOTO Tue",
+  "Sat": "1000 Town 32 89 2/1200 Town 12 13 1/1700 Town 29 91 3/2000 Trailer 4 9 1 penny_sleep",
+  "marriage_Mon": "830 SeedShop 2 26 2 \"Strings\\schedules\\Penny:marriage_Mon.000\"/1100 SeedShop 5 19 0 \"Strings\\schedules\\Penny:marriage_Mon.001\"/1130 Town 35 89 2 penny_read/1600 Town 44 77 2 penny_sit_down \"Strings\\schedules\\Penny:marriage_Mon.002\"/1810 BusStop -1 23 3",
+  "spring": "800 Town 35 89 2 penny_read/1230 Trailer 12 6 0 penny_dishes/1600 Town 44 77 2 penny_sit_down/1840 Trailer 4 9 1 penny_sleep"
+}

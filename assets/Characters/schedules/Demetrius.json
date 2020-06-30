@@ -1,0 +1,10 @@
+{
+  "rain": "750 ScienceHouse 16 19 2 demetrius_read/1100 ScienceHouse 22 20 1 demetrius_notes/1500 ScienceHouse 7 18 1/1540 ScienceHouse 22 20 1/1800 ScienceHouse 27 9 0/1920 ScienceHouse 28 9 0/2000 ScienceHouse 15 4 0/2200 ScienceHouse 19 4 11 demetrius_sleep",
+  "summer_25": "820 Hospital 12 14 0 \"Strings\\schedules\\Demetrius:summer_25.000\"/1330 Hospital 4 6 1 \"Strings\\schedules\\Demetrius:summer_25.001\"/1600 ScienceHouse 15 4 0/2200 ScienceHouse 19 4 1 demetrius_sleep",
+  "Fri": "750 ScienceHouse 22 20 1 demetrius_notes/1600 Saloon 23 22 3/1920 Saloon 24 22 3 demetrius_dance/2100 ScienceHouse 20 4 1 demetrius_sleep",
+  "winter_16": "750 ScienceHouse 16 19 2 demetrius_read/1100 ScienceHouse 22 20 1 demetrius_notes/1500 ScienceHouse 7 18 1/1540 Beach 11 32 3 \"Strings\\schedules\\Demetrius:winter_16.000\"/2330 ScienceHouse 19 4 11 demetrius_sleep",
+  "winter": "GOTO rain",
+  "fall": "750 ScienceHouse 29 9 0/1100 Mountain 45 8 demetrius_notes/1900 ScienceHouse 27 9 0/2040 ScienceHouse 28 9 0/2100 ScienceHouse 15 4 0/2230 ScienceHouse 19 4 11 demetrius_sleep",
+  "summer": "750 ScienceHouse 29 9 0/1100 Town 31 23 1 square_3_9/1900 ScienceHouse 27 9 0/2040 ScienceHouse 28 9 0/2100 ScienceHouse 15 4 0/2230 ScienceHouse 19 4 11 demetrius_sleep",
+  "spring": "750 ScienceHouse 29 9 0/1100 ScienceHouse 22 20 1 demetrius_notes/1430 Mountain 15 26 1/1530 Mountain 30 36 2/1900 ScienceHouse 27 9 0/2040 ScienceHouse 28 9 0/2100 ScienceHouse 15 4 0/2230 ScienceHouse 19 4 11 demetrius_sleep"
+}

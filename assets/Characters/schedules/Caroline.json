@@ -1,0 +1,11 @@
+{
+  "rain": "800 SeedShop 37 6 3/1200 SeedShop 15 23 0/1330 SeedShop 21 5 2 caroline_read/1600 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1 caroline_sleep",
+  "fall_25": "800 SeedShop 37 6 3/1000 SeedShop 27 7 3 \"Strings\\schedules\\Caroline:fall_25.000\"/1200 Hospital 13 14 0 \"Strings\\schedules\\Caroline:fall_25.001\"/1330 Hospital 4 6 1 \"Strings\\schedules\\Caroline:fall_25.002\"/1600 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1 caroline_sleep",
+  "winter_16": "800 SeedShop 37 6 3/1200 SeedShop 15 23 0/1330 Town 23 71 2/1600 Beach 24 32 3 \"Strings\\schedules\\Caroline:winter_16.000\"/2330 SeedShop 25 4 1 caroline_sleep",
+  "Tue": "800 SeedShop 22 14 0 \"Strings\\schedules\\Caroline:Tue.000\"/1030 SeedShop 24 17 3/1300 SeedShop 24 21 0 caroline_exercise/1600 SeedShop 23 15 1 \"Strings\\schedules\\Caroline:Tue.001\"/1810 SeedShop 34 5 0 \"Strings\\schedules\\Caroline:Tue.002\"/2100 SeedShop 25 4 1 caroline_sleep",
+  "Fri": "800 SeedShop 37 6 3/1000 Sunroom 5 7 1/1200 ArchaeologyHouse 14 4 2 caroline_read \"Strings\\schedules\\Caroline:Fri.000\"/1700 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1 caroline_sleep",
+  "Wed": "800 SeedShop 37 6 3/1000 Sunroom 5 7 1/1200 Town 23 27 1/1700 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1 caroline_sleep",
+  "Sat": "800 SeedShop 37 6 3/1100 CommunityCenter 26 9 0/1700 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1 caroline_sleep",
+  "Sun": "900 SeedShop 22 5 2/1040 SeedShop 21 5 3 \"Strings\\schedules\\Caroline:Sun.000\"/1330 SeedShop 15 23 0/1440 Town 48 33 2/1830 SeedShop 27 7 1/2100 SeedShop 25 4 1 caroline_sleep",
+  "spring": "800 SeedShop 37 6 3/1000 Sunroom 5 7 1/1200 SeedShop 15 23 0/1330 Town 23 71 2/1600 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1 caroline_sleep"
+}
