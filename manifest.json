@@ -1,13 +1,13 @@
 {
-    "Name": "NKRI Indonesian Language",
+    "Name": "SV Bahasa Indonesia",
     "Author": "NinjaQuince",
     "Version": "0.0.1-beta",
-    "Description": "Mengganti teks bahasa Inggris dari game (Dialog, Event, Item, dll.) menjadi bahasa Indonesia.",
+    "Description": "Mengganti konten teks Stardew Valley dari Bahasa Inggris (Dialog, Event, Item, dll.) menjadi Bahasa Indonesia.",
     "UniqueID": "NinjaQuince.SVModINDO",
     "MinimumApiVersion": "3.0.0",
     "UpdateKeys": [],
     "ContentPackFor": {
-    "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
-    "MinimumVersion": "1.9.2"// optional
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.9.2"
   }
 }
