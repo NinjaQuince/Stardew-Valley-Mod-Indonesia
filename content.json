@@ -103,31 +103,6 @@
     },
     {
       "Action": "Load",
-      "Target": "Maps/fall_outdoorsTileSheet",
-      "FromFile": "assets/Maps/fall_outdoorsTileSheet.pt-BR.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/spring_outdoorsTileSheet",
-      "FromFile": "assets/Maps/spring_outdoorsTileSheet.pt-BR.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/summer_outdoorsTileSheet",
-      "FromFile": "assets/Maps/summer_outdoorsTileSheet.pt-BR.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/winter_outdoorsTileSheet",
-      "FromFile": "assets/Maps/winter_outdoorsTileSheet.pt-BR.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/MovieTheaterJoja_TileSheet",
-      "FromFile": "assets/Maps/MovieTheaterJoja_TileSheet.png"
-    },
-    {
-      "Action": "Load",
       "Target": "Minigames/Intro",
       "FromFile": "assets/Minigames/Intro.png"
     },
