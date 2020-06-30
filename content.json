@@ -5,42 +5,42 @@
    	{
     	"Action": "Load",
     	"Target": "characters/Dialogue/Emily",
-    	"FromFile": "assets/characters/Dialogue/Emily.xnb"
+    	"FromFile": "assets/characters/Dialogue/Emily.json"
     },
     {
     	"Action": "Load",
     	"Target": "characters/Dialogue/Haley",
-    	"FromFile": "assets/characters/Dialogue/Haley.xnb"
+    	"FromFile": "assets/characters/Dialogue/Haley.json"
     },
     {
     	"Action": "Load",
     	"Target": "characters/Dialogue/Penny",
-    	"FromFile": "assets/characters/Dialogue/Penny.xnb"
+    	"FromFile": "assets/characters/Dialogue/Penny.json"
     },
 	{
     	"Action": "Load",
     	"Target": "characters/Dialogue/MarriageDialogueEmily",
-    	"FromFile": "assets/characters/Dialogue/MarriageDialogueEmily.xnb"
+    	"FromFile": "assets/characters/Dialogue/MarriageDialogueEmily.json"
     },
     {
     	"Action": "Load",
     	"Target": "characters/Dialogue/MarriageDialogueHaley",
-    	"FromFile": "assets/characters/Dialogue/MarriageDialogueHaley.xnb"
+    	"FromFile": "assets/characters/Dialogue/MarriageDialogueHaley.json"
     },
     {
     	"Action": "Load",
     	"Target": "characters/Dialogue/MarriageDialoguePenny",
-    	"FromFile": "assets/characters/Dialogue/MarriageDialoguePenny.xnb"
+    	"FromFile": "assets/characters/Dialogue/MarriageDialoguePenny.json"
     },
     {
     	"Action": "Load",
     	"Target": "characters/Dialogue/MarriageDialogue",
-    	"FromFile": "assets/characters/Dialogue/MarriageDialogue.xnb"
+    	"FromFile": "assets/characters/Dialogue/MarriageDialogue.json"
     },    
     {
     	"Action": "Load",
     	"Target": "Data/Events/Farm",
-    	"FromFile": "assets/Data/Events/Farm.xnb"
+    	"FromFile": "assets/Data/Events/Farm.json"
     },
     {
     	"Action": "Load",
@@ -90,52 +90,52 @@
     {
     	"Action": "Load",
     	"Target": "Strings/animationDescriptions",
-    	"FromFile": "assets/Strings/animationDescriptions.xnb"
+    	"FromFile": "assets/Strings/animationDescriptions.json"
     },
     {
     	"Action": "Load",
     	"Target": "Strings/Buildings",
-    	"FromFile": "assets/Strings/Buildings.xnb"
+    	"FromFile": "assets/Strings/Buildings.json"
     },
     {
     	"Action": "Load",
     	"Target": "Strings/Characters",
-    	"FromFile": "assets/Strings/Characters.xnb"
+    	"FromFile": "assets/Strings/Characters.json"
     },
     {
     	"Action": "Load",
     	"Target": "Strings/Events",
-    	"FromFile": "assets/Strings/Events.xnb"
+    	"FromFile": "assets/Strings/Events.json"
     },
     {
     	"Action": "Load",
     	"Target": "Strings/FarmAnimals",
-    	"FromFile": "assets/Strings/FarmAnimals.xnb"
+    	"FromFile": "assets/Strings/FarmAnimals.json"
     },
     {
     	"Action": "Load",
     	"Target": "Strings/Locations",
-    	"FromFile": "assets/Strings/Locations.xnb"
+    	"FromFile": "assets/Strings/Locations.json"
     },
     {
     	"Action": "Load",
     	"Target": "Strings/Notes",
-    	"FromFile": "assets/Strings/Notes.xnb"
+    	"FromFile": "assets/Strings/Notes.json"
     },
     {
     	"Action": "Load",
     	"Target": "Strings/Objects",
-    	"FromFile": "assets/Strings/Objects.xnb"
+    	"FromFile": "assets/Strings/Objects.json"
     },
     {
     	"Action": "Load",
     	"Target": "Strings/Quests",
-    	"FromFile": "assets/Strings/Quests.xnb"
+    	"FromFile": "assets/Strings/Quests.json"
     },
     {
     	"Action": "Load",
     	"Target": "Strings/SpeechBubbles",
-    	"FromFile": "assets/Strings/SpeechBubbles.xnb"
+    	"FromFile": "assets/Strings/SpeechBubbles.json"
     },
 
    ]
