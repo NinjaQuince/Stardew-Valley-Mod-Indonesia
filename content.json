@@ -78,6 +78,11 @@
     },
     {
       "Action": "Load",
+      "Target": "Data/Events/Farm",
+      "FromFile": "assets/Data/Events/Farm.json"
+    },
+    {
+      "Action": "Load",
       "Target": "LooseSprites/Billboard",
       "FromFile": "assets/LooseSprites/Billboard.png"
     },
