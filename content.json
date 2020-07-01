@@ -73,6 +73,41 @@
     },
     {
       "Action": "Load",
+      "Target": "Data/Events/AbandonedJojaMart",
+      "FromFile": "assets/Data/Events/AbandonedJojaMart.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/AnimalShop",
+      "FromFile": "assets/Data/Events/AnimalShop.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/ArchaeologyHouse",
+      "FromFile": "assets/Data/Events/ArchaeologyHouse.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Backwoods",
+      "FromFile": "assets/Data/Events/Backwoods.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/BathHouse_Pool",
+      "FromFile": "assets/Data/Events/BathHouse_Pool.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Beach",
+      "FromFile": "assets/Data/Events/Beach.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Farm",
+      "FromFile": "assets/Data/Events/Farm.json"
+    },
+    {
+      "Action": "Load",
       "Target": "Data/Events/Farm",
       "FromFile": "assets/Data/Events/Farm.json"
     },
