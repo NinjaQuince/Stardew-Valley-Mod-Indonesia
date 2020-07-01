@@ -12,7 +12,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Nonton di bioskop sama Ibu jadi buat aku ingat waktu dulu!"
+            "Text": "Nonton di bioskop bersama ibu jadi buat aku ingat waktu dulu!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -116,7 +116,7 @@
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "/shake Penny 3000/pause 500/emote Penny 28",
-            "Text": "Aku tidak bisa lihat ini...$s"
+            "Text": "Aku tidak mau lihat ini...$s"
           },
           "AfterMovie": {
             "ResponsePoint": null,
@@ -159,7 +159,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Wow, Film itu bagus! Terimakasih sudah menemaniku melihat ini!"
+            "Text": "Wow, film itu bagus! Terimakasih sudah menemaniku melihat ini!"
           }
         },
         "ID": "reaction_7"
