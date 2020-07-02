@@ -108,8 +108,28 @@
     },
     {
       "Action": "Load",
-      "Target": "Data/Events/Farm",
-      "FromFile": "assets/Data/Events/Farm.json"
+      "Target": "Data/Events/FarmHouse",
+      "FromFile": "assets/Data/Events/FarmHouse.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Mine",
+      "FromFile": "assets/Data/Events/Mine.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/SandyHouse",
+      "FromFile": "assets/Data/Events/SandyHouse.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Sewer",
+      "FromFile": "assets/Data/Events/Sewer.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Sunroom",
+      "FromFile": "assets/Data/Events/Sunroom.json"
     },
     {
       "Action": "Load",
