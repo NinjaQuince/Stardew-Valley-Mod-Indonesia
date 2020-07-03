@@ -103,6 +103,16 @@
     },
     {
       "Action": "Load",
+      "Target": "Data/Events/BusStop",
+      "FromFile": "assets/Data/Events/BusStop.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/ElliotHouse",
+      "FromFile": "assets/Data/Events/ElliotHouse.json"
+    },
+    {
+      "Action": "Load",
       "Target": "Data/Events/Farm",
       "FromFile": "assets/Data/Events/Farm.json"
     },
