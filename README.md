@@ -2,4 +2,5 @@
  Mengubah konten teks Stardew Valley dari Bahasa Inggris menjadi Bahasa Indonesia
  
 ## Progress
- ![5%](https://progress-bar.dev/5)
+ (https://progress-bar.dev/5/?title=Teks)
+ (https://progress-bar.dev/40/?title=Gambar)
