@@ -123,6 +123,11 @@
     },
     {
       "Action": "Load",
+      "Target": "Data/Events/Forest",
+      "FromFile": "assets/Data/Events/Forest.json"
+    },
+    {
+      "Action": "Load",
       "Target": "Data/Events/Mine",
       "FromFile": "assets/Data/Events/Mine.json"
     },
