@@ -5,4 +5,4 @@
  ![Progress](https://progress-bar.dev/47/?title=teks)
  <!-- 81 dari 169 file teks -->
  
- ![Progress](https://progress-bar.dev/40/?title=gambar)
+ ![Progress](https://progress-bar.dev/100/?title=gambar)
