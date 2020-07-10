@@ -5,11 +5,11 @@
  ![Progress](https://progress-bar.dev/52/?title=teks)
  <!-- 88 dari 169 file teks -->
  
- ![Progress](https://progress-bar.dev/4/?title=koreksi teks)
+ ![Progress](https://progress-bar.dev/4/?title=koreksi-teks)
  <!-- 7 dari 169 file teks -->
  
  ![Progress](https://progress-bar.dev/100/?title=gambar)
  <!-- 29 dari 29 file gambar -->
 
-  ![Progress](https://progress-bar.dev/89/?title=koreksi gambar)
+  ![Progress](https://progress-bar.dev/89/?title=koreksi-gambar)
  <!-- 26 dari 29 file gambar -->
