@@ -17,13 +17,17 @@
 ## Kontributor Sejauh Ini
 **Koordinator & Penyunting**
 ```
-NinjaQuince, ExRazor
+ExRazor, NinjaQuince
 ```
 **Editor Gambar**
 ```
-Seoyl, NinjaQuince
+NinjaQuince, Seoyl
 ```
 **Penerjemah**
 ```
-SkyKidz, Basufi, NinjaQuince, andianq, Ryanika, skeleaten, heartybfast, Aimee P, Dio Ananda, Rofi Al 
+Aimee P, andianq, Basufi, Dio Ananda, heartybfast, NinjaQuince, Rofi Al, Ryanika, skeleaten, SkyKidz  
 ```
+## Ingin Berkontribusi?
+Jika ingin terlibat dalam pengerjaan Mod ini silahkan langsung di fork lalu bisa pull request.
+
+Atau jika tidak ingin repot-repot di GitHub, bisa hubungi [Facebook](https://facebook.com/Galih.Bagas/) saya.
