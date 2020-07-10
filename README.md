@@ -11,5 +11,5 @@
  ![Progress](https://progress-bar.dev/100/?title=gambar)
  <!-- 29 dari 29 file gambar -->
 
-  ![Progress](https://progress-bar.dev/89/?title=koreksi-gambar)
- <!-- 26 dari 29 file gambar -->
+  ![Progress](https://progress-bar.dev/100/?title=koreksi-gambar)
+ <!-- 29 dari 29 file gambar -->
