@@ -15,11 +15,15 @@
  <!-- 29 dari 29 file gambar -->
 
 ## Kontributor Sejauh Ini
-```
 **Koordinator & Penyunting**
+```
 NinjaQuince, ExRazor
+```
 **Editor Gambar**
+```
 Seoyl, NinjaQuince
+```
 **Penerjemah**
+```
 SkyKidz, Basufi, NinjaQuince, andianq, Ryanika, skeleaten, heartybfast, Aimee P, Dio Ananda, Rofi Al 
 ```
