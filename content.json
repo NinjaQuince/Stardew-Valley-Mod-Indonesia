@@ -1,6 +1,7 @@
 {
   "Format": "1.11.0",
   "Changes": [
+    // Direktori assets/Characters/Dialogue
     {
       "Action": "Load",
       "Target": "Characters/Dialogue/Abigail",
@@ -8,13 +9,34 @@
     },
     {
       "Action": "Load",
+      "Target": "Characters/Dialogue/Alex",
+      "FromFile": "assets/Characters/Dialogue/Alex.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Caroline",
+      "FromFile": "assets/Characters/Dialogue/Caroline.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Clint",
+      "FromFile": "assets/Characters/Dialogue/Clint.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Demetrius",
+      "FromFile": "assets/Characters/Dialogue/Demetrius.json"
+    },
+
+    {
+      "Action": "Load",
       "Target": "Characters/Dialogue/Dwarf",
       "FromFile": "assets/Characters/Dialogue/Dwarf.json"
     },
     {
       "Action": "Load",
-      "Target": "Characters/Dialogue/Gil",
-      "FromFile": "assets/Characters/Dialogue/Gil.json"
+      "Target": "Characters/Dialogue/Elliott",
+      "FromFile": "assets/Characters/Dialogue/Elliott.json"
     },
     {
       "Action": "Load",
@@ -23,8 +45,33 @@
     },
     {
       "Action": "Load",
+      "Target": "Characters/Dialogue/Evelyn",
+      "FromFile": "assets/Characters/Dialogue/Evelyn.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/George",
+      "FromFile": "assets/Characters/Dialogue/George.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Gil",
+      "FromFile": "assets/Characters/Dialogue/Gil.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Gus",
+      "FromFile": "assets/Characters/Dialogue/Gus.json"
+    },
+    {
+      "Action": "Load",
       "Target": "Characters/Dialogue/Haley",
       "FromFile": "assets/Characters/Dialogue/Haley.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Harvey",
+      "FromFile": "assets/Characters/Dialogue/Harvey.json"
     },
     {
       "Action": "Load",
@@ -33,13 +80,58 @@
     },
     {
       "Action": "Load",
+      "Target": "Characters/Dialogue/Jodi",
+      "FromFile": "assets/Characters/Dialogue/Jodi.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Kent",
+      "FromFile": "assets/Characters/Dialogue/Kent.json"
+    },
+    {
+      "Action": "Load",
       "Target": "Characters/Dialogue/Krobus",
       "FromFile": "assets/Characters/Dialogue/Krobus.json"
     },
     {
       "Action": "Load",
+      "Target": "Characters/Dialogue/Leah",
+      "FromFile": "assets/Characters/Dialogue/Leah.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Lewis",
+      "FromFile": "assets/Characters/Dialogue/Lewis.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Linus",
+      "FromFile": "assets/Characters/Dialogue/Linus.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Marnie",
+      "FromFile": "assets/Characters/Dialogue/Marnie.json"
+    },
+    {
+      "Action": "Load",
       "Target": "Characters/Dialogue/MarriageDialogue",
       "FromFile": "assets/Characters/Dialogue/MarriageDialogue.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueAbigail",
+      "FromFile": "assets/Characters/Dialogue/MarriageDialogueAbigail.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueAlex",
+      "FromFile": "assets/Characters/Dialogue/MarriageDialogueAlex.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueElliott",
+      "FromFile": "assets/Characters/Dialogue/MarriageDialogueElliott.json"
     },
     {
       "Action": "Load",
@@ -53,8 +145,38 @@
     },
     {
       "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueHarvey",
+      "FromFile": "assets/Characters/Dialogue/MarriageDialogueHarvey.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueKrobus",
+      "FromFile": "assets/Characters/Dialogue/MarriageDialogueKrobus.json"
+    },
+    {
+      "Action": "Load",
       "Target": "Characters/Dialogue/MarriageDialoguePenny",
       "FromFile": "assets/Characters/Dialogue/MarriageDialoguePenny.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueSam",
+      "FromFile": "assets/Characters/Dialogue/MarriageDialogueSam.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueSebastian",
+      "FromFile": "assets/Characters/Dialogue/MarriageDialogueSebastian.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueShane",
+      "FromFile": "assets/Characters/Dialogue/MarriageDialogueShane.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Maru",
+      "FromFile": "assets/Characters/Dialogue/Maru.json"
     },
     {
       "Action": "Load",
@@ -63,14 +185,65 @@
     },
     {
       "Action": "Load",
+      "Target": "Characters/Dialogue/Pam",
+      "FromFile": "assets/Characters/Dialogue/Pam.json"
+    },
+    {
+      "Action": "Load",
       "Target": "Characters/Dialogue/Penny",
       "FromFile": "assets/Characters/Dialogue/Penny.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Pierre",
+      "FromFile": "assets/Characters/Dialogue/Pierre.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/rainy",
+      "FromFile": "assets/Characters/Dialogue/rainy.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Robin",
+      "FromFile": "assets/Characters/Dialogue/Robin.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Sam",
+      "FromFile": "assets/Characters/Dialogue/Sam.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Sandy",
+      "FromFile": "assets/Characters/Dialogue/Sandy.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Sebastian",
+      "FromFile": "assets/Characters/Dialogue/Sebastian.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Shane",
+      "FromFile": "assets/Characters/Dialogue/Shane.json"
     },
     {
       "Action": "Load",
       "Target": "Characters/Dialogue/Vincent",
       "FromFile": "assets/Characters/Dialogue/Vincent.json"
     },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Willy",
+      "FromFile": "assets/Characters/Dialogue/Willy.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Wizard",
+      "FromFile": "assets/Characters/Dialogue/Wizard.json"
+    },
+    // Direktori assets/Data/Events
     {
       "Action": "Load",
       "Target": "Data/Events/AbandonedJojaMart",
@@ -108,8 +281,13 @@
     },
     {
       "Action": "Load",
-      "Target": "Data/Events/ElliotHouse",
-      "FromFile": "assets/Data/Events/ElliotHouse.json"
+      "Target": "Data/Events/CommunityCenter",
+      "FromFile": "assets/Data/Events/CommunityCenter.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/ElliottHouse",
+      "FromFile": "assets/Data/Events/ElliottHouse.json"
     },
     {
       "Action": "Load",
@@ -128,13 +306,78 @@
     },
     {
       "Action": "Load",
+      "Target": "Data/Events/HaleyHouse",
+      "FromFile": "assets/Data/Events/HaleyHouse.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/HarveyRoom",
+      "FromFile": "assets/Data/Events/HarveyRoom.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Hospital",
+      "FromFile": "assets/Data/Events/Hospital.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/JoshHouse",
+      "FromFile": "assets/Data/Events/JoshHouse.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/LeahHouse",
+      "FromFile": "assets/Data/Events/LeahHouse.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/ManorHouse",
+      "FromFile": "assets/Data/Events/ManorHouse.json"
+    },
+    {
+      "Action": "Load",
       "Target": "Data/Events/Mine",
       "FromFile": "assets/Data/Events/Mine.json"
     },
     {
       "Action": "Load",
+      "Target": "Data/Events/Mountain",
+      "FromFile": "assets/Data/Events/Mountain.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Railroad",
+      "FromFile": "assets/Data/Events/Railroad.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Saloon",
+      "FromFile": "assets/Data/Events/Saloon.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/SamHouse",
+      "FromFile": "assets/Data/Events/SamHouse.json"
+    },
+    {
+      "Action": "Load",
       "Target": "Data/Events/SandyHouse",
       "FromFile": "assets/Data/Events/SandyHouse.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/ScienceHouse",
+      "FromFile": "assets/Data/Events/ScienceHouse.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/SebastianRoom",
+      "FromFile": "assets/Data/Events/SebastianRoom.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/SeedShop",
+      "FromFile": "assets/Data/Events/SeedShop.json"
     },
     {
       "Action": "Load",
@@ -146,6 +389,42 @@
       "Target": "Data/Events/Sunroom",
       "FromFile": "assets/Data/Events/Sunroom.json"
     },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Temp",
+      "FromFile": "assets/Data/Events/Temp.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Tent",
+      "FromFile": "assets/Data/Events/Tent.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Town",
+      "FromFile": "assets/Data/Events/Town.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Trailer",
+      "FromFile": "assets/Data/Events/Trailer.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Trailer_Big",
+      "FromFile": "assets/Data/Events/Trailer_Big.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/WizardHouse",
+      "FromFile": "assets/Data/Events/WizardHouse.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Woods",
+      "FromFile": "assets/Data/Events/Woods.json"
+    },
+    // Direktori assets/LooseSprites/
     {
       "Action": "Load",
       "Target": "LooseSprites/Billboard",
@@ -173,6 +452,107 @@
     },
     {
       "Action": "Load",
+      "Target": "LooseSprites/LanguageButtons",
+      "FromFile": "assets/LooseSprites/LanguageButtons.png"
+    },
+    // Direktori assets/Maps/
+    {
+      "Action": "Load",
+      "Target": "Maps/bathhouse_tiles",
+      "FromFile": "assets/Maps/bathhouse_tiles.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/coopTiles",
+      "FromFile": "assets/Maps/coopTiles.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/DesertTiles",
+      "FromFile": "assets/Maps/DesertTiles.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/fall_beach",
+      "FromFile": "assets/Maps/fall_beach.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/fall_outdoorsTileSheet",
+      "FromFile": "assets/Maps/fall_outdoorsTileSheet.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/fall_town",
+      "FromFile": "assets/Maps/fall_town.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/Festivals",
+      "FromFile": "assets/Maps/Festivals.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/MovieTheaterJoja_TileSheet",
+      "FromFile": "assets/Maps/MovieTheaterJoja_TileSheet.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/spring_beach",
+      "FromFile": "assets/Maps/spring_beach.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/spring_outdoorsTileSheet",
+      "FromFile": "assets/Maps/spring_outdoorsTileSheet.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/spring_town",
+      "FromFile": "assets/Maps/spring_town.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/summer_beach",
+      "FromFile": "assets/Maps/summer_beach.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/summer_outdoorsTileSheet",
+      "FromFile": "assets/Maps/summer_outdoorsTileSheet.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/summer_town",
+      "FromFile": "assets/Maps/summer_town.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/TownIndoors",
+      "FromFile": "assets/Maps/TownIndoors.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/townInterior",
+      "FromFile": "assets/Maps/townInterior.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/winter_beach",
+      "FromFile": "assets/Maps/winter_beach.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/winter_outdoorsTileSheet",
+      "FromFile": "assets/Maps/winter_outdoorsTileSheet.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/winter_town",
+      "FromFile": "assets/Maps/winter_town.png"
+    },
+    {
+      "Action": "Load",
       "Target": "Minigames/Intro",
       "FromFile": "assets/Minigames/Intro.png"
     },
@@ -186,6 +566,7 @@
       "Target": "Minigames/TitleButtons",
       "FromFile": "assets/Minigames/TitleButtons.png"
     },
+    // Direktori assets/Strings
     {
       "Action": "Load",
       "Target": "Strings/animationDescriptions",
@@ -240,6 +621,87 @@
       "Action": "Load",
       "Target": "Strings/SpeechBubbles",
       "FromFile": "assets/Strings/SpeechBubbles.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/StringsFromCSFiles",
+      "FromFile": "assets/Strings/StringsFromCSFiles.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/StringsFromMaps",
+      "FromFile": "assets/Strings/StringsFromMaps.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/UI",
+      "FromFile": "assets/Strings/UI.json"
+    },
+    // Direktori assets/
+    {
+      "Action": "Load",
+      "Target": "bathhouse_tiles",
+      "FromFile": "assets/Maps/bathhouse_tiles.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "coopTiles",
+      "FromFile": "assets/Maps/coopTiles.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "DesertTiles",
+      "FromFile": "assets/Maps/DesertTiles.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "fall_outdoorsTileSheet",
+      "FromFile": "assets/Maps/fall_outdoorsTileSheet.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "fall_town",
+      "FromFile": "assets/Maps/fall_town.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Festivals",
+      "FromFile": "assets/Maps/Festivals.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "spring_beach",
+      "FromFile": "assets/Maps/spring_beach.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "spring_outdoorsTileSheet",
+      "FromFile": "assets/Maps/spring_outdoorsTileSheet.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "spring_town",
+      "FromFile": "assets/Maps/spring_town.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "summer_beach",
+      "FromFile": "assets/Maps/summer_beach.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "townInterior",
+      "FromFile": "assets/Maps/townInterior.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "winter_beach",
+      "FromFile": "assets/Maps/winter_beach.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "winter_outdoorsTileSheet",
+      "FromFile": "assets/Maps/winter_outdoorsTileSheet.png"
     }
   ]
 }
