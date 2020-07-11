@@ -30,4 +30,12 @@ Aimee P, andianq, Basufi, Dio Ananda, heartybfast, NinjaQuince, Rofi Al, Ryanika
 ## Ingin Berkontribusi?
 Jika ingin terlibat dalam pengerjaan Mod ini silahkan langsung pull request di GitHub ini.
 
-Atau jika tidak ingin repot-repot di GitHub, bisa hubungi [Facebook](https://facebook.com/Galih.Bagas/) saya.
+Atau jika tidak ingin repot-repot di GitHub, bisa hubungi saya di:
+
+[Facebook](https://facebook.com/Galih.Bagas/) 
+
+Discord (NinjaQuince#1418)
+
+[Steam](https://steamcommunity.com/id/NinjaQuince/)
+
+
