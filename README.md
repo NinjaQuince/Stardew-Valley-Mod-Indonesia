@@ -2,11 +2,11 @@
  Mengubah konten teks Stardew Valley dari Bahasa Inggris menjadi Bahasa Indonesia
  
 ## Progress
- ![Progress](https://progress-bar.dev/56/?title=teks)
- <!-- 96 dari 169 file teks -->
+ ![Progress](https://progress-bar.dev/57/?title=teks)
+ <!-- 97 dari 169 file teks -->
  
- ![Progress](https://progress-bar.dev/4/?title=koreksi-teks)
- <!-- 8 dari 169 file teks -->
+ ![Progress](https://progress-bar.dev/5/?title=koreksi-teks)
+ <!-- 9 dari 169 file teks -->
  
  ![Progress](https://progress-bar.dev/100/?title=gambar)
  <!-- 29 dari 29 file gambar -->
@@ -35,7 +35,4 @@ Atau jika tidak ingin repot-repot di GitHub, bisa hubungi saya di:
 [Facebook](https://facebook.com/Galih.Bagas/) 
 
 Discord (NinjaQuince#1418)
-
-[Steam](https://steamcommunity.com/id/NinjaQuince/)
-
 
