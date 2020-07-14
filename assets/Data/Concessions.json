@@ -3,7 +3,7 @@
     "ID": 0,
     "Name": "Cotton Candy",
     "DisplayName": "Cotton Candy",
-    "Description": "A large pink cloud of spun sugar.",
+    "Description": "Permen kapas yang terbuat dari gula.",
     "Price": 50,
     "ItemTags": [
       "Sweet",
@@ -14,7 +14,7 @@
     "ID": 1,
     "Name": "Jasmine Tea",
     "DisplayName": "Jasmine Tea",
-    "Description": "Green tea flavored with aromatic jasmine flowers.",
+    "Description": "Teh hijau dengan aroma bunga melati.",
     "Price": 50,
     "ItemTags": [
       "Drink",
