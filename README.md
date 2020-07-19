@@ -3,10 +3,10 @@
  
 ## Progress
  ![Progress](https://progress-bar.dev/63/?title=teks)
- <!-- 107 dari 169 file teks -->
+ <!-- 108 dari 169 file teks -->
  
  ![Progress](https://progress-bar.dev/7/?title=koreksi-teks)
- <!-- 12 dari 169 file teks -->
+ <!-- 13 dari 169 file teks -->
  
  ![Progress](https://progress-bar.dev/100/?title=gambar)
  <!-- 29 dari 29 file gambar -->
