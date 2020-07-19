@@ -2,11 +2,11 @@
  Mod yang bertujuan mengubah konten teks Stardew Valley dari Bahasa Inggris menjadi Bahasa Indonesia
  
 ## Progress
- ![Progress](https://progress-bar.dev/62/?title=teks)
- <!-- 106 dari 169 file teks -->
+ ![Progress](https://progress-bar.dev/63/?title=teks)
+ <!-- 107 dari 169 file teks -->
  
- ![Progress](https://progress-bar.dev/6/?title=koreksi-teks)
- <!-- 11 dari 169 file teks -->
+ ![Progress](https://progress-bar.dev/7/?title=koreksi-teks)
+ <!-- 12 dari 169 file teks -->
  
  ![Progress](https://progress-bar.dev/100/?title=gambar)
  <!-- 29 dari 29 file gambar -->
