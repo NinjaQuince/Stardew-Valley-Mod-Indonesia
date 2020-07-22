@@ -6,7 +6,7 @@
  <!-- 114 dari 169 file teks -->
  
  ![Progress](https://progress-bar.dev/11/?title=koreksi-teks)
- <!-- 19 dari 169 file teks -->
+ <!-- 20 dari 169 file teks -->
  
  ![Progress](https://progress-bar.dev/100/?title=gambar)
  <!-- 29 dari 29 file gambar -->
