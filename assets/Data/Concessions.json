@@ -26,7 +26,7 @@
     "ID": 2,
     "Name": "Joja Cola",
     "DisplayName": "Joja Cola",
-    "Description": "An extra-large cup of Joja's flagship soda.",
+    "Description": "Ukuran besar minuman soda khas Joja.",
     "Price": 40,
     "ItemTags": [
       "Drink",
@@ -38,7 +38,7 @@
     "ID": 3,
     "Name": "Sour Slimes",
     "DisplayName": "Sour Slimes",
-    "Description": "Tiny gummy slimes of assorted colors. They're sprinkled with an extremely sour powder.",
+    "Description": "Permen slime kecil dengan berbagai macam warna. Ditaburi bubuk yang sangat asam.",
     "Price": 80,
     "ItemTags": [
       "Sour",
@@ -49,7 +49,7 @@
     "ID": 4,
     "Name": "Personal Pizza",
     "DisplayName": "Personal Pizza",
-    "Description": "A pizza small enough to enjoy as a snack.",
+    "Description": "Pizza yang cukup kecil untuk dinikmati sebagai camilan.",
     "Price": 150,
     "ItemTags": [
       "Hot",
@@ -60,7 +60,7 @@
     "ID": 5,
     "Name": "Nachos",
     "DisplayName": "Nachos",
-    "Description": "Gooey, spicy cheese on top of freshly fried tortilla chips.",
+    "Description": "Keju meleleh yang pedas di atas keripik tortilla yang baru digoreng.",
     "Price": 100,
     "ItemTags": [
       "Hot",
@@ -72,7 +72,7 @@
     "ID": 6,
     "Name": "Salmon Burger",
     "DisplayName": "Salmon Burger",
-    "Description": "A thick slab of salmon on a lightly toasted sesame seed bun.",
+    "Description": "Sepotong daging salmon tebal pada roti wijen yang dipanggang ringan.",
     "Price": 150,
     "ItemTags": [
       "Sandwich",
@@ -83,7 +83,7 @@
     "ID": 7,
     "Name": "Ice Cream Sandwich",
     "DisplayName": "Ice Cream Sandwich",
-    "Description": "Vanilla ice cream sandwiched between two chocolate cookies.",
+    "Description": "Es krim vanilla diapit di tengah dua kukis cokelat.",
     "Price": 150,
     "ItemTags": [
       "Sandwich",
@@ -95,7 +95,7 @@
     "ID": 8,
     "Name": "Popcorn",
     "DisplayName": "Popcorn",
-    "Description": "Popped kernels of corn, dusted lightly with salt and drizzled with butter.",
+    "Description": "Biji jagung yang meletup, ditaburi dengan garam dan mentega.",
     "Price": 120,
     "ItemTags": [
       "Hot",
@@ -106,7 +106,7 @@
     "ID": 9,
     "Name": "Fries",
     "DisplayName": "Fries",
-    "Description": "Thin slices of potato, deep fried and then lightly salted.",
+    "Description": "Irisan tipis kentang, yang digoreng lalu sedikit diasinkan.",
     "Price": 100,
     "ItemTags": [
       "Hot",
@@ -118,7 +118,7 @@
     "ID": 10,
     "Name": "Chocolate Popcorn",
     "DisplayName": "Chocolate Popcorn",
-    "Description": "It's normal popcorn... but with a chocolate coating.",
+    "Description": "Ini popcorn biasa... tapi dengan lapisan cokelat.",
     "Price": 130,
     "ItemTags": [
       "Hot",
@@ -129,7 +129,7 @@
     "ID": 11,
     "Name": "Black Licorice",
     "DisplayName": "Black Licorice",
-    "Description": "A chewy candy with an intense, pungent flavor.",
+    "Description": "Permen kenyal dengan aroma yang tajam dan menyengat.",
     "Price": 25,
     "ItemTags": null
   },
@@ -137,7 +137,7 @@
     "ID": 12,
     "Name": "Star Cookie",
     "DisplayName": "Star Cookie",
-    "Description": "A star-shaped shortbread cookie with rainbow sprinkles.",
+    "Description": "Kue roti berbentuk bintang dengan taburan pelangi.",
     "Price": 150,
     "ItemTags": [
       "Sweet"
@@ -147,7 +147,7 @@
     "ID": 13,
     "Name": "Jawbreaker",
     "DisplayName": "Jawbreaker",
-    "Description": "It's a big, hard candy that lasts the whole movie!",
+    "Description": "Ini adalah permen besar dan keras yang bisa bertahan sepanjang film!",
     "Price": 250,
     "ItemTags": [
       "Sweet",
@@ -158,7 +158,7 @@
     "ID": 14,
     "Name": "Salted Peanuts",
     "DisplayName": "Salted Peanuts",
-    "Description": "A classic salty treat.",
+    "Description": "Camilan asin klasik.",
     "Price": 120,
     "ItemTags": [
       "Salty"
@@ -168,7 +168,7 @@
     "ID": 15,
     "Name": "Hummus Snack Pack",
     "DisplayName": "Hummus Snack Pack",
-    "Description": "It's crunchy and healthy.",
+    "Description": "Renyah dan sehat..",
     "Price": 90,
     "ItemTags": [
       "Healthy"
@@ -178,7 +178,7 @@
     "ID": 16,
     "Name": "Kale Smoothie",
     "DisplayName": "Kale Smoothie",
-    "Description": "It's loaded with vitamins and fiber.",
+    "Description": "Ini dipenuhi vitamin dan serat.",
     "Price": 120,
     "ItemTags": [
       "Drink",
@@ -189,7 +189,7 @@
     "ID": 17,
     "Name": "Apple Slices",
     "DisplayName": "Apple Slices",
-    "Description": "Crunchy and sweet little slices.",
+    "Description": "Irisan kecil yang renyah dan manis.",
     "Price": 100,
     "ItemTags": [
       "Sweet",
@@ -200,7 +200,7 @@
     "ID": 18,
     "Name": "Panzanella Salad",
     "DisplayName": "Panzanella Salad",
-    "Description": "A summer salad of bread and tomatoes.",
+    "Description": "Salad musim panas dengan roti dan tomat.",
     "Price": 200,
     "ItemTags": [
       "Gourmet",
@@ -211,7 +211,7 @@
     "ID": 19,
     "Name": "Truffle Popcorn",
     "DisplayName": "Truffle Popcorn",
-    "Description": "Heirloom popcorn sprinkled with truffle salt.",
+    "Description": "Popcorn mewah yang ditaburi garam truffle.",
     "Price": 180,
     "ItemTags": [
       "Gourmet",
@@ -222,7 +222,7 @@
     "ID": 20,
     "Name": "Cappuccino Mousse Cake",
     "DisplayName": "Cappuccino Mousse Cake",
-    "Description": "A small chocolate cake glazed with a cappuccinio mousse.",
+    "Description": "Kue coklat kecil yang dilapisi dengan cappuccinio mousse.",
     "Price": 220,
     "ItemTags": [
       "Sweet",
@@ -233,7 +233,7 @@
     "ID": 21,
     "Name": "JojaCorn",
     "DisplayName": "JojaCorn",
-    "Description": "Joja's patented corn food, slathered in plenty of \"b'utter sauce\".",
+    "Description": "Makanan jagung Joja's yang dipatenkan, disiram dengan banyak \"saus m'entega\".",
     "Price": 10,
     "ItemTags": [
       "Joja"
@@ -243,7 +243,7 @@
     "ID": 22,
     "Name": "Stardrop Sorbet",
     "DisplayName": "Stardrop Sorbet",
-    "Description": "A single drop of stardrop essence tranforms this sorbet into an extraordinary treat.",
+    "Description": "Setetes esensi stardrop menjadikan sorbet ini sebagai suguhan luar biasa.",
     "Price": 1250,
     "ItemTags": [
       "Sweet",
@@ -254,7 +254,7 @@
     "ID": 23,
     "Name": "Rock Candy",
     "DisplayName": "Rock Candy",
-    "Description": "Flavored sugar crystals attached to a convenient stick.",
+    "Description": "Kristal gula banyak rasa yang melekat pada tusuk yang nyaman.",
     "Price": 90,
     "ItemTags": [
       "Sweet",
