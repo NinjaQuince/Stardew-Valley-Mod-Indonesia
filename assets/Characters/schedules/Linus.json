@@ -1,8 +1,0 @@
-{
-  "rain": "700 Tent 2 2 0/930 Mountain 25 5 1/1010 Tent 3 2 2/1500 Mountain 17 7 2/1900 Tent 2 2 2",
-  "winter_15": "1100 Mountain 28 9 1/1600 Beach 19 4 2 \"Strings\\schedules\\Linus:winter_15.000\"/2330 Tent 4 4 2 linus_sleep",
-  "summer": "630 Mountain 39 5 1/940 Mountain 44 27 1 square_3_3/1300 Mountain 48 35 2 square_3_3/1600 Mountain 28 9 1/2000 Mountain 25 5 1/2020 Tent 2 2 2",
-  "fall": "700 Mountain 25 5 1/740 Mountain 28 9 1/900 Railroad 20 57 2 square_5_5/1400 Mountain 44 18 1/1800 Tent 2 2 2",
-  "winter": "1100 Mountain 28 9 1/1400 BathHouse_Entry 8 6 3 \"Strings\\schedules\\Linus:winter.000\"/1800 Tent 2 2 2",
-  "spring": "630 Mountain 25 5 1/700 Mountain 28 9 1/930 Mountain 45 19 1/1400 Mountain 28 9 1/1900 Tent 3 2 1/2100 Tent 1 3 2/2300 Tent 4 4 2 linus_sleep"
-}
