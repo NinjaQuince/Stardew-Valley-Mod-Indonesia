@@ -1,38 +1,20 @@
 {
-    "header": {
-        "target": "w",
-        "formatVersion": 5,
-        "hidef": true,
-        "compressed": 128
-    },
-    "readers": [
-        {
-            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "version": 0
-        },
-        {
-            "type": "Microsoft.Xna.Framework.Content.StringReader",
-            "version": 0
-        }
-    ],
-    "content": {
-        "4": "...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters.#$e#You haven't... slain any of my friends, have you?",
-        "8": "A 1000 year war between my people and the dwarves recently ended. There's still a lot of resentment on both sides.",
-        "15": "Please keep my location a secret. If the dwarves knew of me, they'd surely send an assassin.",
-        "Fri": "...",
-        "reject_868": "Oh, it's an arctic shard! That's a very rare magical item.#$b#I'd bring that to the Wizard if I were you!",
-        "Wed": "I find things here and I sell them. Care to buy anything?",
-        "Wed6": "If you put your ear up to the right pipe, you can hear into any house from down here.#$b#I wouldn't eavesdrop, though!$3",
-        "Thu": "Please don't tell anyone about me.#$b#Humans tend to destroy things they can't understand.",
-        "Thu6": "Please don't tell anyone about me.#$b#Most humans are frightened by us shadow people... maybe for good reason.$s#$b#But regardless, if the townspeople knew about me, I might not be safe here.",
-        "Tue": "I am too sensitive to sunlight to go out on most days.#$b#The conditions in here are perfect.#$e#Care to buy anything?",
-        "Mon": "Please, don't be alarmed. I am different than the others.#$e#I've spent a lot of time observing humans. I know you like to shop. Care to see my wares?",
-        "Mon2": "Back again? I suppose it does fit into my theory of human behavior.",
-        "Mon6": "'Krobus' means 'bridge-crosser' in our language.",
-        "Sat": "On Fridays I stay silent as a sign of devotion to Yoba.",
-        "Sun": "...Sorry, I'm still a little wary of humans. My shop is still open to you, however.",
-        "Sun4": "You're not like the other humans, are you?",
-        "Sun8": "You've opened my eyes to the world of humans. I appreciate that.",
-        "divorced": "..."
-    }
+  "4": "...Apa ada yang lain sepertiku di tambang? Maaf kalau mereka memusuhimu. Kami terbiasa takut pada manusia... karena banyak... pertemuan yang tidak menyenangkan.#$e#KAmu belum... membunuh teman-temanku, kan?",
+  "8": "Perang 1000 tahun antara kaumku dan Dwarf baru-baru ini berakhir. Masih banyak kebencian di kedua sisi.",
+  "15": "Tolong rahasiakan lokasiku. Kalau ada Dwarf yang tahu, mereka pasti mengirim pembunuh.",
+  "Fri": "...",
+  "reject_868": "Oh, sebuah Arctic Shard! Item magis yang sangat langka.#$b#Kalau aku, aku akan memberinya pada Penyihir!",
+  "Wed": "Aku menemukan benda-benda ini. Mau beli sesuatu?",
+  "Wed6": "Kalau kau mendengar di pipa yang tepat, kau bisa mendengar rumah manapun dari bawah sini.#$b#Tapi aku tidak akan menguping!$3",
+  "Thu": "Jangan beritahu siapapun tentangku.#$b#Manusia suka menghancurkan hal yang mereka tidak pahami.",
+  "Thu6": "Jangan beritahu siapapun tentangku.#$b#Kebanyakan manusia takut dengan Shadow People... Mungkin itu yang terbaik.$s#$b#Lagipula, jika warga kota tahu tentangku, aku tidak akan aman disini.",
+  "Tue": "Aku sangat sensitif terhadap sinar matahari.#$b#Kondisi di sini sempurna.#$e#Mau beli sesuatu?",
+  "Mon": "Tolong, jangan kaget. Aku berbeda dari yang lain.#$e#Aku telah menghabiskan banyak waktu mengamati manusia. Mau lihat daganganku?",
+  "Mon2": "Kembali lagi? Kurasa teoriku akan perilaku manusia benar.",
+  "Mon6": "'Krobus' berarti 'penyeberang-jembatan' dalam bahasa kami.",
+  "Sat": "Pada hari Jumat, aku berdiam diri sebagai tanda pengabdian kepada Yoba.",
+  "Sun": "...Maaf, aku masih sedikit waspada manusia. Tapi, tokoku masih terbuka untukmu.",
+  "Sun4": "Kau tidak seperti manusia lainnya.",
+  "Sun8": "Kau telah membuka mataku ke dunia manusia. Aku hargai itu.",
+  "divorced": "..."
 }

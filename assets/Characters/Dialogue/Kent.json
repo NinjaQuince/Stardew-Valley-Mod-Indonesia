@@ -1,45 +1,27 @@
 {
-    "header": {
-        "target": "w",
-        "formatVersion": 5,
-        "hidef": true,
-        "compressed": 128
-    },
-    "readers": [
-        {
-            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "version": 0
-        },
-        {
-            "type": "Microsoft.Xna.Framework.Content.StringReader",
-            "version": 0
-        }
-    ],
-    "content": {
-        "Mon": "Hello, farmer.#$e#I've been gone so long... I feel like a stranger.",
-        "Resort_Entering": "Hey, @. Nice to see you.",
-        "Resort_Leaving": "Time to head home.",
-        "Resort_Shore": "Standing on this beach... I feel a rare sense of peace.$h#$e#The ocean is a very special thing.",
-        "Resort_Chair": "This is a great place to bond with the family. I really appreciate you fixing it up.",
-        "Resort_Bar": "Just getting some water.",
-        "Resort": "The boat ride was fun. I even got to use some of my nautical training to help navigate.$h",
-        "MovieInvitation": "Erm... okay. Thank you. I'll meet you there.$h",
-        "accept_864": "...!$4#$b#...Where did you find this?$4#$b#...$5#$b#This man... We fought together in the war, @. He was like a brother to me. #$b#But... only one of us made it back.$5#$b#He never lost his courage, though. Even in the face of death. A true hero... I'll never forget him.#$b#Thanks for bringing me this... It means a lot to me.#$b#Here, take this. It's been sitting in the back of our cupboard for years, and we've never used it.",
-        "reject_865": "Yep... It's been tightly sealed, so the flavor should still be really potent.",
-        "Mon4": "I don't know if I'll ever get used to being back home.#$e#The peacefulness of the town feels like a mask. That's probably just me though.",
-        "Tue": "Things haven't changed much since I've been gone.#$e#Well, except that you're here.",
-        "Tue2": "Things haven't changed much since I've been gone.#$e#Except that we have a new farmer in town.$h",
-        "Wed6": "...I lost a lot of friends in battle.$s#$e#What's sad is that I can't even remember their faces.#$e#...",
-        "Wed": "You've been here a while now, haven't you? Your farm must be thriving.",
-        "Thu6": "#$1 Kent1#I've been up since 4 o'clock... sometimes I wonder if I'll ever get back into a normal routine.$k#$e#Sam has really grown up since I left. He's a man now.#$e#I wish I could've been there for him.$s",
-        "Thu": "Are you friends with my son?#$e#You probably know him better than I do...$s",
-        "Thu_inlaw_Sam": "Hey, @. Are you enjoying the married lifestyle?",
-        "Fri": "It looks like a decent day for fishing, doesn't it?",
-        "Sat": "Jodi tells me you've really become a part of this community. I'm glad to hear it.",
-        "Sat8": "I have trouble sleeping, so please excuse me if I seem tired.#$e#I'm sure you can understand.",
-        "Sun": "I don't know what to do with myself now that I'm back.#$e#I'm used to having more structure in my day.",
-        "event_popcorn1": "You keep quiet! Stop trying to turn me against my wife.$u",
-        "event_popcorn2": "...$s#$b#You're absolutely right, @.$s",
-        "event_popcorn3": "Don't lie to me! I hate lies more than anything!$u"
-    }
+  "Mon": "Halo kawan.#$e#Aku sudah pergi begitu lama... Aku merasa seperti orang asing.",
+  "Resort_Entering": "Hei, @. Senang melihatmu.",
+  "Resort_Leaving": "Saatnya pulang.",
+  "Resort_Shore": "Berdiri di pantai ini... Aku merasakan kedamaian yang jarang kurasakan.$h#$e#Lautan adalah sesuatu yang spesial.",
+  "Resort_Chair": "Ini tempat yang bagus untuk mempererat hubungan keluargaku. Aku sangat berterimakasih padamu.",
+  "Resort_Bar": "Aku cuma pesan beberapa gelas air.",
+  "Resort": "Perjalanan dengan perahu sangat menyenangkan. Aku bahkan menggunakan beberapa keahlian militerku untuk menavigasi.$h",
+  "MovieInvitation": "Erm... oke. Terima kasih. Kutemui kau di sana.$h",
+  "accept_864": "...!$4#$b#...Di mana kau menemukan ini?$4#$b#...$5#$b#Orang ini... Kami berperang bersama, @. Dia sudah seperti saudara. #$b#Tapi... Hanya aku yang berhasil kembali.$5#$b#Walau begitu, ia tidak pernah kehilangan semangat. Bahkan dihadapan kematian. Pahlawan sejati... Aku tidak akan melupakannya.#$b#Terima kasih telah memberikan ini... Ini sangat berarti bagiku.#$b#Ini, ambillah. Sudah bertahun-tahun benda ini ada di lemari, dan tidak pernah kami gunakan.",
+  "reject_865": "Yap... Masih tertutup rapat, jadi rasanya masih sangat tajam.",
+  "Mon4": "Aku tak tahu apa aku bisa terbiasa lagi setelah pulang.#$e#Kedamaian kota terasa seperti topeng. Mungkin itu cuma perasaanku saja.",
+  "Tue": "Banyak yang tidak berubah sejak aku pergi.#$e#Kecuali sekarang kamu ada di sini.",
+  "Tue2": "Banyak yang tidak berubah sejak aku pergi.#$e#Kecuali, kita punya petani baru.$h",
+  "Wed6": "...Aku kehilangan banyak teman di medan tempur.$s#$e#Yang menyedihkan adalah, aku bahkan tidak ingat wajah mereka.#$e#...",
+  "Wed": "Kau sudah cukup lama berada di sini, kan? Kebunmu pasti sudah banyak berkembang.",
+  "Thu6": "#$1 Kent1#Aku bangun sejak jam 4... kadang aku bertanya-tanya, apa aku akan bisa kembali ke rutinitas normal.$k#$e#Sam sudah tumbuh besar sejak aku meninggalkannya. Dia sudah dewasa sekarang.#$e#Andai saja aku bisa menemani masa tumbuhnya.$s",
+  "Thu": "Apa kau berteman dengan anakku?#$e#Kau mungkin lebih mengenalnya daripada aku...$s",
+  "Thu_inlaw_Sam": "Hai, @. Apa kau menikmati kehidupan setelah menikah?",
+  "Fri": "Sepertinya ini hari yang baik untuk memancing, iya kan?",
+  "Sat": "Jodi bilang, kau sudah menjadi bagian dari komunitas ini. Aku senang mendengarnya.",
+  "Sat8": "Aku sering kesulitan tidur, jadi maaf, kalau aku tampak lelah.#$e#Aku yakin kau bisa mengerti.",
+  "Sun": "Aku tidak tahu harus melakukan apa setelah kembali.#$e#Aku terbiasa hidup disiplin.",
+  "event_popcorn1": "Diam! Jangan membuatku menentang istriku.$u",
+  "event_popcorn2": "...$s#$b#Kau benar, @.$s",
+  "event_popcorn3": "Jangan bohong padaku! Aku benci kebohongan lebih dari apapun!$u"
 }

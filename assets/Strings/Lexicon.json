@@ -1,44 +1,26 @@
 {
-    "header": {
-        "target": "w",
-        "formatVersion": 5,
-        "hidef": true,
-        "compressed": 128
-    },
-    "readers": [
-        {
-            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "version": 0
-        },
-        {
-            "type": "Microsoft.Xna.Framework.Content.StringReader",
-            "version": 0
-        }
-    ],
-    "content": {
-        "RandomNegativeItemNoun": "garbage#trash#junk#slop#crap",
-        "RandomPositiveAdjective_Child": "cool#fun#neat#nice#nifty#super#great",
-        "RandomPositiveAdjective_AdultMale": "interesting#exciting#neat#fun#great#terrific",
-        "RandomPositiveAdjective_AdultFemale": "wonderful#amazing#heart-warming#magical#incredible#lovely#exhilarating#delightful",
-        "RandomPositiveAdjective_PlaceOrEvent": "wonderful#amazing#heart-warming#magical#incredible#lovely#exhilarating#delightful",
-        "RandomNegativeAdjective_Child": "stupid#idiotic#lame#boring#dumb",
-        "RandomNegativeAdjective_AdultMale": "horrible#terrible#distasteful#boring#depressing#despicable#laughable",
-        "RandomNegativeAdjective_AdultFemale": "sad#boring#stressful#depressing#pitiful#childish#despicable",
-        "RandomNegativeAdjective_PlaceOrEvent": "sad#boring#stressful#depressing#pitiful#childish#despicable",
-        "RandomDeliciousAdjective": "delicious#tasty#wonderful#satisfying#filling#scrumptious#appetizing#delightful",
-        "RandomDeliciousAdjective_Child": "yummy",
-        "RandomNegativeFoodAdjective_Child": "gross",
-        "RandomNegativeFoodAdjective_Polite": "...interesting#...unusual#...different#...unconventional",
-        "RandomNegativeFoodAdjective": "nasty#gross#disgusting#despicable#revolting#sickening#awful#repulsive#nauseating#foul#horrendous#putrid",
-        "RandomSlightlyPositiveFoodAdjective": "decent#good#edible",
-        "ChildTerm_Male": "boy",
-        "ChildTerm_Female": "girl",
-        "Pronoun_Male": "him",
-        "Pronoun_Female": "her",
-        "QuestionDialogue_Yes": "Yes",
-        "QuestionDialogue_No": "No",
-        "GenericPlayerTerm": "farmer",
-        "Possessive_Pronoun_Male": "his",
-        "Possessive_Pronoun_Female": "her"
-    }
+  "RandomNegativeItemNoun": "sampah#jijik#kotor#busuk#burik",
+  "RandomPositiveAdjective_Child": "keren#seru#mantap#bagus#cocok#super#hebat",
+  "RandomPositiveAdjective_AdultMale": "menarik#seru#mantap#seru#bagus#hebat",
+  "RandomPositiveAdjective_AdultFemale": "hebat#menakjubkan#bagus#ajaib#luar-biasa#indah#mengagumkan#fantastis",
+  "RandomPositiveAdjective_PlaceOrEvent": "hebat#menakjubkan#bagus#ajaib#luar-biasa#indah#mengagumkan#fantastis",
+  "RandomNegativeAdjective_Child": "bodoh#idiot#payah#bosan#tolol",
+  "RandomNegativeAdjective_AdultMale": "parah#seram#runyam#bosan#depresi#gawat#kritis",
+  "RandomNegativeAdjective_AdultFemale": "sedih#bosan#stress#sedih#kasihan#kekanak-kanakan#jahat",
+  "RandomNegativeAdjective_PlaceOrEvent": "sedih#bosan#stress#sedih#kasihan#kekanak-kanakan#seram",
+  "RandomDeliciousAdjective": "lezat#enak#maknyus#mantap#kenyang#sedap#gurih#nikmat",
+  "RandomDeliciousAdjective_Child": "enyak",
+  "RandomNegativeFoodAdjective_Child": "jijik",
+  "RandomNegativeFoodAdjective_Polite": "...menarik#...aneh#...unik#...tidak-biasa",
+  "RandomNegativeFoodAdjective": "jijik#kotor#memuakkan#hina#bikin-sakit-perut#bikin-mual#parah#jijik#bikin-mual#busuk#tidak-enak#bau-busuk",
+  "RandomSlightlyPositiveFoodAdjective": "lumayan#enak#biasa",
+  "ChildTerm_Male": "anak",
+  "ChildTerm_Female": "anak",
+  "Pronoun_Male": "dia",
+  "Pronoun_Female": "dia",
+  "QuestionDialogue_Yes": "Iya",
+  "QuestionDialogue_No": "Tidak",
+  "GenericPlayerTerm": "Petani",
+  "Possessive_Pronoun_Male": "nya",
+  "Possessive_Pronoun_Female": "nya"
 }

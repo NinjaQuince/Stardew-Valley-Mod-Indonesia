@@ -12,17 +12,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Nonton di bioskop bersama ibu jadi buat aku ingat waktu dulu!"
+            "Text": "Nonton film bersama Ibu membuatku nostalgia!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"(Pam dan Penny menonton dengan seksama.)\"",
+            "Script": "/message \"(Pam dan Penny menonton dengan sungguh-sungguh!)\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Rasanya menyenangkan bisa melakukan hal-hal sebagai keluarga lagi!"
+            "Text": "Senang bisa meluangkan waktu dengan keluarga lagi!"
           }
         },
         "ID": "reaction_0"
@@ -35,17 +35,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku sudah tak sabar ingin menonton ini! Jas dan Vincent terus-terusan membicarakan film ini."
+            "Text": "Aku menantikan ini! Jas dan Vincent tak henti-henti membicarakannya."
           },
           "DuringMovie": {
             "ResponsePoint": "sprout_leave",
-            "Script": "/shake Penny 3000/pause 500/message \"Penny terlihat seperti menahan tangis...\"",
-            "Text": "Wow, pasti sulit sekali baginya untuk meninggalkan keluarganya seperti itu...$s"
+            "Script": "/shake Penny 3000/pause 500/message \"Penny tampaknya sedang menahan tangis...\"",
+            "Text": "Wow, pasti sulit baginya untuk meninggalkan keluarga...$s"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Terimakasih sudah membawaku untuk menonton ini. Aku tidak sabar untuk memberitahu anak-anak betapa bagusnya film ini!"
+            "Text": "Terima kasih sudah mengajakku, aku tak sabar ingin menceritakannya pada anak-anak!"
           }
         },
         "ID": "reaction_1"
@@ -65,7 +65,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oh, '{0}'! Ini kelihatan bagus dan seru!"
+            "Text": "Oh, '{0}'! Sepertinya ini film yang ceria dan bermanfaat!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -75,7 +75,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Wow, aku akan ajak anak-anak untuk menonton ini kapan-kapan!"
+            "Text": "Lain kali aku harus mengajak anak-anak nonton ini!"
           }
         },
         "ID": "reaction_3"
@@ -88,17 +88,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Jadi tidak sabar, aku sedang ingin tertawa!"
+            "Text": "Aku sudah tak sabar, aku siap untuk tertawa lepas!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ya ampun, mereka...?! Hahahaha!"
+            "Text": "Loh, mereka barusan...?! Hahahaha!"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Wow, perutku sampai sakit karena terlalu banyak tertawa...!"
+            "Text": "Whew, rahangku kram gara-gara tertawa terus...!"
           }
         },
         "ID": "reaction_4"
@@ -111,17 +111,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku agak takut... Aku tidak biasa nonton film horor.$s"
+            "Text": "Aku takut... Aku jarang nonton film horor.$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "/shake Penny 3000/pause 500/emote Penny 28",
-            "Text": "Aku tidak mau lihat ini...$s"
+            "Text": "Nggak mau lihat...$s"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku harap aku tidak mimpi buruk malam ini!$s"
+            "Text": "Semoga nanti aku tidak mimpi buruk!$s"
           }
         },
         "ID": "reaction_5"
@@ -134,13 +134,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oooh, Aku ingin sekali nonton film ini!"
+            "Text": "Oooh, sudah lama aku ingin nonton ini!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Luar biasa! Aku harap mereka membuat film lagi!"
+            "Text": "Luar biasa! Semoga mereka bikin film yang seperti ini lagi!"
           }
         },
         "ID": "reaction_6"
@@ -153,13 +153,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku dengar film ini bagus!"
+            "Text": "Hei, Aku dengar-dengar katanya film ini bagus!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Wow, film itu bagus! Terimakasih sudah menemaniku melihat ini!"
+            "Text": "Filmnya bagus! Terima kasih sudah nonton sama aku!"
           }
         },
         "ID": "reaction_7"
@@ -172,7 +172,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku tidak biasanya nonton film seperti ini, tapi aku akan coba untuk berpikiran terbuka..."
+            "Text": "Aku belum tentu mau nonton film ini sendiri, tapi akan kuberi kesempatan..."
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -182,7 +182,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Maaf kalau aku buat suasana jadi tidak enak, tapi film ini benar-benar bukan seleraku..."
+            "Text": "Maaf kalau kamu kurang menikmati filmnya karena aku, soalnya aku kurang suka..."
           }
         },
         "ID": "reaction_8"
@@ -195,7 +195,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ooh, '{0}'! Aku sudah lihat ini dengan {2}!"
+            "Text": "Ooh, '{0}'! Aku pernah nonton ini sama {2}!"
           },
           "DuringMovie": null,
           "AfterMovie": null
@@ -210,7 +210,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku sudah tonton ini dengan {2}, lumayan seru!"
+            "Text": "Aku pernah nonton ini sama {2}, filmnya lumayan bagus!"
           },
           "DuringMovie": null,
           "AfterMovie": null
@@ -225,7 +225,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmm, sepertinya aku sudah melihat ini bersama {2} waktu itu..."
+            "Text": "Hmm, kayaknya {2} pernah mengajakku nonton ini..."
           },
           "DuringMovie": null,
           "AfterMovie": null
@@ -245,13 +245,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey, terimakasih sudah mengajakku!"
+            "Text": "Hei, nak. Makasih sudah mengajakku."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Heh, film itu tidak terlalu buruk!"
+            "Text": "Heh, filmnya nggak buruk juga!"
           }
         },
         "ID": "reaction_0"
@@ -269,17 +269,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Psst... Hey, ini aku, Krobus. Bisakah kau mengenaliku?$8#$b#Kalau ada yang mendekati kita, kamu yang bicara, ya?$8"
+            "Text": "Psst... Hei, ini aku, Krobus. Apa kau bisa mengenaliku?$8#$b#Kalau ada yang kesini, kamu yang bicara, oke?$8"
           },
           "DuringMovie": {
             "ResponsePoint": "mysterium_shadow",
-            "Script": "/message \"Krobus is stewing...\"",
-            "Text": "Tidak semua Orang Bayangan seperti itu!$8"
+            "Script": "/message \"Krobus menahan amarah...\"",
+            "Text": "Tidak semua kaum Shadow seperti itu!$8"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku tidak terbiasa menggunakan pakaian... Rasanya tidak nyaman!$8"
+            "Text": "Aku tidak terbiasa pakai pakaian... Rasanya tidak nyaman!$8"
           }
         },
         "ID": "reaction_0"
@@ -292,13 +292,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*ahem*... Halo! Aku tidak sabar untuk mengunjungi pusat hiburan visual dan makan popcorn... seperti kamu!$8#$b#*berbisik*... bagaimana menurutmu?$8"
+            "Text": "*ahem*... Halo! Aku sangat menantikan hiburan visual ini sambil memakan jagung yang meletup... sama sepertimu!$8#$b#*berbisik*... bagaimana penyamaranku?$8"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Jadi spesiesmu menikmati memandangi cahaya berkedip selama berjam-jam? Menarik juga...$8"
+            "Text": "Jadi, spesiesmu suka menatapi cahaya berkedip selama berjam-jam? Menarik...$8"
           }
         },
         "ID": "reaction_1"
@@ -316,17 +316,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku merasakan kekuatan misterius dari gedung ini malam ini..."
+            "Text": "Indraku merasakan kekuatan misterius merambati bangunan ini..."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"Ada kerlip di mata Penyihir...\"",
-            "Text": "Dan kalau dipikir lagi, orang awam tidak tahu bahwa ini semua adalah dokumentasi asli!"
+            "Script": "/message \"Mata Penyihir berbinar-binar...\"",
+            "Text": " Orang awam tidak ada yang tahu kalau ini rekaman yang asli!"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Bagi mereka yang sadar akan misteri esotirk, itu memiliki arti yang dalam..."
+            "Text": " Bagi mereka yang tahu akan misterinya, film ini punya arti yang dalam..."
           }
         },
         "ID": "reaction_1"
@@ -345,7 +345,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Kamu ganggu waktu belajarku untuk melihat *ini*?"
+            "Text": "Kau membuatku berhenti belajar cuma untuk *ini*?"
           }
         },
         "ID": "reaction_0"
@@ -384,13 +384,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Surat kabar memberikan film ini '5 bintang', jadi kurasa aku akan coba lihat ini."
+            "Text": "Koran memberi film ini nilai '5 bintang', karenanya aku bersedia nonton."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Heh! Film ini sebenarnya lumayan bagus! Terimakasih sudah mengajakku."
+            "Text": "Heh! Filmnya bagus juga! Terima kasih sudah mengajakku."
           }
         },
         "ID": "reaction_3"
@@ -403,13 +403,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmph... Bioskop sudah tidak seperti yang dulu lagi... Tapi filimnya mungkin cukup bagus."
+            "Text": "Hmph... Bioskop sekarang sudah tidak seperti dulu... Tapi mungkin kualitas gambarnya lebih bagus."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Heh. Dibandingkan film lainya belakangan ini, tidak terlalu buruk.$h"
+            "Text": "Heh. Dibandingkan sama film-film lain di jaman ini, tidak buruk juga.$h"
           }
         },
         "ID": "reaction_4"
@@ -422,13 +422,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmph... Aku sudah pasti bakal ketiduran."
+            "Text": "Hmph... Aku nanti tidur saja."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Memalukan! Jaman sekarang 'sampah' seperti ini dibilang film... "
+            "Text": "Memalukan! Sampah seperti ini kok disebut 'film'... "
           }
         },
         "ID": "reaction_5"
@@ -460,13 +460,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ini katanya lumayan lucu, aku menantikanya."
+            "Text": "Film ini seharusnya lucu, aku sudah menantikannya."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hah! Aku suka sekali film ini. Tapi aku tidak tahu apakah aku bisa bertahan hanya dengan batangan gluten seperti itu."
+            "Text": "Hah! Aku suka sekali. Tapi entah apa aku bisa bertahan hidup cuma makan makanan kenyal."
           }
         },
         "ID": "reaction_2"
@@ -479,13 +479,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku sudah berencana untuk melihat ini sejak beberapa waktu lalu. Terimakasih tiketnya, @!"
+            "Text": "Sudah lama aku menantikan ini. Terima kasih tiketnya, @!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tadi sangat menyenangkan! Kakiku masih kesemutan karena kegembiraan."
+            "Text": "Filmnya bagus banget! Kakiku masih gemeteran saking serunya."
           }
         },
         "ID": "reaction_3"
@@ -498,13 +498,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey, Aku tidak sabar untuk melihat ini! Tapi kurasa aku akan butuh cemilan..."
+            "Text": "Hei, aku nggak sabar lagi buat nonton! Tapi aku pengin cemilan..."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey, tadi lumayan. Terimakasih sudah mengajakku melihat ini, @."
+            "Text": "Hei, filmnya bagus. Makasih sudah ngajak aku, @."
           }
         },
         "ID": "reaction_4"
@@ -517,13 +517,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film ini sepertinya agak kutu-buku, tapi aku akan coba tonton."
+            "Text": "Kayaknya film ini payah, tapi akan kucoba dulu."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku tidak tahu apakah film ini memang membosankan atau aku saja yang tidak cukup pintar untuk memahaminya...$s"
+            "Text": "Entah karena aku bosen, atau karena aku kurang cerdas memahami filmnya...$s"
           }
         },
         "ID": "reaction_5"
@@ -555,13 +555,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Sebelum bioskop ini dibangun, aku tidak pernah ke bioskop selama 20 tahun!$h"
+            "Text": "Sebelum ada bioskop di kota ini, aku terakhir nonton film 20 tahun yang lalu!$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku menyukainya... sekarang kamu tahu kenapa '{0}' dianggap sebagai salah satu film klasik."
+            "Text": "Aku suka sekali... sekarang kamu tahu kenapa '{0}' dianggap klasik."
           }
         },
         "ID": "reaction_2"
@@ -574,13 +574,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Kamu baik sekali mengajak wanita tua ke bioskop.$h"
+            "Text": "Kamu baik sekali mengajak wanita tua nonton film.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku senang sekali mereka masih membuat film yang bagus... Tadi itu menyenangkan!"
+            "Text": "Aku senang mereka masih membuat film yang layak... Aku menikmatinya!"
           }
         },
         "ID": "reaction_3"
@@ -593,17 +593,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku tidak pernah menyukai film seram, tapi aku aku akan coba berpikiran terbuka."
+            "Text": "Aku kurang suka film seram, tapi akan kucoba nonton dulu."
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "/shake Evelyn 3000/pause 500/message \"Evelyn menutupi matanya.\"",
-            "Text": "Apakah ini sudah berakhir?$s"
+            "Text": "Sudah selesai belum?$s"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku harus menutup mataku sebagian besar waktu...$s"
+            "Text": "Aku kebanyakan menutup mata...$s"
           }
         },
         "ID": "reaction_4"
@@ -628,13 +628,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku tumbuh dengan menonton film sci-fi, jadi aku tertarik untuk melihat adaptasi modern dari genre ini."
+            "Text": "Dari kecil aku suka nontom film sains fiksi jadul, jadi aku tertarik dengan yang modern."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hah! Tidak seperti yang aku duga, tapi aku menyukainya! Aku sangat berempati dengan Wumbus.$h"
+            "Text": "Hah! Tidak seperti yang kuduga, tapi lama-lama aku suka! Aku sangat mengenali Wumbus.$h"
           }
         },
         "ID": "reaction_1"
@@ -647,13 +647,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku biasanya bekerja setiap waktu, jadi sangat menyenangakan rasanya melakukan hal seperti ini."
+            "Text": "Biasanya aku selalu kerja terus-terusan, jadi aku senang bisa sesekali melakukan kegiatan seperti ini."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Lumayan juga! Mereka punya merchandise yang bisa aku jual tidak ya..."
+            "Text": "Tidak buruk juga! Apa mereka menjual barang yang bisa aku stok..."
           }
         },
         "ID": "reaction_2"
@@ -685,17 +685,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku tidak percaya mereka membuat film Prairie King... Kuharap filmnya bagus!"
+            "Text": "Aku tidak percaya mereka bikin film Prairie King... Semoga bagus!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Coba dengar... mereka menggunakan musik lama yang familiar itu.$h"
+            "Text": "Dengerin... musiknya sama kayak di gim.$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmm, aktingnya buruk sekali, tapi aku tetap menikmatinya.$h"
+            "Text": "Yah, aktingnya parah, tapi aku masih menikmatinya.$h"
           }
         },
         "ID": "reaction_2"
@@ -708,17 +708,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku sudah tidak sabar untuk 'explore our vibrant world'... bagaimana denganmu?$h"
+            "Text": "Aku tidak sabar mau 'menjelajahi dunia penuh warna kita'... kamu gimana?$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku tidak tahu soal itu!"
+            "Text": "Aku baru tahu!"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tadi menarik sekali. Aku paling suka rakunya... mereka lucu sekali!$h"
+            "Text": "Filmnya menarik. Aku suka rakunnya... mereka lucu!$h"
           }
         },
         "ID": "reaction_3"
@@ -731,17 +731,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku suka sekali film horor... Aku harap filmnya menyeramkan!$h"
+            "Text": "Aku suka film horor... Semoga menyeramkan!$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Abigail 3000/pause 500/message \"Abigail is giggling!\"",
-            "Text": "Haha! Filmnya tidak menyeramkan, tapi aku menyukainya.$h"
+            "Script": "/shake Abigail 3000/pause 500/message \"Abigail cekikikan!\"",
+            "Text": "Haha! Nggak seram sih, tapi aku suka.$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Agak berlebihan, tapi aku menyukainya.$h"
+            "Text": "Filmnya agak konyol, tapi aku suka.$h"
           }
         },
         "ID": "reaction_4"
@@ -754,13 +754,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey! Terimakasih sudah mengundangku, aku suka sekali ke bioskop.$h"
+            "Text": "Hei! Makasih sudah mengajakku, aku suka nonton film.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tadi sangat menarik... Aku penasaran apakah aku akan melakukan hal yang sama disituasi itu?"
+            "Text": "Filmnya menarik... Entah aku harus bagaimana kalau dihadapkan situasi yang sama."
           }
         },
         "ID": "reaction_5"
@@ -773,17 +773,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Dari yang aku lihat dari trailernya, film ini kelihatan membosankan...$6"
+            "Text": "Dari pratayangnya, film ini kayaknya hambar banget...$6"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Bangunkan aku kalau ada hal yang menarik.$6"
+            "Text": "Bangunin ya kalau ada adegan menarik.$6"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*menguap*... tadi agak membosankan, ya?$6"
+            "Text": "*menguap*... ngebosenin ya filmnya?$6"
           }
         },
         "ID": "reaction_6"
@@ -815,13 +815,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku selalu menyukai film tentang 'wild-west', jadi aku sudah tidak sabar untuk melihat ini!"
+            "Text": "Aku selalu suka film tentang wild west, jadi aku menantikan film ini!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tadi sangat menyenangkan! Kostum dan yang lainya terasa sangat autentik."
+            "Text": "Filmnya bagus! Dengan kostum dan pelengkapnya, semua terasa seperti asli."
           }
         },
         "ID": "reaction_2"
@@ -834,17 +834,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film ini kelihatan manis sekali, aku sudah berharap akan ada yang mengajakku menonton ini!"
+            "Text": "Film ini imut sekali, aku menunggu-nunggu ada yang mengajak nonton!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Kuharap pria malang itu akan baik-baik saja...$s"
+            "Text": "Semoga si kecil itu baik-baik saja...$s"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tadi itu menggemaskan sekali. Terimakasih sudah mengajakku menonton film ini!"
+            "Text": "Filmnya menggemaskan. Terima kasih sudah mengajakku!"
           }
         },
         "ID": "reaction_3"
@@ -857,13 +857,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "'{0}'... Aku tidak tahu film ini tentang apa! Kuharap film ini tidak kasar."
+            "Text": "'{0}'... aku belum tahu ini film tentang apa! Semoga tidak ada kekerasannya."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tadi tidak terlalu buruk! Aku akan tanya Abigail tentang film ini, aku yakin dia sudah menontonya.$h"
+            "Text": "Lumayan juga! Tapi nanti aku tanyakan ke Abigail saja, aku yakin dia sudah nonton.$h"
           }
         },
         "ID": "reaction_4"
@@ -876,13 +876,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku rasa ini bakal mengecewakan... tapi aku akan coba tonton."
+            "Text": "Firasatku bilang film ini akan mengecewakan... Tapi aku masih tertarik mecobanya."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tadi itu konyol... aku bertaruh Pierre akan menyukainya.$s"
+            "Text": "Filmnya konyol... Aku yakin Pierre akan suka.$s"
           }
         },
         "ID": "reaction_5"
@@ -900,17 +900,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film ini bikin aku gugup... *harvey menelan ludahnya*"
+            "Text": "Aku agak takut nonton ini... *glek*"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Harvey 3000/pause 500/message \"Harvey is shaking!\"",
+            "Script": "/shake Harvey 3000/pause 500/message \"Harvey gemetaran!\"",
             "Text": "Aku takut!$8"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku takut ketinggian, jadi bagian sorotan dari atas tadi sangat menakutkan buatku. Tapi secara keseluruhan film ini lumayan seru.$h"
+            "Text": "Aku takut ketinggian, rekaman dari tempat tinggi di film tadi membuatku takut... Tapi aku tetap menikmati filmnya.$h"
           }
         },
         "ID": "reaction_3"
@@ -944,17 +944,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku baca review yang bagus sekali soal film ini di Zuzu City Times..."
+            "Text": "Aku baca di koran Zuzu City Times ulasan film ini bagus-bagus ..."
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film ini benar-benar membuat kita berpikir, ya?"
+            "Text": "Filmnya bikin kita mikir ya?"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film tadi luar biasa! Aku senang sekali kamu membawaku menonton ini, @.$h"
+            "Text": "Luar biasa! Aku senang sekali kamu mengajakku nonton film ini, @.$h"
           }
         },
         "ID": "reaction_4"
@@ -967,13 +967,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku tidak banyak menonton film, tapi film ini banyak yang suka, kan?"
+            "Text": "Aku jarang nonton film, tapi ini filmnya banyak yang suka kan?"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film yang menarik! Aku akan kepikiran soal {0} setelah ini."
+            "Text": "Filmnya menarik! Aku akan kepikiran terus soal {0} dalam waktu dekat."
           }
         },
         "ID": "reaction_5"
@@ -986,17 +986,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film ini kelihatanya agak terlalu intens buat ku...$s"
+            "Text": "Film ini terlalu tegang buatku...$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Harvey 3000/pause 500/message \"Harvey terlihat pucat\"",
-            "Text": "Rasanya aku mau pingsan...$8"
+            "Script": "/shake Harvey 3000/pause 500/message \"Tekanan darah Harvey meroket!\"",
+            "Text": "Aku mau pingsan...$8"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film ini membuatku agak tidak enak badan...$s"
+            "Text": "Tubuhku meradang setelah nonton film tadi...$s"
           }
         },
         "ID": "reaction_6"
@@ -1014,13 +1014,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oh, aku lihat iklanya di TV. Kelihatanya lucu!"
+            "Text": "Aku lihat iklannya di TV. Sepertinya film ini lucu sekali!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Sebagai penikmat awam, obsesi atas makanan berbasis gluten itu kocak sekali.$h"
+            "Text": "Sebagai pencicip makanan, obsesinya dengan makanan kenyal sangatlah lucu.$h"
           }
         },
         "ID": "reaction_0"
@@ -1033,13 +1033,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tidak akan berasa seperti liburan kalau kamu belum menonton '{0}'!"
+            "Text": "Rasanya liburan belum lengkap kalau belum nonton '{0}'!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film tadi hangat sekali... dan entah bagaimana mereka membuat buah itu seakan enak sekali. Aku penasaran seperti apa rasanya."
+            "Text": "Filmnya mengharukan... dan entah kenapa buah tadi menggoda sekali. Aku ingin mencobanya suatu saat nanti."
           }
         },
         "ID": "reaction_1"
@@ -1052,13 +1052,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Orang bilang film ini 'tidak konvensional'... maksudnya filmnya buruk?$s"
+            "Text": "Mereka bilang film ini 'tidak biasa'... apa itu berarti buruk?$s"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Maksudnya apa? Aku tidak paham. Mungkin aku sudah terlalu tua.$s"
+            "Text": "Apa maksud filmnya? Aku tidak mengerti. Mungkin aku terlalu tua.$s"
           }
         },
         "ID": "reaction_3"
@@ -1071,13 +1071,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*hendus* *hendus* ... Ada bau enak..."
+            "Text": "*endus* *endus* ... Aku mencium sesuatu yang lezat..."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Lumayan juga. Aku senang aku datang!"
+            "Text": "Lumayan. Aku tidak menyesal sudah datang!"
           }
         },
         "ID": "reaction_2"
@@ -1095,17 +1095,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku biasa nonton film cowboy waktu kecil... senang sekali mereka masih membuat film seperti ini!"
+            "Text": "Aku pernah lihat film koboi sewaktu kecil... Lega rasanya lihat film seperti ini tak ada matinya!"
           },
           "DuringMovie": {
             "ResponsePoint": "PK_villain",
-            "Script": "/message \"Mayor Lewis terlihat seperti berpikir dalam...\"",
-            "Text": "(Hmmm...dia pakai minyak kumis apa ya?)"
+            "Script": "/message \"Mayor Lewis sedang berpikir...\"",
+            "Text": "(Minyak kumis apa yang dia pakai ya?)"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Heh, tadi itu lumayan! Jadi ingat waktu dulu...$h"
+            "Text": "Heh, filmnya bagus! Bikin nostalgia...$h"
           }
         },
         "ID": "reaction_3"
@@ -1118,13 +1118,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Pak gubernur merekomendasikan film ini kepadaku!"
+            "Text": "Pak Gubernur sendiri yang merekomendasikan film ini padaku!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Luar biasa! Mereka membuat Stardew Valley sangat indah, ya? Coba ada liputan Pelican Town juga, ya...$h"
+            "Text": "Fantastis! Stardew Valley tampak indah sekali ya tadi? Andai saja mereka juga menyorot Pelican Town...$h"
           }
         },
         "ID": "reaction_4"
@@ -1158,13 +1158,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Sebagai wali kota, aku harus tahu film seperti apa yang ditayangkan di komunitas kita. Kita harus mempertimbangkan apa yang dilihat oleh generasi muda kita!"
+            "Text": "Sebagai mayor, aku harus tahu film apa saja yang ditayangkan. Kita juga harus mengkhawatirkan generasi muda!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hah! Lumayan juga... Yang ini sudah 'Disetujui Wali Kota'.$h"
+            "Text": "Hah! Bagus sekali... Akan kulabeli film ini dengan 'Disetujui Mayor'.$h"
           }
         },
         "ID": "reaction_5"
@@ -1177,13 +1177,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmm... mungkin menarik juga untuk melihat apa yang ditonton anak muda sekarang ini..."
+            "Text": "Hmm... sepertinya menarik nonton apa yang disukai anak-anak muda jaman sekarang..."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Huh... pesan dari film ini bagus tidak ya untuk komunitas kita"
+            "Text": "Huh... Pesan yang disampaikan film tadi bagus atau tidak ya buat komunitas kita?"
           }
         },
         "ID": "reaction_6"
@@ -1208,13 +1208,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku lihat film ini sekali, dulu sekali. Romantis sekali!"
+            "Text": "Dulu aku pernah nonton film ini. Romantis pokoknya!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film itu sangat romantis... Temanya sangat selaras denganku. Terimakasih sudah mengajakku menonton film ini!"
+            "Text": "Filmnya bagus... Tema filmnya cocok sekali buatku. Terima kasih sudah mengajakku!"
           }
         },
         "ID": "reaction_1"
@@ -1227,13 +1227,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Kuharap kursinya empuk, aku capek berdiri seharian!"
+            "Text": "Semoga kursinya empuk, seharian ini aku berdiri terus!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku bukan seorang pecinta film... tapi aku menikmatinya! Terima kasih, @."
+            "Text": "Aku bukan pecinta film.. tapi aku menikmatinya! Makasih, @."
           }
         },
         "ID": "reaction_2"
@@ -1251,17 +1251,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ya ampun, aku sudah menantikan ini! Katanya soundtrack filmnya bagus."
+            "Text": "Wah, sudah kutunggu-tunggu ini! Katanya lagunya bagus."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/playSound reward/emote Sam 32/message Sam \"Sam tidak bisa menahan tawaanya!\"",
-            "Text": "Filmnya lucu sekali! Bagaimana mereka bisa punya ide seperti ini?$h"
+            "Script": "/playSound reward/emote Sam 32/message Sam \"Sam tak dapat menahan tawanya!\"",
+            "Text": "Filmnya ngakak banget! Mereka kok bisa kepikiran bikin film ini ya?$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*psst*... Jangan beritahu siapa-siapa, tapi kaos kakiku sama dengan si Wumbus."
+            "Text": "*psst*... Jangan bilang-bilang, tapi kaos kakiku sama kayak yang dipakai Wumbus."
           }
         },
         "ID": "reaction_1"
@@ -1281,13 +1281,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Jadi kamu suka film horor, ya? Aku agak terkejut!"
+            "Text": "Kamu suka film seram ya? Aku baru tahu!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Filmnya bagus! Aku biasanya tidak takut sama film horor, tapi yang itu tadi sangat menyeramkan... Aku tidak akan mengajak Vincent untuk menonton ini."
+            "Text": "Lumayan bagus! Biasanya aku nggak takut nonton horor, tapi tadi itu beda... Kayaknya aku nggak bakal ngajak Vincent nonton ini."
           }
         },
         "ID": "reaction_2"
@@ -1300,13 +1300,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hei, terima kasih sudah mengajakku, @... Menyenangkan rasanya kota ini sudah punya bioskop."
+            "Text": "Hei, makasih udah ngajak nonton, @... Syukurlah kota kita punya bioskop sendiri sekarang."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Filmnya lumayan bagus! Mungkin Vincent akan kuajak nonton ini."
+            "Text": "Nggak buruk-buruk amat! Kayaknya aku bakal ngajak Vincent nonton ini."
           }
         },
         "ID": "reaction_3"
@@ -1319,17 +1319,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ini film lama yang banyak dialognya, 'kan? Hmm... $s"
+            "Text": "Film lama yang isinya cuma orang ngobrol ya? Hmm... $s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message Sam \"Sam sedang bermain gim.\"",
-            "Text": "Hah? Oh! Ya... Filmnya... menarik...$10"
+            "Script": "/message Sam \"Sam lagi main konsol video gim genggamnya.\"",
+            "Text": "Huh? Oh! Ya... Filmnya... menarik...$10"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ya... Uh... Tokoh itu menarik... Dan, um... heh...$10"
+            "Text": "Ya... Uh... Karakter yang itu menarik... Dan, um... heh...$10"
           }
         },
         "ID": "reaction_4"
@@ -1375,17 +1375,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku menantikan ini! Ibu bilang aku juga boleh makan permen!$h"
+            "Text": "Aku senang sekali! Ibu juga bilang aku boleh makan permen!$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/jump Vincent/pause 400/playSound reward/message \"Vincent sangat menikmati filmnya!\"",
+            "Script": "/jump Vincent/pause 400/playSound reward/message \"Vincent semangatnya meledak-ledak!\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tadi seru sekali! Aku mau menontonnya lagi!$h"
+            "Text": "Filmnya seru sekali! Aku mau nonton lagi!$h"
           }
         },
         "ID": "reaction_4"
@@ -1398,17 +1398,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "T... Tapi... ini film untuk orang dewasa, 'kan?$s"
+            "Text": "T... Tapi... Film ini khusus buat orang dewasa kan?$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Vincent 250/pause 500/shake Vincent 250/pause 500/emote Vincent 28/message \"Vincent gonta-ganti posisi duduk.\"",
+            "Script": "/shake Vincent 250/pause 500/shake Vincent 250/pause 500/emote Vincent 28/message \"Vincent gelisah di tempat duduknya.\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Filmnya membosankan... aku tidak mengerti apapun.$s"
+            "Text": "Filmnya ngebosenin... Aku nggak ngerti apa-apa.$s"
           }
         },
         "ID": "reaction_5"
@@ -1433,17 +1433,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Terima kasih sudah mengajakku nonton film, @. Tidak mudah untuk menyesuaikan diri dengan kehidupan bermasyarakat ini, tapi kamu sudah membuatku merasa lebih disambut."
+            "Text": "Terima kasih sudah mengajakku nonton, @. Tidak mudah menyesuaikan diri lagi dengan gaya hidup sipil, tapi kau sudah membuatku merasa disambut."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Kent 32/message \"Kent jarang tersenyum seperti ini.\"",
-            "Text": "Ini bagus... membuatku teringat semasa dulu...$h"
+            "Script": "/emote Kent 32/message \"Kent jarang-jarang tersenyum seperti ini.\"",
+            "Text": "Ini hebat... membuatku nostalgia dengan hidupku sebelum pergi perang...$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tadi itu menyenangkan. Saat kamu terserap ke filmnya, semua kekhawatiranmu lenyap begitu saja."
+            "Text": "Tadi itu menyenangkan. Saat kau terpikat dengan filmnya, semua rasa cemasmu hilang."
           }
         },
         "ID": "reaction_1"
@@ -1456,17 +1456,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku kurang suka dengan film ini..."
+            "Text": "Aku kurang yakin dengan film ini..."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Kent 28/message \"Kent keringat dingin...\"",
+            "Script": "/emote Kent 28/message \"Keringat dingin Kent bercucuran...\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tadi itu sangat menantang buatku. Tapi aku hargai itu karena kamu sudah mengajakku."
+            "Text": "Sangat menantang bagiku. Tapi aku hargai ajakanmu."
           }
         },
         "ID": "reaction_2"
@@ -1484,17 +1484,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film ini harusnya romantis, kan? *hahh*$s"
+            "Text": "Ini film romantis kan? *mengeluh*$s"
           },
           "DuringMovie": {
             "ResponsePoint": "guyEnters",
-            "Script": "/emote Clint 12/message \"Clint cemberut.\"",
-            "Text": "Kenapa dia suka dengan pria macam ITU? Ini sangat tidak realistis menurutku...$3"
+            "Script": "/emote Clint 12/message \"Clint mengerutkan dahi.\"",
+            "Text": "Kenapa dia suka sama pria ITU? Nggak realistis banget...$3"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Filmnya parah sekali...$s"
+            "Text": "Filmnya bikin suram...$s"
           }
         },
         "ID": "reaction_1"
@@ -1507,17 +1507,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Terima kasih, apa aku harus membeli camilanku sendiri?^Oh... A... Apa kita sedang kencan?$4"
+            "Text": "Malam ini 'malam nongkrong' ya? Apa itu artinya aku bayar sendiri cemilanku?^Oh... A... Apa kita sedang kencan?$4"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"Clint meminum dari botol tak bermerek.\"",
-            "Text": "Ini cuma... *hic*... Joja Cola.$h^*berbisik*...Kalau kamu, um... lelah... kamu boleh menyandarkan kepalamu di... di bahuku. Terserah kamu, sih!$4"
+            "Script": "/message \"Clint meneguk air dari botol kecil.\"",
+            "Text": "Ini cuma... *hic*... Joja Cola.$h^*berbisik*...Kalau kamu, um... ngantuk... sandaran aja di... di bahuku. Heh... atau jangan!$4"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hei... tadi itu menyenangkan, ya?$h"
+            "Text": "Hei... tadi itu seru... ya?$h"
           }
         },
         "ID": "reaction_0"
@@ -1549,7 +1549,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku makan banyak kacang sebagai persiapan nonton film ini... makanan untuk otak!"
+            "Text": "Aku makan banyak kacang untuk persiapan nonton film ini... makanan buat otak!"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -1568,13 +1568,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Saat aku lihat poster film ini, aku merasakan sensasi positif dalam kepalaku.$h"
+            "Text": "Saat pertama kali lihat poster film ini, aku merasakan sensasi positif di ujung kepalaku.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Filmnya entah kenapa terasa sangat spiritual... setuju? Aku menyukainya!$h"
+            "Text": "Filmnya terasa sangat spiritual... gimana menurutmu? Aku suka pokoknya!$h"
           }
         },
         "ID": "reaction_2"
@@ -1587,13 +1587,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku senang nonton film bersamamu! Aku cenderung mudah fokus saat nonton film."
+            "Text": "Aku senang nonton film bareng kamu! Aku sering keseriusan pas nonton film."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku merasa positif setelah adegan itu... berarti ini film bagus!$h"
+            "Text": "Aku merasa lebih positif setelah nonton tadi... artinya film tadi bagus!$h"
           }
         },
         "ID": "reaction_4"
@@ -1606,12 +1606,12 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku biasanya nonton film yang lebih positif, jadi ini akan menarik."
+            "Text": "Aku biasanya lebih memilih buat nonton film positif, jadi ini akan menarik."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"Emily bicara sendiri...\"",
-            "Text": "Yoba, tolong lindungi aku dari energi gelap film ini.$7"
+            "Script": "/message \"Emily berbisik ke dirinya sendiri...\"",
+            "Text": "Yoba, tolong lindungi hamba dari energi gelap film ini.$7"
           },
           "AfterMovie": {
             "ResponsePoint": null,
@@ -1634,13 +1634,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Mmm... Di sini nyaman dan hangat. Musim dingin adalah waktu yang sangat pas buat nonton film.$h"
+            "Text": "Mmm... disini hangat dan nyaman. Musim dingin itu musim favorit buat nonton film.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Romantis sekali."
+            "Text": "Tadi filmnya romantis banget."
           }
         },
         "ID": "reaction_3"
@@ -1653,13 +1653,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Mmm... Di sini nyaman dan hangat. Musim dingin adalah waktu yang sangat pas buat nonton film.$h"
+            "Text": "Mmm... disini hangat dan nyaman. Musim dingin itu musim favorit buat nonton film.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku senang endingnya bahagia!"
+            "Text": "Aku senang endingnya bagus!"
           }
         },
         "ID": "reaction_4"
@@ -1693,13 +1693,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oh, apa ini termasuk film 'fantasi'?$7"
+            "Text": "Oh, ini salah satu film 'fantasi' itu kan?$7"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*menguap*... Apa? Oh... filmnya tentang apa?$7"
+            "Text": "*menguap*... Apa? Oh... filmnya tadi tentang apa?$7"
           }
         },
         "ID": "reaction_5"
@@ -1712,13 +1712,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Semuanya membicarakan film ini, jadi aku sudah tidak sabar melihatnya."
+            "Text": "Semuanya ngobrolin film ini, aku jadi pengin nonton juga."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Adegan terakhirnya... apa maksudnya ya?"
+            "Text": "Adegan terakhir tadi... maksudnya apa ya?"
           }
         },
         "ID": "reaction_6"
@@ -1736,17 +1736,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hei, @! Aku juga menantikan film ini... Semoga kita sama-sama dapat banyak ilmu!$h"
+            "Text": "Hei, @! Aku menantikan film ini... Semoga kita dapat ilmu banyak!$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "/emote Maru 32/playSound reward/message \"Maru mencatat sesuatu!\"",
-            "Text": "Ah, begitu... sangat menarik!"
+            "Text": "Ah, begitu... menarik!"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Filmnya sangat menarik! Aku tidak tahu kalau di kota besar ada banyak makhluk hidup."
+            "Text": "Filmnya menarik! Aku tidak tahu kalau di kota besar ada makhluk hidup sebanyak itu."
           }
         },
         "ID": "reaction_2"
@@ -1759,13 +1759,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ini film fiksi ilmiah, 'kan? Hal yang kusuka dari film fiksi adalah teknologi canggih mereka."
+            "Text": "Ini film sains fiksi kan? Hal yang kusuka dari sains fiksi adalah teknologi aneh yang mereka karang."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Wah, aku belum pernah melihat yang seperti *itu* di teleskop... tapi ini bagus sekali!$h"
+            "Text": "Wah, aku belum pernah lihat hal seperti *itu* di teleskopku... tapi bagus sih!$h"
           }
         },
         "ID": "reaction_3"
@@ -1778,13 +1778,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku suka pergi ke bioskop, meskipun filmnya jelek!$h"
+            "Text": "Aku suka sekali ke bioskop, meskipun filmnya jelek!$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Pilihan menarik untuk adegan akhir. Menurutmu apa pesan yang mereka sampaikan?"
+            "Text": "Pilihan adegan akhir yang menarik. Menurutmu apa yang mereka coba sampaikan?"
           }
         },
         "ID": "reaction_4"
@@ -1823,17 +1823,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hei. Kudengar film ini seram... Aku menantikannya.$h"
+            "Text": "Hei. Katanya film ini lumayan seram... Aku sudah menantikannya.$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Sebastian 32/message \"Sebastian tersenyum.\"",
-            "Text": "Sinematografinya luar biasa."
+            "Script": "/emote Sebastian 32/message \"Sebastian menyeringai.\"",
+            "Text": "Sinematografinya bagus gila."
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film terbaik yang kutonton... Bagaimana mereka bisa membuat efek spesial seperti itu?$h"
+            "Text": "Film terbaik yang kutonton selama ini... Gimana cara mereka buat efek spesialnya ya?$h"
           }
         },
         "ID": "reaction_3"
@@ -1846,13 +1846,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*angkat bahu*... Poster filmnya terlihat keren, jadi aku ikut saja."
+            "Text": "*mengangkat bahu*... Poster filmnya keren sih, yaudah ayo."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Bukan film terbaik, tapi aku menikmatinya... terima kasih atas ajakannya."
+            "Text": "Bukan film terbaik, tapi aku menikmatinya... makasih sudah ngajak aku."
           }
         },
         "ID": "reaction_4"
@@ -1865,13 +1865,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Semoga filmnya tidak lama..."
+            "Text": "Semoga nggak lama filmnya..."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Mungkin film ini bagus bagi yang suka, tapi ini bukan seleraku."
+            "Text": "Mungkin buat target pasarnya film ini bagus, tapi buatku kurang."
           }
         },
         "ID": "reaction_5"
@@ -1896,13 +1896,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku sedang merasa bosan akhir-akhir ini, jadi aku perlu nonton film action."
+            "Text": "Belakangan ini aku lagi jemu, jadi nonton film aksi seperti ini pas buatku."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku jadi semangat. Filmnya bagus.$h"
+            "Text": "Aku sudah nggak jemu lagi! Luar biasa.$h"
           }
         },
         "ID": "reaction_1"
@@ -1915,13 +1915,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku kurang tahu filmnya tentang apa, tapi aku tidak peduli! Yang penting enak bisa keluar rumah."
+            "Text": "Aku kurang tahu filmnya menceritakan apa, tapi bukan masalah! Aku senang bisa keluar rumah."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Filmnya seru, @. Terima kasih sudah mengajakku."
+            "Text": "Tadi itu menyenangkan, @. Makasih sudah nontong bareng."
           }
         },
         "ID": "reaction_2"
@@ -1939,17 +1939,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Jalan-jalan kecil di salju membuat aliran darahku mengalir."
+            "Text": "Tamasya singkat di salju bisa meningkatkan aliran darah."
           },
           "DuringMovie": {
             "ResponsePoint": "zuzucityexpress_mind_heart",
-            "Script": "/message \"Demetrius mengerutkan dahinya.\"",
-            "Text": "Kosongnya hati...? Oh! Maksudnya 'peningkatan kadar oksitosin dalam sistem limbik'."
+            "Script": "/message \"Demetrius mengerutkan alisnya.\"",
+            "Text": "Kekosongan hati...? Oh! Maksudmu 'meningkatnya kadar oksitosin di sistem limbik'."
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Seni film sudah jauh lebih berkembang daripada dulu, ya?"
+            "Text": "Seni layar lebar telah berkembang jauh dari dulu ya?"
           }
         },
         "ID": "reaction_0"
@@ -1962,13 +1962,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film ini mengambil latar di kehidupan 'futuristik'... menyenangkan bisa melihat seperti apa itu!"
+            "Text": "Filmnya berlatar di masyarakat 'masa depan'... pasti menarik lihat filmnya seperti apa!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Film yang hebat... tapi apa kehidupan di luar planet ini benar-benar ada?"
+            "Text": "Luar biasa... aku jadi penasaran apa kehidupan di luar planet ini benar-benar ada?"
           }
         },
         "ID": "reaction_1"
@@ -1981,7 +1981,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ini sesuai dengan seleraku... aku pasti akan menyukainya.$h"
+            "Text": "Ini film yang cocok buatku... aku pasti akan menikmatinya.$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -1991,7 +1991,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Yahh banyak yang ditambah-tambahi, tapi kebanyakan masih benar! Yang penting, aku menikmatinya."
+            "Text": "Yah, mereka menambah-nambahi beberapa hal, tapi masih banyak benarnya! Yang penting, aku menikmatinya."
           }
         },
         "ID": "reaction_2"
@@ -2004,13 +2004,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku tahu film ini dari koran... sepertinya bukan seleraku. Tapi akan kucoba."
+            "Text": "Aku pernah baca soal film ini di koran... sepertinya tidak cocok buatku. Tapi akan kucoba."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tidak masuk akal! Itu sama sekali tidak ilmiah!$4"
+            "Text": "Tidak masuk akal! Filmnya tidak sesuai kaidah sains!$4"
           }
         },
         "ID": "reaction_4"
@@ -2023,13 +2023,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Meskipun filmnya buruk, tapi menarik untuk dianalisa."
+            "Text": "Meskipun filmnya jelek, tapi masih menarik untuk dianalisa."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmm... Aku penasaran manusia macam apa yang puas dengan aspek cerita dari film ini?$3"
+            "Text": "Hmm... Aku penasaran aspek manusiawi apa yang terpuaskan akan cerita film ini?$3"
           }
         },
         "ID": "reaction_3"
@@ -2047,17 +2047,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku merasa tidak sesuai di sini... semoga aku tidak menganggu orang lain.$s"
+            "Text": "Aku merasa tidak pantas berada disini... Semoga tak ada yang merasa terganggu karena aku.$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Linus 28/message \"Linus menatap lantai...\"",
+            "Script": "/emote Linus 28/message \"Linus memandangi lantai...\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Kenapa harus menatap layar kalau kamu bisa menikmatinya sendiri?$s"
+            "Text": "Kenapa memilih menatap layar kalau kau bisa mengalaminya sendiri?$s"
           }
         },
         "ID": "reaction_1"
@@ -2077,17 +2077,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku merasa tidak sesuai di sini... semoga aku tidak menganggu orang lain.$s"
+            "Text": "Aku merasa tidak pantas berada disini... Semoga tak ada yang merasa terganggu karena aku.$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Linus 28/message \"Linus menatap lantai...\"",
+            "Script": "/emote Linus 28/message \"Linus memandangi lantai...\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku tidak biasa dengan dorongan seperti itu... maaf kalau aku membuatmu kecewa, @. Aku sangat berterima kasih kamu mau mengajakku!"
+            "Text": "Aku tak terbiasa dengan dorongan seperti itu... maaf kalau kamu kecewa, @. Aku hargai ajakanmu!"
           }
         },
         "ID": "reaction_2"
@@ -2112,17 +2112,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oh, wow! Istana yang dibangun khusus untuk hiburan!"
+            "Text": "Oh, wow! Istana yang dibangun murni untuk hiburan!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"Dwarf tampak sangat fokus...\"",
+            "Script": "/message \"Dwarf sepertinya lagi melamun...\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku tidak mengerti, tapi cahanya sangat menarik!"
+            "Text": "Aku tidak mengerti sama sekali, tapi kilasan cahayanya mempesona!"
           }
         },
         "ID": "reaction_1"
@@ -2147,13 +2147,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku sangat menyukai film ini! Kamu baik sekali sudah mengajakku nonton, @.$h"
+            "Text": "Aku suka sama film ini! Kamu baik sekali sudah mengajakku, @.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oh, aku senang keluarga itu baik-baik saja sampai akhir. Terutama sapinya juga!$h"
+            "Text": "Oh, aku lega keluarganya baik-baik saja di akhir. Sapinya juga!$h"
           }
         },
         "ID": "reaction_1"
@@ -2166,13 +2166,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku ikut saja kalau ditanya mau nonton film apa... Aku suka semuanya!"
+            "Text": "Aku ngikut aja kalau masalah film... Aku suka semuanya!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku menikmatinya, @! Terima kasih sudah mengajakku."
+            "Text": "Aku menikmatinya, @! Terima kasih sudah ingat padaku."
           }
         },
         "ID": "reaction_2"
@@ -2190,7 +2190,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Buh... Ya, ini lumayan. *endus* *endus* ... kalau ada camilan pasti lebih enak."
+            "Text": "Buh... Ya, boleh juga. *endus* *endus* ... kayaknya cemilan enak nih."
           },
           "DuringMovie": {
             "ResponsePoint": "PK_villain",
@@ -2200,7 +2200,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oke, akan kuakui... filmnya lumayan bagus."
+            "Text": "Oke, aku ngaku... Filmnya ternyata bagus."
           }
         },
         "ID": "reaction_4"
@@ -2241,17 +2241,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Heh. Aku tertarik untuk melihat yang ini..."
+            "Text": "Heh. Jujur aku tertarik mau nontn film ini..."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"Shane menahan senyum.\"",
-            "Text": "Oke, ini memang bagus...$h"
+            "Script": "/message \"Shane menahan senyumnya.\"",
+            "Text": "Oke, film ini bagus...$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Saat kamu menonton film yang bagus, kamu bisa melupakan hal lain... Ini sebuah anugerah."
+            "Text": "Saat nonton film bagus, kamu bisa melupakan segala hal... Itulah berkahnya."
           }
         },
         "ID": "reaction_5"
@@ -2264,13 +2264,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Bah... Buh... Ya, ini lumayan. *endus* *endus* ... kalau ada camilan pasti lebih enak."
+            "Text": "Buh... Ya, boleh juga. *endus* *endus* ... kayaknya cemilan enak nih."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oke, akan kuakui... filmnya lumayan bagus."
+            "Text": "Oke, aku ngaku... Filmnya ternyata bagus."
           }
         },
         "ID": "reaction_6"
@@ -2283,7 +2283,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ugh... ini akan membosankan."
+            "Text": "Ugh... ini akan menyiksa."
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -2293,7 +2293,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku merasa stress...$s"
+            "Text": "Aku merasa muram...$s"
           }
         },
         "ID": "reaction_7"
@@ -2332,17 +2332,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku suka menonton film!"
+            "Text": "Aku senang sekali mau nonton film!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/jump Jas/pause 400/playSound reward/message \"Jas keasyikan!\"",
+            "Script": "/jump Jas/pause 400/playSound reward/message \"Jas gembira bukan main!\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Filmnya menyenangkan! Terima kasih sudah mengajakku!$h"
+            "Text": "Tadi menyenangkan sekali! Terima kasih sudah mengajakku!$h"
           }
         },
         "ID": "reaction_3"
@@ -2355,17 +2355,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ini film untuk orang dewasa 'kan? Aku tidak apa-apa!"
+            "Text": "Ini film untuk orang dewasa kan? Aku akan baik-baik saja!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"Jas mengangguk dan melirik ke samping.\"",
+            "Script": "/message \"Jas cuma mengangguk dan sesekali menengok ke samping.\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Kurasa filmnya bagus! Um... Anu... Dii-a-log-nya bagus! ...iya 'kan?"
+            "Text": "Menurutku bagus! Um... di-a-log nya bagus! ... iya kan?"
           }
         },
         "ID": "reaction_4"
@@ -2378,7 +2378,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "A... Aku tidak yakin boleh menonton ini...$s"
+            "Text": "A... Aku tidak tahu boleh nonton ini atau tidak...$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -2406,13 +2406,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Kudengar ada rekaman alam yang indah di film ini... Aku sangat menantikannya!$h"
+            "Text": "Katanya ada adegan berisi keindahan alam di film ini... aku sangat menantikannya!$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Filmnya bagus. Aku yakin sempat melihat kabinku saat Stardew Valley direkam dari udara!$h"
+            "Text": "Luar biasa. Aku yakin melihat kabinku saat adegan Stardew Valley diputar!$h"
           }
         },
         "ID": "reaction_4"
@@ -2453,13 +2453,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku sangat tertarik dengan film ini... Aku suka sekali dengan hal berbau misterius."
+            "Text": "Aku penasaran sama film ini... Aku suka sama hal-hal misterius."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Filmnya luar biasa! Narasinya agak ringan, tapi kurasa tujuannya untuk lebih menonjolkan emosinya, bukan kecerdasannya."
+            "Text": "Luar biasa! Alur ceritanya sangat longgar, tapi kurasa memang disengaja untuk menyampaikan pada yang peka emosinya, bukan akalnya."
           }
         },
         "ID": "reaction_5"
@@ -2472,13 +2472,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku tidak tahu film ini seperti apa, tapi aku akan melihatnya dulu!"
+            "Text": "Aku tidak tahu harus berharap apa pada film ini, tapi akan tetap kucoba!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Filmnya simpel, tapi bagus... rasanya seperti makanan di bioskop."
+            "Text": "Sederhana, tapi bisa dinikmati... Seperti makanan bioskop."
           }
         },
         "ID": "reaction_6"
@@ -2491,13 +2491,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Dari posternya sepertinya ini film murahan."
+            "Text": "Dari posternya, kayaknya film ini agak jelek."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Kualitasnya jelek, iya 'kan?"
+            "Text": "Nggak bermakna ya filmnya?"
           }
         },
         "ID": "reaction_7"
@@ -2522,13 +2522,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku senang bisa ke Kota Pelican!"
+            "Text": "Aku senang punya alasan ke Pelican Town!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tadi seru sekali, terima kasih sudah mengajakku! Sebaiknya aku segera pulang..."
+            "Text": "Filmnya menyenangkan, terima kasih sudah ngajak aku! Aku mau pamit sekalian..."
           }
         },
         "ID": "reaction_1"
@@ -2567,13 +2567,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku menerawang ini akan jadi malam yang heboh!"
+            "Text": "Aku ramal malam ini akan jadi malam yang indah!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku merasa jiwaku sudah terisi ulang... sepertinya energi dari film dikirim ke ragaku. Luar biasa!"
+            "Text": "Rohaniku terasa seperti terisi ulang... ibarat energi dari film merasuk ke dalam tubuhku. Luar biasa!"
           }
         },
         "ID": "reaction_3"
@@ -2586,13 +2586,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Aku menghindari info apapun tentang film ini... Aku akan melihatnya dengan 'buta'!"
+            "Text": "Aku menghindari berbagai info soal film ini... Aku lebih suka langsung nonton!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Sangat menarik... aku akan terus memikirkan film itu untuk beberapa saat."
+            "Text": "Sangat menarik... Dalam waktu dekat ini akan kurenungkan."
           }
         },
         "ID": "reaction_4"
@@ -2605,13 +2605,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Akan bohong kalau bilang aku menantikan ini...$s"
+            "Text": "Kalau dibilang menantikan film ini, tidak juga sih...$s"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "FIlmnya sangat datar, bagaimana menurutmu?"
+            "Text": "Filmunya biasa banget. kalau menurutmu?"
           }
         },
         "ID": "reaction_5"
@@ -2629,16 +2629,81 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hehe... Aku tidak pernah menolak film gratis!"
+            "Text": "Hehe... Aku takkan menolak film gratis!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ah, aku jadi ingat dengan cerita ayahku..."
+            "Text": "Ah, aku jadi ingat sama kisah yang sering diceritakan Ayahku..."
           }
         },
         "ID": "reaction_0"
+      }
+    ]
+  },
+  {
+    "NPCName": "Leo",
+    "Reactions": [
+      {
+        "Tag": "documentary",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "*",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Aku tak sabar untuk nonton ini... Aku iingin belajar semuanya tentang dunia!"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/jump Leo/pause 400/playSound reward/message \"Pandangan Leo terpaku pada layar!\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Kau lihat itu? Mereka menampilkan kepulauan Fern... aku berasal dari sana!$h"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Aku senang bisa disini. Semua ini sterasa sangat menarik!"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/pause 500/emote Leo 32/message \"Leo sepertinya sangat tertarik dengan film ini.\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Wow... rasanya seperti sihir!"
+          }
+        },
+        "ID": "reaction_4"
       }
     ]
   }

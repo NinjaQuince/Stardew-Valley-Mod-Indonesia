@@ -2,8 +2,8 @@
   {
     "ID": 0,
     "Name": "Cotton Candy",
-    "DisplayName": "Cotton Candy",
-    "Description": "Permen kapas yang terbuat dari gula.",
+    "DisplayName": "Permen Kapas",
+    "Description": "Permen halus besar dari gula yang diputar-putar.",
     "Price": 50,
     "ItemTags": [
       "Sweet",
@@ -13,8 +13,8 @@
   {
     "ID": 1,
     "Name": "Jasmine Tea",
-    "DisplayName": "Jasmine Tea",
-    "Description": "Teh hijau dengan aroma bunga melati.",
+    "DisplayName": "Teh Melati",
+    "Description": "Teh hijau dengan rasa dan aroma melati.",
     "Price": 50,
     "ItemTags": [
       "Drink",
@@ -26,7 +26,7 @@
     "ID": 2,
     "Name": "Joja Cola",
     "DisplayName": "Joja Cola",
-    "Description": "Ukuran besar minuman soda khas Joja.",
+    "Description": "Segelas besar minuman bersoda khas Joja.",
     "Price": 40,
     "ItemTags": [
       "Drink",
@@ -38,7 +38,7 @@
     "ID": 3,
     "Name": "Sour Slimes",
     "DisplayName": "Sour Slimes",
-    "Description": "Permen slime kecil dengan berbagai macam warna. Ditaburi bubuk yang sangat asam.",
+    "Description": "Permen kenyal kecil-kecil dengan banyak warna. Ditaburi dengan bubuk yang ekstra masam.",
     "Price": 80,
     "ItemTags": [
       "Sour",
@@ -48,8 +48,8 @@
   {
     "ID": 4,
     "Name": "Personal Pizza",
-    "DisplayName": "Personal Pizza",
-    "Description": "Pizza yang cukup kecil untuk dinikmati sebagai camilan.",
+    "DisplayName": "Pizza Personal",
+    "Description": "Sebuah pizza kecil seukuran camilan.",
     "Price": 150,
     "ItemTags": [
       "Hot",
@@ -60,7 +60,7 @@
     "ID": 5,
     "Name": "Nachos",
     "DisplayName": "Nachos",
-    "Description": "Keju meleleh yang pedas di atas keripik tortilla yang baru digoreng.",
+    "Description": "Lelehan keju dan bumbu di atas kripik tortilla hangat.",
     "Price": 100,
     "ItemTags": [
       "Hot",
@@ -71,8 +71,8 @@
   {
     "ID": 6,
     "Name": "Salmon Burger",
-    "DisplayName": "Salmon Burger",
-    "Description": "Sepotong daging salmon tebal pada roti wijen yang dipanggang ringan.",
+    "DisplayName": "Burger Salmon",
+    "Description": "Seiris daging salmon tebal di antara roti wijen yang dipanggang ringan.",
     "Price": 150,
     "ItemTags": [
       "Sandwich",
@@ -82,8 +82,8 @@
   {
     "ID": 7,
     "Name": "Ice Cream Sandwich",
-    "DisplayName": "Ice Cream Sandwich",
-    "Description": "Es krim vanilla diapit di tengah dua kukis cokelat.",
+    "DisplayName": "Es Krim Sandwich",
+    "Description": "Es krim vanilla yang diapit dengan dua kukis coklat.",
     "Price": 150,
     "ItemTags": [
       "Sandwich",
@@ -95,7 +95,7 @@
     "ID": 8,
     "Name": "Popcorn",
     "DisplayName": "Popcorn",
-    "Description": "Biji jagung yang meletup, ditaburi dengan garam dan mentega.",
+    "Description": "Biji jagung yang meletup, digarami dan dimasak dengan mentega.",
     "Price": 120,
     "ItemTags": [
       "Hot",
@@ -106,7 +106,7 @@
     "ID": 9,
     "Name": "Fries",
     "DisplayName": "Fries",
-    "Description": "Irisan tipis kentang, yang digoreng lalu sedikit diasinkan.",
+    "Description": "Kentang diris tipis, lalu digoreng dan digarami.",
     "Price": 100,
     "ItemTags": [
       "Hot",
@@ -117,8 +117,8 @@
   {
     "ID": 10,
     "Name": "Chocolate Popcorn",
-    "DisplayName": "Chocolate Popcorn",
-    "Description": "Ini popcorn biasa... tapi dengan lapisan cokelat.",
+    "DisplayName": "Popcorn Cokelat",
+    "Description": "Sama seperti popcorn biasa... tapi dengan lapisan coklat.",
     "Price": 130,
     "ItemTags": [
       "Hot",
@@ -129,15 +129,15 @@
     "ID": 11,
     "Name": "Black Licorice",
     "DisplayName": "Black Licorice",
-    "Description": "Permen kenyal dengan aroma yang tajam dan menyengat.",
+    "Description": "Permen kunyah dengan rasa pedas.",
     "Price": 25,
     "ItemTags": null
   },
   {
     "ID": 12,
     "Name": "Star Cookie",
-    "DisplayName": "Star Cookie",
-    "Description": "Kue roti berbentuk bintang dengan taburan pelangi.",
+    "DisplayName": "Kukis Bintang",
+    "Description": "Kukis berbentuk bintang yang ditaburi meses pelangi.",
     "Price": 150,
     "ItemTags": [
       "Sweet"
@@ -147,7 +147,7 @@
     "ID": 13,
     "Name": "Jawbreaker",
     "DisplayName": "Jawbreaker",
-    "Description": "Ini adalah permen besar dan keras yang bisa bertahan sepanjang film!",
+    "Description": "Permen keras dan besar, awet diemut sepanjang film!",
     "Price": 250,
     "ItemTags": [
       "Sweet",
@@ -157,8 +157,8 @@
   {
     "ID": 14,
     "Name": "Salted Peanuts",
-    "DisplayName": "Salted Peanuts",
-    "Description": "Camilan asin klasik.",
+    "DisplayName": "Kacang Asin",
+    "Description": "Kudapan asin klasik.",
     "Price": 120,
     "ItemTags": [
       "Salty"
@@ -167,8 +167,8 @@
   {
     "ID": 15,
     "Name": "Hummus Snack Pack",
-    "DisplayName": "Hummus Snack Pack",
-    "Description": "Renyah dan sehat..",
+    "DisplayName": "Paket Jajan Hummus",
+    "Description": "Menyehatkan dan renyah.",
     "Price": 90,
     "ItemTags": [
       "Healthy"
@@ -177,8 +177,8 @@
   {
     "ID": 16,
     "Name": "Kale Smoothie",
-    "DisplayName": "Kale Smoothie",
-    "Description": "Ini dipenuhi vitamin dan serat.",
+    "DisplayName": "Jus Kale",
+    "Description": "Minuman ini banyak serat dan vitamin.",
     "Price": 120,
     "ItemTags": [
       "Drink",
@@ -188,8 +188,8 @@
   {
     "ID": 17,
     "Name": "Apple Slices",
-    "DisplayName": "Apple Slices",
-    "Description": "Irisan kecil yang renyah dan manis.",
+    "DisplayName": "Potongan Apel",
+    "Description": "Potongan apel kecil yang manis.",
     "Price": 100,
     "ItemTags": [
       "Sweet",
@@ -199,8 +199,8 @@
   {
     "ID": 18,
     "Name": "Panzanella Salad",
-    "DisplayName": "Panzanella Salad",
-    "Description": "Salad musim panas dengan roti dan tomat.",
+    "DisplayName": "Salad Panzanella",
+    "Description": "Salad musim panas dari roti dan tomat.",
     "Price": 200,
     "ItemTags": [
       "Gourmet",
@@ -210,8 +210,8 @@
   {
     "ID": 19,
     "Name": "Truffle Popcorn",
-    "DisplayName": "Truffle Popcorn",
-    "Description": "Popcorn mewah yang ditaburi garam truffle.",
+    "DisplayName": "Popcorn Truffle",
+    "Description": "Popcorn yang ditaburi dengan garam truffle.",
     "Price": 180,
     "ItemTags": [
       "Gourmet",
@@ -221,8 +221,8 @@
   {
     "ID": 20,
     "Name": "Cappuccino Mousse Cake",
-    "DisplayName": "Cappuccino Mousse Cake",
-    "Description": "Kue coklat kecil yang dilapisi dengan cappuccinio mousse.",
+    "DisplayName": "Kue Mousse Cappuccino",
+    "Description": "Kue coklat yang dilapisi dengan mousse cappuccino.",
     "Price": 220,
     "ItemTags": [
       "Sweet",
@@ -233,7 +233,7 @@
     "ID": 21,
     "Name": "JojaCorn",
     "DisplayName": "JojaCorn",
-    "Description": "Makanan jagung Joja's yang dipatenkan, disiram dengan banyak \"saus m'entega\".",
+    "Description": "Hidangan jagung yang dipatenkan Joja, dibanjiri dengan \"saus m'entega\".",
     "Price": 10,
     "ItemTags": [
       "Joja"
@@ -242,8 +242,8 @@
   {
     "ID": 22,
     "Name": "Stardrop Sorbet",
-    "DisplayName": "Stardrop Sorbet",
-    "Description": "Setetes esensi stardrop menjadikan sorbet ini sebagai suguhan luar biasa.",
+    "DisplayName": "Sorbet Stardrop",
+    "Description": "Setetes sari Stardrop mengubah sorbet ini jadi kudapan luar biasa.",
     "Price": 1250,
     "ItemTags": [
       "Sweet",
@@ -253,8 +253,8 @@
   {
     "ID": 23,
     "Name": "Rock Candy",
-    "DisplayName": "Rock Candy",
-    "Description": "Kristal gula banyak rasa yang melekat pada tusuk yang nyaman.",
+    "DisplayName": "Permen Batu",
+    "Description": "Kristal gula berbagai rasa yang menempel pada tusuk kayu.",
     "Price": 90,
     "ItemTags": [
       "Sweet",

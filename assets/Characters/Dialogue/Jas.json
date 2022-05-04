@@ -1,44 +1,26 @@
 {
-    "header": {
-        "target": "w",
-        "formatVersion": 5,
-        "hidef": true,
-        "compressed": 128
-    },
-    "readers": [
-        {
-            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "version": 0
-        },
-        {
-            "type": "Microsoft.Xna.Framework.Content.StringReader",
-            "version": 0
-        }
-    ],
-    "content": {
-        "Introduction": "...$u#$b#Hi...$u",
-        "Resort_Entering": "I see a crab!",
-        "Resort_Leaving": "I've got sand in my shoe...$s",
-        "Resort_Shore": "I'm collecting seashells... I'm gonna make a necklace!",
-        "Resort": "Aunt Marnie told me not to get burnt... But when I walk fast, it feels cool, so I think I'll be okay.$h",
-        "reject_869": "Ew, gross!$s",
-        "Mon": "Oh...Are you looking for Aunt Marnie?$u",
-        "Mon4": "Hi, Mr. @.^Hi, Ms. @.#$e#It's fun to live on a farm.$h",
-        "Tue": "What? *giggle*$h#$e#...hi.",
-        "Tue6": "You can play with my dolls if you want to. Just make sure to brush their hair when you're done.",
-        "Wed": "...$u",
-        "Wed2": "...Hi.$u",
-        "Wed4": "Aunt Marnie won't let me go out after 6 o'clock. It's not fair!$s#$e#I'm not afraid of the dark anymore!",
-        "Thu": "I'm not supposed to talk to strangers...$u",
-        "Thu2": "Miss Penny is teaching me how to write in cursive.$h#$e#She has such pretty handwriting.",
-        "Fri": "... I don't know you.$u",
-        "Fri2": "Do you like my bow?",
-        "Fri4": "I like living on the farm... my favorite is the fresh ice cream from our cows' milk.",
-        "Sat": "You smell like grass.$u",
-        "Sat2": "Sometimes I look for crawdads in the river. Don't tell Aunt Marnie... but I fed one to a cow once.#$e#She loved it.",
-        "Sat8": "You're always so nice to me, Mr. @$h^You're always so nice to me, Ms. @.$h#$e#Grown-ups are usually mean and boring, but you're different.",
-        "Sun": "Um... d...do you want something?$u#$e#I'm not supposed to talk to strangers.$u",
-        "Sun2": "Shane's gone a lot, and Aunt Marnie is busy all the time... so I have to invent my own games.#$e#I'm thankful for all my toys.$h",
-        "Sun10": "Did you know Shane's my godfather? He was a friend of my parents.$s#$e#...they died.*sniff*$s"
-    }
+  "Introduction": "...$u#$b#Hai...$u",
+  "Resort_Entering": "Aku lihat kepiting!",
+  "Resort_Leaving": "Sepatuku kemasukan pasir...$s",
+  "Resort_Shore": "Aku mengumpulkan kerang laut... Mau kubuat kalung!",
+  "Resort": "Bibi Marnie bilang kulitku tidak boleh terbakar... Tapi kalau jalan cepat, rasanya dingin, jadi tidak masalah.$h",
+  "reject_869": "Ew, jijik!$s",
+  "Mon": "Oh...Apa kau mencari Bibi Marnie?$u",
+  "Mon4": "Hai, Tuan @.^Hai, Nona @.#$e#Tinggal di kebung menyenangkan, ya?$h",
+  "Tue": "Apa? *hihi*$h#$e#...hai.",
+  "Tue6": "Kau bisa main dengan bonekaku kalau mau. Jangan lupa sisir rambutnya kalau selesai bermain.",
+  "Wed": "...$u",
+  "Wed2": "...Hai.$u",
+  "Wed4": "Bibi Marnie tidak mengijinkan aku keluar diatas jam 6. Itu tidak adil!$s#$e#Aku tidak lagi takut kegelapan!",
+  "Thu": "Aku tidak boleh bicara dengan orang asing..$u",
+  "Thu2": "Bu Penny mengajariku menulis.$h#$e#Tulisannya sangat bagus.",
+  "Fri": "... Aku tidak kenal kamu.$u",
+  "Fri2": "Kau suka pitaku?",
+  "Fri4": "Aku suka tinggal di kebun... aku suka es krim dari susu sapi kami.",
+  "Sat": "Baumu seperti rumput.$u",
+  "Sat2": "Kadang aku lihat ada udang besar di sungai. Jangan bilang ke Bibi Marnie... aku pernah memberi makan sapi dengan itu.#$e#Ia menyukainya.",
+  "Sat8": "Kamu selalu baik padaku, Tuan @$h^Kamu selalu baik padaku, Nona @.$h#$e#Orang dewasa biasanya membosankan, tapi kamu beda.",
+  "Sun": "Em... apa...apa kau butuh sesuatu?$u#$e#Aku tidak boleh bicara dengan orang asing.$u",
+  "Sun2": "Shane sering pergi dan Bibi Marnie sibuk setiap saat... jadi aku bermain sendiri.#$e#Aku bersyukur atas semua mainanku.$h",
+  "Sun10": "Apa kau tahu kalau Shane itu ayah baptisku? Ia teman baik orangtuaku.$s#$e#...Tapi mereka sudah tiada.*hiks*$s"
 }

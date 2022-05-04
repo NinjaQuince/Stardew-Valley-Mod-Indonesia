@@ -1,36 +1,18 @@
 {
-    "header": {
-        "target": "w",
-        "formatVersion": 5,
-        "hidef": true,
-        "compressed": 128
-    },
-    "readers": [
-        {
-            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "version": 0
-        },
-        {
-            "type": "Microsoft.Xna.Framework.Content.StringReader",
-            "version": 0
-        }
-    ],
-    "content": {
-        "Introduction": "Ahoy there! It's nice to see young folk movin' in to the valley. It's not very common these days.",
-        "accept_869": "Ah... That's the perfect bait for a catfish I've been tryin' to catch!#$b#Here, let me trade you this for it. I'm not sure what it is, but it washed up on the beach not too long ago.#$b#Somethin' tells me you could use it, lad.^Somethin' tells me you could use it, miss.",
-        "FullCrabPond": "*sniff*... Ah... That old familiar scent. You've been raisin' crabs, haven't ya?#$b#Yer a man after me own heart, @. Hah!$h^Yer a lady after me own heart, @. Hah!$h#$b#Here, take this. I found it on the beach... Been savin' it fer a special occasion. It's not every day I discover a fellow crab enthusiast! [797]",
-        "MovieInvitation": "Ah... a movie. That's kind of ye, lad.^Ah... a movie. That's kind of ye, miss.#$b#I'll just finish me pipe, and head over.",
-        "Mon": "Ahoy there, son.^Ahoy there, lass.#$b#Looks like decent weather for fishing, eh?",
-        "Mon4": "Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it.",
-        "Tue": "A true angler has respect for the water... don't you forget that.",
-        "Tue6": "The ol' Man was a fisherman, you know. I grew up sailing between the fern islands, living from catch to catch.#$e#The fishing life is tough, but there's something about it that keeps you goin'.",
-        "Wed": "Some fish come and go with the seasons. Others only come out at night or in the rain.",
-        "Thu": "*mumble* *mumble* ...Eh? I would tell you about my thoughts, but it's a fisherman's secret.",
-        "Thu2": "There's rumors of some very rare fish in these parts... but only an experienced angler could stand a chance against them.#$e#You'll need the finest bait you can get if you want a rare fish to bite.",
-        "Fri": "If you really want to get the fish biting, make sure you put some bait on your hook.",
-        "Sat": "If the local fishing scene got a bit more lively, I might expand the shop's stock.",
-        "Sat8": "How's the fishing life going for ya?#$e#I try to fish as often as possible, but it's not easy when you've got a shop to run.",
-        "Sun": "If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line.#$b#Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in.#$e#There's all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while.",
-        "Sun10": "Hey, it's my skipper, @!$h#$e#I'd give you a discount on bait if I could afford it.$s"
-    }
+  "Introduction": "Ahoy! Senang bertemu anak muda sepertimu. Jarang sekali aku bertemu anak muda.",
+  "accept_869": "Ah... Ini adalah umpan yang sempurna untuk catfish yang selama ini sulit kutangkap!#$b#Ini, aku akan menukarnya dengan ini. Aku tidak yakin apa ini, tapi aku menemukannya di pantai beberapa waktu lalu.#$b#Aku merasa kau bisa menggunakannya, lad.^Aku merasa kau bisa menggunakannya, miss.",
+  "FullCrabPond": "*sniff*... Ah... Aroma yang familiar. Kau memelihara kepiting kan?#$b#Kau adalah pria nomor 1, @. Hah!$h^Kau adalah wanita nomor 1, @. Hah!$h#$b#Ini, Ambil ini. Aku menemukannya di pantai... Aku menyimpannya untuk waktu yang spesial. Ini waktu yang spesial, karena tidak setiap hari aku bertemu pecinta kepiting! [797]",
+  "MovieInvitation": "Ah... Film. Kau sungguh baik, lad.^Ah... Film. Kau sungguh baik, miss.#$b#Aku akan menghabiskan cerutuku, dan akan segera kesana.",
+  "Mon": "Ahoy, nak.^Ahoy.#$b#Cuaca yang bagus untuk memancing, kan?",
+  "Mon4": "Kau tau air disini? Kau butuh kesabran jika ingin mancing disini.",
+  "Tue": "Pemancing sejati tidak merusak ekosistem... jangan lupakan itu.",
+  "Tue6": "Kau tau, aku nelayan tua. Aku telah berlayar ke berbagai pulau, hidup dengan menangkap ikan.#$e#Kehidupan nelayan memang baik, tapi ada suatu hal yang mendorongmu untuk pergi'.",
+  "Wed": "Beberapa ikan kadang berbeda di setiap musim. Yang lain kadang muncul di malam hari atau bahkan saaat hujan turun.",
+  "Thu": "*mumble* *mumble* ...Eh? Aku akan mencritaan rahasia para nelayan.",
+  "Thu2": "ADa rumor bahwa adaa ikan misterius di tempat ini... tapi hanya pemancing berpengalam saja yang bisa menangkapnya.#$e#Kau butuh pancing yterbaik jika ingin menangkap ikan langka.",
+  "Fri": "Jika kau ingin menangkap ikan, Jangan lupa beri umpan untuk pancingmu.",
+  "Sat": "Jika aku bisa menangkap lebih banyak ikan, Aku akan memperbesar stok ikanku.",
+  "Sat8": "Bagaimana mancingmu?#$e#Aku ingin memancing, tapi itu tidak mudah ketika aku harus menjaga toko.",
+  "Sun": "Jika kau membeli pancing kualitas terbaik, kau akan bisa menaruh umpan di pancing.#$b#Umpan akan membuat ikan menyambarnya dengan cepat. Jaring mempermudah menangkapnya.#$e#Ada banyak jenis jaring. Tapi kebanyakan banyak yang tipis, jadi jangat kaget jika jaringmu banyak yang robek.",
+  "Sun10": "Hei itu kesukaanku, @!$h#$e#Aku akan memberimu diskon jika aku boleh membelinya.$s"
 }

@@ -1,34 +1,16 @@
 {
-    "header": {
-        "target": "w",
-        "formatVersion": 5,
-        "hidef": true,
-        "compressed": 128
-    },
-    "readers": [
-        {
-            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "version": 0
-        },
-        {
-            "type": "Microsoft.Xna.Framework.Content.StringReader",
-            "version": 0
-        }
-    ],
-    "content": {
-        "Mon": "Keep it up, kid. I think you're gonna be a star.#$e#Just ask me if you need anything.",
-        "Tue": "I knew you'd end up here someday. Of course, I had to make it a little difficult so you'd have an incentive to achieve excellence.",
-        "Wed": "I was born an ordinary boy, but I made a decision early in life that I would become extraordinary.",
-        "Thu": "Hey. Don't tell anyone about this place, okay? I want to keep it... exclusive.#$e#You'd keep a secret for your friend Mr. Qi, wouldn't you?",
-        "Fri": "Never stop striving to achieve perfection.#$e#Settle for nothing less than excellence in everything you do.",
-        "Sat": "Stop by whenever you wanna relax.",
-        "Sun": "Keep working hard and maybe you'll end up like me someday.",
-        "QiNutRoom_Mon": "There's more to this world than meets the eye, kid. Some day, you might understand.#$b#For now, just keep striving for excellence in everything you do.",
-        "QiNutRoom_Tue": "I got to where I am through the force of pure willpower, kid.#$b#You see... The mind is a very powerful tool.#$b#In fact, it's the most powerful tool in all of reality... and beyond.",
-        "QiNutRoom_Wed": "I'm impressed with your tenacity, kid... it took a lot of walnuts to get this far.",
-        "QiNutRoom_Thu": "Wherever you go... I'm always behind the curtain, making sure the show is interesting. Hahaha...#$b#Or... am I?",
-        "QiNutRoom_Fri": "Set your eyes on the furthest star, and let that be your goal.#$b#It's always within your power to go one step further than you used to believe.",
-        "QiNutRoom_Sat": "Some things transcend time and space, kid. It's a unique feeling in the heart... a whisper of things beyond.",
-        "QiNutRoom_Sun": "On the left, you'll find a board with my special challenges... custom-tailored for you, kid.#$b#On the right, a set of fantastic prizes for those who meet my challenge...#$b#Good luck, kid."
-    }
+  "Mon": "Bekerja keraslah, Nak. Kurasa kau akan jadi bintang.#$e#Tinggal tanya kalau butuh sesuatu.",
+  "Tue": "Aku tahu kau akan ke sini suatu hari nanti. Tentu saja, aku harus membuat sedikit rintangan agar kamu punya keinginan untuk mencapai kesuksesan.",
+  "Wed": "Aku lahir sebagai anak biasa, tapi aku membuat keputusan bahwa aku akan menjadi luar biasa.",
+  "Thu": "Hei. Jangan beritahu siapapun soal tempat ini, oke? Aku ingin tempat ini... eksklusif.#$e#Kau akan menjaga rahasia untuk temanmu ini, kan?",
+  "Fri": "Jangan pernah berhenti berusaha untuk mencapai kesempurnaan.#$e#Janganlah merasa cepat puas dengan apa yang kau miliki.",
+  "Sat": "Mampirlah kalau kamu ingin bersantai.",
+  "Sun": "Tetaplah bekerja keras, mungkin suatu hari kau bisa jadi sepertiku.",
+  "QiNutRoom_Mon": "Dunia ini tidak sebatas apa yang mata bisa lihat, Nak. Suatu hari, kau akan mengerti.#$b#Untuk sekarang, tetaplah bekerja keras.",
+  "QiNutRoom_Tue": "Ada masa dimana aku menggunakan kekuatan kemauan, Nak.#$b#Kau tau... Pikiran adalah alat yang sangat dahsyat.#$b#Bahkan, pikiran adalah kekuatan yang paling hebat di semua realitas... dan dunia di atasnya.",
+  "QiNutRoom_Wed": "Aku terkesan dengan kegigihanmu, Nak... Butuh banyak sekali Walnut untuk sampai ke tempat ini.",
+  "QiNutRoom_Thu": "Kemanapun kau pergi... Aku ada di balik semua itu, dan memastikan agar pertunjukannya tetap seru. Hahaha...#$b#Tapi... benarkah itu?",
+  "QiNutRoom_Fri": "Lihatlah bintang yang paling jauh, dan jadikan itu sebagai tujuanmu.#$b#Kekuatanmu adalah dapat melangkah lebih jauh daripada apa yang kau bayangkan.",
+  "QiNutRoom_Sat": "Ada beberapa hal yang tidak terikat ruang dan waktu, Nak. Salah satunya perasaan unik yang ada di setiap hati manusia... Bisikan untuk meraih mimpi.",
+  "QiNutRoom_Sun": "Di sisi kiri, kau akan lihat papan dengan tantangan-tantangan spesial dariku... Kubuat khusus untukmu, Nak.#$b#Di sisi kanan, adalah hadiah bagi yang berhasil menyelesaikan tantangannya...#$b#Semoga beruntung, Nak."
 }

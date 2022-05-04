@@ -1,30 +1,12 @@
 {
-    "header": {
-        "target": "w",
-        "formatVersion": 5,
-        "hidef": true,
-        "compressed": 128
-    },
-    "readers": [
-        {
-            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "version": 0
-        },
-        {
-            "type": "Microsoft.Xna.Framework.Content.StringReader",
-            "version": 0
-        }
-    ],
-    "content": {
-        "Mon": "Hi... Everything okay?",
-        "Mon4": "I've learned a lot from my parrot family...#$b#But I'm sure there's a lot more out there I don't know.$s",
-        "Tue": "When Sun is angry, it feels good in the jungle.#$e#Sun can't find us beneath the leaves. We trick him! Haha...$h",
-        "Wed": "...Sorry... I'm shy today.$3",
-        "Wed2": "Be careful in the volcano... the spirits don't like outsiders.",
-        "Thu": "Have you met the others like you?#$b#I don't talk to them much. I feel safer with my own kind...$3",
-        "Fri": "One time... I was at the top of the volcano at night, and I saw lights far, far away.#$b#I wonder if there are other bird families out there?$3",
-        "Fri3": "I wonder if I could see your home from the top of the volcano?",
-        "Sat": "...I'm sad today.$s#$e#You go on... have fun. Let me be sad.$s",
-        "Sun": "When it rains, strange birds visit.#$b#I try to speak to them... but they fly away.$s#$b#I guess they don't want to be friends...$s"
-    }
+  "Mon": "Hai... Semua baik-baik saja?",
+  "Mon4": "Aku sudah dengar banyak dari keluarga burung betetku...#$b#Tapi ada banyak hal di luar sana yang belum aku ketahui.$s",
+  "Tue": "Saat Matahari sedang marah, di hutan rasanya malah nyaman.#$e#Matahari tidak bisa menemukan kita di bawah dedaunan pohon. Jadi dia tertipu! Haha...$h",
+  "Wed": "...Maaf... Aku agak malu hari ini.$3",
+  "Wed2": "Berhati-hatilah di gunung berapi... roh-roh di sana tidak ramah pada pendatang",
+  "Thu": "Apa kau sudah bertemu dengan kaummu?#$b#Aku jarang bicara sama mereka. Karena aku lebih nyaman dengan kaumku sendiri...$3",
+  "Fri": "Dulu... Aku pernah ke puncak gunung berapi pas malam hari, dan aku lihat ada cahaya dari jarak yang sangat jauh.#$b#Aku penasaran apa ada keluarga burung lain di luar sana?$3",
+  "Fri3": "Apa rumahmu kelihatan dari puncak gunung berapi?",
+  "Sat": "...Aku lagi sedih.$s#$e#Silakan... bersenang-senanglah. Biarkan aku bersedih.$s",
+  "Sun": "Saat hujan, ada burung aneh yang ke sini.#$b#Dan saat kudekati... mereka malah pergi.$s#$b#Kurasa mereka tidak mau berteman...$s"
 }

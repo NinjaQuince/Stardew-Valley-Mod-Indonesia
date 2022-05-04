@@ -1,25 +1,7 @@
 {
-    "header": {
-        "target": "w",
-        "formatVersion": 5,
-        "hidef": true,
-        "compressed": 128
-    },
-    "readers": [
-        {
-            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "version": 0
-        },
-        {
-            "type": "Microsoft.Xna.Framework.Content.StringReader",
-            "version": 0
-        }
-    ],
-    "content": {
-        "winter_15.000": "I just like looking at the lights.#$b#It reminds me of something, long, long ago...$s",
-        "winter.000": "It's going to take a while, but I'm trying to get through all the books in the library.#$b#I have a lot of catching up to do...$s",
-        "school": "Can't talk right now, @. I have to really focus...",
-        "dinner": "Oh, are you hungry? I already finished all the food...$u",
-        "tent": "We don't mind the rain too much, but it's nice to dry off in here sometimes."
-    }
+  "winter_15.000": "Aku suka melihat cahayanya.#$b#Mengingatkanku pada sesuatu yang terjadi dulu sekali...$s",
+  "winter.000": "Aku mau membaca semua buku di perpustakaan, aku tahu itu butuh waktu.#$b#Masih ada banyak yang belum kubaca...$s",
+  "school": "Aku harus fokus, @. Saat ini aku gggak bisa ngobrol ...",
+  "dinner": "Oh, kamu lapar? Tapi semua makanannya sudah kuhabiskan...$u",
+  "tent": "Kami tidak begitu mempermasalahkan hujan, tapi kalau di sini bisa kering sesekali kami akan senang."
 }

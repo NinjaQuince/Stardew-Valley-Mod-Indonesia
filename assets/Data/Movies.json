@@ -3,7 +3,7 @@
     "ID": null,
     "SheetIndex": 0,
     "Title": "The Brave Little Sapling",
-    "Description": "Sebuah animasi komedi keluarga tentang sebuah pohon kecil dalam petualangan ajaibnya untuk menjadi pohon dewasa!",
+    "Description": "Sebuah film komedi keluarga tentang tunas kecil dalam petualangan ajaibnya untuk menjadi pohon!",
     "Tags": [
       "family",
       "comedy"
@@ -15,7 +15,7 @@
         "Sound": "",
         "MessageDelay": 1000,
         "Script": "",
-        "Text": "Pohon Kecil Pemberani",
+        "Text": "Tunas Kecil Pemberani",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring0_0"
@@ -26,7 +26,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Si pohon kecil pemberani meninggalkan rumahnya. Dia ragu-ragu sejenak dan berbalik, mengetahui dia tidak akan kembali untuk waktu yang lama...",
+        "Text": "Tunas kecil pemberani berangkat meninggalkan rumahnya. Dia sejenak ragu namun terus berjalan, meski dia tahu takkan kembali dalam waktu lama...",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring0_1"
@@ -37,7 +37,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/playSound dustMeep/pause 200/playSound dustMeep/pause 300/playSound dustMeep/pause 100/playSound dustMeep/pause 200/playSound dustMeep",
-        "Text": "Pohon kecil lain di rumpunnya berkumpul di pinggir kota, melambaikan ranting mereka...!",
+        "Text": "Tunas-tunas lain dari hutannya berkumpul di tepi kota, melambaikan ranting mereka sebagai bentuk perpisahan...!",
         "Shake": false,
         "ResponsePoint": "sprout_leave",
         "ID": "spring0_2"
@@ -48,7 +48,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Tidak! Tiba-tiba, hujan turun...! Pohon kecil mulai berlari saat awan petir menjulang di atasnya...",
+        "Text": "Oh tidak! Tiba-tiba hujan deras turun...! Si tunas kecil berlari sekuat tenaga selagi langit bergemuruh...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring0_3"
@@ -59,7 +59,7 @@
         "Sound": "thunder",
         "MessageDelay": 1000,
         "Script": "",
-        "Text": "Takut akan nasibnya, dan semangatnya patah karena hujan, si pohon kecil pemberani mulai kehilangan harapan...",
+        "Text": "Karena takut akan hujan deras, si tunas kecil mulai kehilangan harapan...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring0_4"
@@ -70,7 +70,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "...Tapi apa ini...? Pohon kecil itu merasa geli di kepalanya... ",
+        "Text": "...Tapi apa yang terjadi...? Si tunas merasa geli di ujung kepalanya... ",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring0_5"
@@ -80,7 +80,7 @@
         "Music": "",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/playSound coin/pause 1000/message \"Mungkin hujan kecillah yang dibutuhkan untuk memulai perjalanannya menjadi pohon dewasa!\"",
+        "Script": "/playSound coin/pause 1000/message \"Mungkin dibutuhkan sedikit hujan untuk memulai perjalanan menjadi sebatang pohon!\"",
         "Text": "",
         "Shake": false,
         "ResponsePoint": "",
@@ -92,7 +92,7 @@
         "Sound": "",
         "MessageDelay": 2000,
         "Script": "",
-        "Text": "Sampai jumpa, sobat kecil!",
+        "Text": "Selamat tinggal, teman kecil!",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring0_7"
@@ -103,7 +103,7 @@
     "ID": null,
     "SheetIndex": 1,
     "Title": "Mysterium",
-    "Description": "Mengintip di balik tirai tengah malam... Kamu harus mengalaminya sendiri untuk percaya.",
+    "Description": "Mengintip di balik selubung malam... Kau harus melihat langsung agar percaya!",
     "Tags": [
       "horror",
       "art"
@@ -126,7 +126,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 1500",
-        "Text": "Siluet samar dalam kegelapan...",
+        "Text": "Sebuah siluet samar terlihat di kegelapan...",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "fall0_1"
@@ -159,7 +159,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Di tempat hampa yang sunyi dan tak dikenal... tempat kengerian yang tak terhitung menunggu.",
+        "Text": "Ruang yang hampa nan sunyi... di mana kengerian menanti.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "fall0_4"
@@ -192,7 +192,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 3000",
-        "Text": "Beragam adegan non-duniawi yang berbeda-beda dimainkan...",
+        "Text": "Bermacam kilasan dari alam lain berputar...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "fall0_7"
@@ -214,7 +214,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/playSound shadowpeep",
-        "Text": "'Kamu HARUS menyuruh temanmu menonton MYSTERIUM malam ini...'",
+        "Text": "'Kau HARUS mengajak temanmu nonton MYSTERIUM malam ini...'",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "fall0_9"
@@ -225,7 +225,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/playSound shadowDie",
-        "Text": "'...Atau aku akan datang dalam tidurmu!'",
+        "Text": "'...Atau kuhampiri dalam tidurmu!'",
         "Shake": true,
         "ResponsePoint": "mysterium_shadow",
         "ID": "fall0_10"
@@ -236,7 +236,7 @@
     "ID": null,
     "SheetIndex": 2,
     "Title": "Journey Of The Prairie King: The Motion Picture",
-    "Description": "Video gim tercinta datang ke layar lebar!",
+    "Description": "Video gim kesayangan sekarang hadir dalam layar lebar!",
     "Tags": [
       "action"
     ],
@@ -247,7 +247,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 4000",
-        "Text": "'Journey Of The Prairie King: The Motion Picture'",
+        "Text": "'Perjalanan Raja Prairi: Layar Lebar'",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "summer0_0"
@@ -258,7 +258,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Sekali lagi di jalan tua yang berdebu, kita menemukan Prairie King mengawasi kereta wagon yang penuh dengan harta berharga.",
+        "Text": "Kembali di jalanan kecil berdebu, kita melihat Raja Prairi mengawasi kereta kuda yang penuh harta karun.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "summer0_1"
@@ -269,7 +269,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Tapi, tanpa diketahui pahlawan kita, orang jahat itu mengawasi dari tebing terdekat...",
+        "Text": "Tetapi, tanpa diketahui pahlawan kita, ada penjahat yang mengawasi dari bukit sekitar...",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "summer0_2"
@@ -280,7 +280,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "'Akhirnya, aku akan menyingkirkan sheriff yang sok benar itu dan kabur dengan hartanya... aku pantas mendapatkannya!'",
+        "Text": "'Akhirnya, aku bisa menyingkirkan sheriff itu dan merampas harta karunnya... Aku pantas mendapatkannya!'",
         "Shake": false,
         "ResponsePoint": "PK_villain",
         "ID": "summer0_3"
@@ -291,7 +291,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 400/playSound thunder_small",
-        "Text": "'Ups! Sepertinya longsoran ini langsung menuju kereta wagon.'",
+        "Text": "'Ups! Sepertinya tanah longsornya mengarah ke kereta kuda.'",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "summer0_4"
@@ -302,7 +302,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Prairie King mendengar suara gemuruh di kejauhan... Lihat!",
+        "Text": "Raja Prairie mendengar gemuruh dari kejauhan... Lihat!",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "summer0_5"
@@ -312,7 +312,7 @@
         "Music": "",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/pause 1000/message \"Thinking quickly, he fires a shot.\"/pause 500/playSound cowboy_gunload/pause 500/playSound Cowboy_monsterDie/pause 500",
+        "Script": "/pause 1000/message \"Dengan berpikir cepat, ia menembakkan pistolnya.\"/pause 500/playSound cowboy_gunload/pause 500/playSound Cowboy_monsterDie/pause 500",
         "Text": "",
         "Shake": false,
         "ResponsePoint": null,
@@ -323,7 +323,7 @@
         "Music": "",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/pause 200/playSound cowboy_explosion/pause 1000/message \"Tapi apa ini? Airnya berhamburan kemana-mana!\"",
+        "Script": "/pause 200/playSound cowboy_explosion/pause 1000/message \"Tapi apa ini? Air berhamburan kemana-mana!\"",
         "Text": "",
         "Shake": false,
         "ResponsePoint": null,
@@ -335,7 +335,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 500/playSound slimeHit/pause 400/playSound slimeHit/pause 400/playSound slimeHit/pause 400/playSound slimeHit/pause 400",
-        "Text": "Dia melakukannya lagi! Lumpur yang tebal menghentikan longsorannya.",
+        "Text": "Lagi-lagi dia berhasil! Lumpur yang tebal berhasil menghentikan tanah longsor.",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "summer0_8"
@@ -346,7 +346,7 @@
         "Sound": "Cowboy_Secret",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Kereta wagon berhasil diselamatkan.",
+        "Text": "Dan kereta kuda selamat.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "summer0_9"
@@ -368,7 +368,7 @@
     "ID": null,
     "SheetIndex": 3,
     "Title": "Wumbus",
-    "Description": "Sebuah sci-fi komedi absurd berkisah tentang kehidupan orang gendut dari tata surya lain.",
+    "Description": "Sebuah film komedi sains fiksi absurd berkisah tentang kehidupan mahluk bergumpal dari bintang lain.",
     "Tags": [
       "sci-fi",
       "comedy",
@@ -392,7 +392,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Wumbus, selalu bersantai, meregangkan badan dan menikmati hangatnya matahari di planetnya.",
+        "Text": "Wumbus, yang selalu rileks, menikmati hangat matahari planetnya.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "summer1_1"
@@ -403,7 +403,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Pelayan setianya, FoodBot, menyediakan kepringan gluten goreng dan 'saus merah'.",
+        "Text": "Pelayan setianya, FoodBot, terus menyajikan gorengan kenyal dan 'saus merah'.",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "summer1_2"
@@ -414,7 +414,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Wumbus mencoba membuat keponakannya, Rossel, tertarik pada budaya dan hubungan sistem bintang, tetapi Rossel tidak terkesan.",
+        "Text": "Wumbus membujuk keponakannya, Rossel, agar tertarik dengan kultur dan duduk perkara di sistem bintang, tetapi Rossel tidak terkesan.",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "summer1_3"
@@ -436,7 +436,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Filmnya menceritakan lucunya kehidupan harian di dunia aneh Wumbus, dunia di mana teknologi dan masyarakatnya sudah sangat maju.",
+        "Text": "Filmnya menceritakan humor dalam kehidupan sehari-hari Wumbus di dunia anehnya, dunia dimana teknologi dan peradaban sudah berkempang pesat ke tahap ekstrim.",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "summer1_5"
@@ -447,7 +447,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 800/playSound phone/pause 300",
-        "Text": "Banyak adegannya yang berusaha menemukan kelucuan di gaya hidup yang aneh nan modern ini.",
+        "Text": "Banyak adegan yang menceritakan humor dalam absurdnya gaya hidup modern.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "summer1_6"
@@ -458,7 +458,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Tapi, meskipun ada banyak pilihan hiburan, Wumbus dan teman-temannya masih senang berkumpul untuk menikmati 'pizza' (terbuat dari 100% bahan gluten).",
+        "Text": "Tetapi, meski pilihan hiburan di sana tak terbatas, Wumbus dan teman-temannya masih suka berkumpul untuk menikmati kelezatan 'pizza' (yang dibuat dari 100% bahan kenyal).",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "summer1_7"
@@ -469,7 +469,7 @@
     "ID": null,
     "SheetIndex": 4,
     "Title": "The Zuzu City Express",
-    "Description": "Film klasik yang dicintai, dengan hati-hati diperbarui untuk bioskop modern.",
+    "Description": "Film klasik kesayangan, yang diperbarui untuk layar lebar modern.",
     "Tags": [
       "classic",
       "romance"
@@ -481,7 +481,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "'The Zuzu City Express'",
+        "Text": "'Kereta Api Express Kota Zuzu'",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "winter1_0"
@@ -492,7 +492,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 800/playSound trainWhistle/pause 300",
-        "Text": "Zuzu City Express melakukan perjalanan terakhir ke selatan, dari pesisir es... Ini perjalanan tiga hari!",
+        "Text": "Kereta Api Express Kota Zuzu berangkat dari pesisir bersalju dalam perjalanan terakhirnya menuju selatan... yang lamanya tiga hari!",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "winter1_1"
@@ -503,7 +503,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Seorang wanita muda dengan sedih mengintip ke luar jendela.",
+        "Text": "Seorang gadis memandang sayu ke luar jendela.",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "winter1_2"
@@ -536,7 +536,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Film ini mengeksplorasi tema abadi... konflik antara alasan dan batin.",
+        "Text": "Filmnya menceritakan tema klasik sepanjang masa... yaitu pergulatan antara akal dan batin.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "winter1_5"
@@ -547,7 +547,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Akankah dia mengikuti arah pikirannya, atau kerinduan harinya?",
+        "Text": "Akankah gadis tersebut mengikuti akalnya, atau kata hatinya?",
         "Shake": false,
         "ResponsePoint": "zuzucityexpress_mind_heart",
         "ID": "winter1_6"
@@ -558,7 +558,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Filmya berakhir sebelum kita mengetahui jawabannya...",
+        "Text": "Filmnya berakhir sebelum kita menemukan jawabannya...",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "winter1_7"
@@ -569,7 +569,7 @@
     "ID": null,
     "SheetIndex": 5,
     "Title": "The Miracle At Coldstar Ranch",
-    "Description": "Melawan semua rintangan, sebuah keluarga mencoba memepertahankan semangat Bintang Musim Dingin tetap hidup...",
+    "Description": "Melawan semua keganjilan, sebuah keluarga berusaha mempertahankan semangat Winter Star...",
     "Tags": [
       "family",
       "classic"
@@ -592,7 +592,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Ini malam Bintang Musim Dingin, dan sudah turun selama 3 minggu berturut-turut.",
+        "Text": "Malam ini adalah malam Winter Star, dan salju masih turun sejak 3 minggu yang lalu.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "winter0_1"
@@ -603,7 +603,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Keluarga Coldstar terjebak... mustahi bagi mereka untuk pergi ke kota. Untungnya, ada cukup jerami untuk memberi makan sapi-sapi.",
+        "Text": "Keluarga Coldstar terjebak... mustahil untuk pergi ke kota. Untungnya, persediaan jerami mereka cukup untuk makan sapi.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "winter0_2"
@@ -625,7 +625,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "...Tapi keluarga itu kehabisan makanan.",
+        "Text": "...Tetapi keluarga tersebut sudah kehabisan makanan.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "winter0_4"
@@ -647,7 +647,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Meski begitu, Ayah Coldstar tetap berani menghadapi bahaya demi untuk menebang pohon bitang musim dingin...",
+        "Text": "Meski begitu, Papa Coldstar memberanikan diri menerobos salju dan menebang pohon untuk winter star...",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "winter0_6"
@@ -669,7 +669,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Terlepas dari kelaparan mereka, keluarga itu mendekorasi pohon, menjaga janji Bintang Musim Dingin tetap hidup.",
+        "Text": "Meski sedang kelaparan, keluarga tersebut mendekorasi pohon, demi mempertahankan semangat Winter Star.",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "winter0_8"
@@ -691,7 +691,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Di malam itu, sebuah kejadian aneh...",
+        "Text": "Pada malam itu, sebuah fenomena ganjil terjadi...",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "winter0_10"
@@ -701,7 +701,7 @@
         "Music": "",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/pause 1000/specificTemporarySprite coldstarMiracle/pause 500/playSound discoverMineral/pause 3000/message \"Keesokan harinya, Ibu Coldstar tercengang melihat di pohonnya ada buah kosmik.\"/pause 500/message \"'Kami mempercayai Bintang Musim Dingin, dan karena itu kami diingat!'\"",
+        "Script": "/pause 1000/specificTemporarySprite coldstarMiracle/pause 500/playSound discoverMineral/pause 3000/message \"Keesokan harinya, Mama Coldstar keheranan melihat pohonnya dihiasi buah kosmik.\"/pause 500/message \"'Kami percaya pada Winter Star, dan karenanya kami diingat!'\"",
         "Text": "",
         "Shake": false,
         "ResponsePoint": null,
@@ -713,7 +713,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/specificTemporarySprite removeSprite 989",
-        "Text": "Mereka semua berbagi buah Stardrop. Meski ukurannya kecil, tapi itu adalah makanan terlezat dan paling mengenyangkan yang pernah mereka makan.",
+        "Text": "Mereka semua saling berbagi buah Stardrop. Meski buahnya kecil, tapi itu adalah makanan paling lezat dan mengenyangkan yang pernah mereka makan.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "winter0_12"
@@ -724,7 +724,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Keluarga itu selamat, dan harapan mereka juga tetap hidup. Janji Bintang Musim Dingin terpenuhi sekali lagi...",
+        "Text": "Keluarga tersebut selamat, dan semangat akan harapan tetap terjaga baik. Sekali lagi janji Winter Star telah ditepati...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "winter0_13"
@@ -735,7 +735,7 @@
     "ID": null,
     "SheetIndex": 6,
     "Title": "Natural Wonders: Exploring Our Vibrant World",
-    "Description": "Berkeliling di daratan Republik Ferngill... dari Pulau Fern sampai ke Kota Zuzu, dunia ini dipenuhi kehidupan!",
+    "Description": "Berkeliling di Republik Ferngill... mulai dari Kepulauan Fern sampai Kota Zuzu, dunia ini dipenuhi makhluk hidup!",
     "Tags": [
       "documentary",
       "family"
@@ -747,7 +747,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "'Keajaiban Alam: Menjelajahi Dunia Kita yang Beragam'",
+        "Text": "'Keajaiban Alam: Menjelajahi Dunia Kita yang Penuh Warna'",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring1_0"
@@ -758,7 +758,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Pulau Fern, surga tropis 130 kilometer dari lepas pantai selatan. Pulau yang terbentuk karena aktivitas vulkanik di wilayah tersebut, dan masih terus berkembang...",
+        "Text": "Kepulauan Fern, sebuah surga tropis berjarak 130 km dari pesisir selatan. Kepulauan ini terbentuk karena aktivitas vulkanik sekitar, dan masih aktif sampai sekarang...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring1_1"
@@ -769,7 +769,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Iklim hangat di laut selatan memungkinkan banyak keanekaragaman hayati... singkatnya, pulau ini penuh dengan kehidupan!",
+        "Text": "Iklim hangat lautan selatan mengundang banyak keanekaragaman hewani... singkatnya, kepulauan ini dipenuhi berbagai jenis makhluk hidup!",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring1_2"
@@ -780,7 +780,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Sekarang kita pindah ke utara menuju hiruk pikuk Kota Zuzu. Ini adalah dunia yang dipenuhi beton dan baja, dan diterangi oleh cahaya lampu kota.",
+        "Text": "Sekarang kita ke utara menuju ke Kota Zuzu yang sibuk. Kota dari beton dan baja, yang diterangi cahaya lampu kota.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring1_3"
@@ -791,7 +791,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Kondisinya mungkin keras, tetapi tetap saja, kita menemukan banyak kehidupan ...",
+        "Text": "Kondisi disini memang keras, tapi, kita masih bisa menemukan sejumlah makhluk hidup...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring1_4"
@@ -802,7 +802,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Jauh di barat, sendirian di Laut Permata yang luas, terletak Pulau Prairie. Terlepas dari namanya, tanah ini adalah rumah bagi beragam bioma alami.",
+        "Text": "Jauh di barat, sendirian di tengah-tengah luasnya Laut Permata, ada Pulau Prairie. Tanah ini merupakan rumah dari berbagai jenis bioma alam.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring1_5"
@@ -813,7 +813,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Pulau ini dikenal karena populasi rakun yang berlimpah!",
+        "Text": "Pulau tersebut terkenal akan populasi rakunnya yang berlimpah!",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring1_6"
@@ -824,7 +824,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Akhirnya, kita kembali ke daratan, untuk mengunjungi salah satu daerah paling menyenangkan di benua ini... Stardew Valley.",
+        "Text": "Akhirnya, kita kembali ke pulau utama, untuk mengunjungi salah satu daerah paling elok di benua ini... Stardew Valley.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring1_7"
@@ -835,7 +835,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Lembah yang beriklim ini adalah rumah sempurna untuk berbagai makhluk hutan dan serangga. Tempat yang indah!",
+        "Text": "Iklim sedang di lembah ini sempurna untuk dihuni berbagai jenis serangga dan binatang hutan. Sungguh tempat yang indah!",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring1_8"
@@ -846,7 +846,7 @@
     "ID": null,
     "SheetIndex": 7,
     "Title": "It Howls In The Rain",
-    "Description": "Sekelompok anak muda berangkat untuk menemukan sumber suara misterius. (Diperlukan Pengawasan Orangtua)",
+    "Description": "Sekelompok pemuda berkelana mencari sumber suara misterius. (Harap Tonton Dengan Ijin Orang Tua)",
     "Tags": [
       "horror"
     ],
@@ -856,7 +856,7 @@
         "Music": "Upper_Ambient",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/pause 1000/playSound cavedrip/pause 1000/playSound cavedrip/spriteText 7 \"Dia Melolong Dalam Hujan \"",
+        "Script": "/pause 1000/playSound cavedrip/pause 1000/playSound cavedrip/spriteText 7 \"Lolongan Di Tengah Hujan \"",
         "Text": "",
         "Shake": false,
         "ResponsePoint": null,
@@ -868,7 +868,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "'Rekaman berikut diambil dari camcorder yang ditinggalkan di 50 km dari selatan Grampleton'",
+        "Text": "'Rekaman berikut diambil dari alat perekam yang ditelantarkan 40km di selatan Grampleton'",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "fall1_1"
@@ -879,7 +879,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/pause 2000/playSound rainsound/pause 1000",
-        "Text": "'Apa kau dengar itu? Kurasa itu berasal dari hutan di sana... Ayo pergi...'",
+        "Text": "'Kau dengar itu? Kurasa suaranya berasal dari hutan... Ayo...'",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "fall1_2"
@@ -889,7 +889,7 @@
         "Music": "",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/pause 1000/message \"'(Bernafas Berat)... Lihat!'\"/playSound leafrustle/specificTemporarySprite woodswalker/pause 1000/playSound rainsound/pause 5000",
+        "Script": "/pause 1000/message \"'(Nafas Berat)... Lihat!'\"/playSound leafrustle/specificTemporarySprite woodswalker/pause 1000/playSound rainsound/pause 5000",
         "Text": "",
         "Shake": false,
         "ResponsePoint": "",
@@ -901,7 +901,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 500/playSound leafrustle/pause 500/playSound leafrustle/pause 400/playSound leafrustle/pause 500/playSound rainsound",
-        "Text": "(Kamera masuk ke dalam ke hutan)",
+        "Text": "(Kamera bergerak cepat ke arah hutan)",
         "Shake": true,
         "ResponsePoint": null,
         "ID": "fall1_4"
@@ -912,7 +912,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/specificTemporarySprite movieFrame 7 5 1700/playSound batScreech/spriteText 4 \"Agh! \"/pause 20",
-        "Text": "'Oh, ternyata kamu, Gary... *hah* *hah*... Berhenti memegang tanganku!'",
+        "Text": "'Oh, ternyata kamu, Gary... *terengah-engah*... Lepaskan tanganku!'",
         "Shake": true,
         "ResponsePoint": "",
         "ID": "fall1_5"
@@ -945,7 +945,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50",
-        "Text": "(Tangisan dan suara seretan aneh dapat terdengar)",
+        "Text": "(Terdengar suara teriakan lirih dan seretan kaki yang aneh)",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "fall1_8"
@@ -955,7 +955,7 @@
         "Music": "",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/pause 1000/playSound rainsound/pause 1000/spriteText 4 \"Dia masih di luar sana... \"",
+        "Script": "/pause 1000/playSound rainsound/pause 1000/spriteText 4 \"Dia masih ada di sana... \"",
         "Text": "",
         "Shake": false,
         "ResponsePoint": "",

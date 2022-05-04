@@ -1,32 +1,14 @@
 {
-    "header": {
-        "target": "w",
-        "formatVersion": 5,
-        "hidef": true,
-        "compressed": 128
-    },
-    "readers": [
-        {
-            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "version": 0
-        },
-        {
-            "type": "Microsoft.Xna.Framework.Content.StringReader",
-            "version": 0
-        }
-    ],
-    "content": {
-        "Introduction": "Hey, you're pretty good at mining, for a human.",
-        "Mon": "I got all this stuff from the surface. I just take it from your people during the night.#$e#Hmm? What is this concept you call \"private property\"?",
-        "Tue": "Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin.#$e#...And a ramekin of cave carrot brulee to sweeten the night.#$e#What?",
-        "Wed": "Hey, wanna buy something?",
-        "Wed_6": "Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that.#$e#But I wonder where it came from? And where did it all go? I guess some questions will never be answered...",
-        "Thu_4": "I feel most comfortable underground.#$e#The deeper underground the better.",
-        "Fri": "You've never seen a dwarf before, have you?",
-        "Sat_8": "The mines can be a treacherous place. Be careful, friend.",
-        "Sat": "It's dangerous in the mines. Why don't you buy a few things from my shop to ensure your safety?",
-        "Sun": "One day you'll have to tell me about this beverage you call \"milk\".",
-        "Thu": "You're not a spy sent by the Shadow People, are you?#$e#I'm keeping my eye on you.",
-        "Fri_2": "Most humans fear the unknown... that's why I've hidden my shop here.#$e#Your mining skills prove you're trustworthy."
-    }
+  "Introduction": "Hei, untuk seorang manusia, kamu cukup hebat dalam menambang.",
+  "Mon": "Aku dapat barang-barang ini dari permukaan. Kuambil dari manusia saat malam hari.#$e#Hmm? Apa itu \"properti pribadi\"?",
+  "Tue": "Ah... rebusan wortel gua, wortel gua panggang, sup wortel gua dan wortel gua dengan parutan keju.#$e#...Dan sebuah brulee wortel gua yang enak di malam hari.#$e#Apa?",
+  "Wed": "Hei, mau beli sesuatu?",
+  "Wed_6": "Dahulu kala, bangsaku tau rahasia teknologi canggih. Bukti arkeolog membenarkan hal itu.#$e#Tapi darimana datangnya itu? Dan ke mana semuanya? Beberapa pertanyaan memang sulit dijawab...",
+  "Thu_4": "Aku merasa paling nyaman di bawah tanah.#$e#Semakin dalam semakin baik.",
+  "Fri": "Kau belum pernah melihat Dwarf sebelumnya, ya?",
+  "Sat_8": "Tambang bisa jadi tempat yang berbahaya. Hati-hati, kawan.",
+  "Sat": "Tambang sangat berbahaya. Kenapa tidak beli sesuatu dariku untuk jaga-jaga?",
+  "Sun": "Suatu hari kau harus ceritakan minuman yang biasa kau sebut \"susu\" itu.",
+  "Thu": "Kau bukan mata-mata yang dikirim kaum Shadow People, kan?#$e#Aku akan terus mengawasimu.",
+  "Fri_2": "Kebanyakan manusia takut pada hal yang belum dipahami... karena itulah aku sembunyikan tokoku di sini.#$e#Kemampuan menambangmu membuatku percaya padamu."
 }
