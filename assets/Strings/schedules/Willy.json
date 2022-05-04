@@ -1,12 +1,30 @@
 {
-  "Fri.000": "Menangani ikan asin sepanjang hari membuatku benar-benar haus.",
-  "spring_9.001": "Eh, ada kail yang tersangkut di jempolku... Dokter akan memotongnya.",
-  "winter_17.000": "Ah, minuman hangat memang pas diminum setelah hari yang dingin...",
-  "spring_9.002": "Aduh! Sakit, Dok!$s",
-  "spring_9.000": "Aku ada janji dengan dokter hari ini, jadi kalau kamu mau membeli sesuatu bergegaslah.",
-  "spring_9.003": "Aku butuh sedikit pemanasan supaya siap menghadapi dinginnya malam di laut.$h",
-  "Sat.000": "Ah... Minuman dingin memang cocok untuk diminum setelah seharian memancing.$h",
-  "winter_15.000": "Aku tidak bisa tidur nyenyak saat ada pasar malam... eh, tapi itu bukan masalah. Aku orang yang fleksibel.",
-  "winter.000": "Aku butuh sedikit pemanasan supaya siap menghadapi dinginnya malam di laut.$h",
-  "winter_16.000": "Apa kamu sudah mencoba naik kapal selam? Kaptennya adalah teman lamaku."
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Fri.000": "Handling salty fish all day makes me real thirsty.",
+        "spring_9.001": "Eh, I got a fish hook stuck in my thumb... the Doctor's gonna cut it out.",
+        "winter_17.000": "Ah, nothin' like a hot beverage to wind down after a cold, dark day...",
+        "spring_9.002": "Yowch! That hurt, Doc!$s",
+        "spring_9.000": "I have a doctor's appointment today, so if you need to buy anything you'd better hurry.",
+        "spring_9.003": "I need a little warm-me-up to be ready for another cold night on the ocean.$h",
+        "Sat.000": "Ah... Nothing's better than kicking back with a cold one after a relaxing day fishing.$h",
+        "winter_15.000": "I can't get me a good night's sleep with that night market going on... eh, but that's okay. I'm flexible.",
+        "winter.000": "I need a little warm-me-up to be ready for another cold night on the ocean.$h",
+        "winter_16.000": "Have you been on the deep-sea submarine? The captain's an old friend."
+    }
 }

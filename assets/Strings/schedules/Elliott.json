@@ -1,6 +1,24 @@
 {
-  "winter_17.000": "Armada pedagang eksotis, berkeliling dunia untuk mencari kekayaan di luar imajinasi... petualangan yang luar biasa!",
-  "marriage_Mon.000": "Halo, @. Aku hanya menonton ombak dari sini.",
-  "summer_9.001": "Punggung saya sakit, dokter... Anda tahu, dengan semua membungkuk untuk menulis novel saya.",
-  "summer_9.000": "Halo yang disana. Apa yang membawamu ke tempat mengerikan ini?"
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_17.000": "A fleet of exotic merchants, traveling the world in search of riches beyond imagination... what an adventure!",
+        "marriage_Mon.000": "Hello, @. I'm just watching the waves from here.",
+        "summer_9.001": "My back has been hurting, doctor... you know, with all the hunching over to write my novel.",
+        "summer_9.000": "Hello there. What brings you to this terrible place?"
+    }
 }

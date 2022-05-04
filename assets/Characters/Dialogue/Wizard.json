@@ -1,15 +1,34 @@
 {
-  "Introduction": "Ah, ya. Aku sudah memperkirakan kedatanganmu, @ muda.#$e#Namun, nasibmu ada di tanganmu.",
-  "MovieInvitation": "Hmm... Kurasa aku bisa menemanimu... ya. Ketika kamu sampai, Aku akan muncul. Sampai jumpa.",
-  "Mon": "Ah, ya. Aku telah melihat banyak hal tenatngmu di masa depan, @ muda.#$e#Jika aku beritahu padamu, akan ada konsekuensi serius.",
-  "Tue": "Jika tidak ada hal yang penting, tolong tinggalkan aku sendiri. Aku punya banyak hal untuk dilakukan.",
-  "Tue4": "Aku izinkan kamu masuk ke ruang bawah tanahku. Perlakukan apa yang kamu temukan di sana dengan hormat.",
-  "Wed": "Perlu waktu bertahun - tahun untuk memahami bahasa alam.#$e#Untuk bicara dengan mereka perlu waktu seumur hidup dengan tekad yang sangat kuat.#$e#Sekarang, permisi...",
-  "Thu": "Ada banyak misteri di sekitar kita. Kamu harus bersabar untuk menemukan mereka.",
-  "Thu10": "Kamu gak bilang siapapun... tapi aku percaya kalo salah satu dari warga adalah putriku...#$e#Aku mungkin salah... aneh, tapi itu terjadi.",
-  "Fri": "Aku yakin warga kota takut denganku.#$e#Sayang sekali, tapi aku tau kalo manusia takut akan hal yang tak lazim.",
-  "Fri6": "Aku pernah menikah, dulu. Setelah aku dan istriku berpisah, dia mulai terbang di sekitar pedesaan, mengutuk apa saja yang dia lihat.#$e#Itu bukanlah cara yang bagus untuk mengekspresikan kemarahan.",
-  "Sat": "Hati - hati, Kamu berdiri di atas bidang sihir yang kuat.#$e#Aku membangun menara di sini untuk satu tujuan, kau tahu.",
-  "Sat2": "Sudahkah kamu membuat kemajuan dengan roh hutan?",
-  "Sun": "Terkadang aku mengawasi penduduk kota diam - diam.#$e#Aku harap aku bisa menemukan penerus. Suatu hari aku akan meninggalkan tubuh fana ini, tapi pencarian arcana harus tetap berlanjut."
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Ah, yes. I have predicted your arrival a long time ago, young @.#$e#However, your fate is ultimately in your own hands.",
+        "accept_868": "Ah... an arctic shard.#$b#A most powerful substance, indeed, and potently infused with the element of ice.#$b#I'll take it, if you don't mind.#$b#...#$b#...Erm...You're still here. Oh. You want something?#$b#...Take this.",
+        "MovieInvitation": "Hmm... I suppose I could accompany you... yes. Once you've arrived, I shall appear. Farewell.",
+        "Mon": "Ah, yes. I have seen many things about your future, young @.#$e#If I were to tell you, there could be grave consequences.",
+        "Tue": "If you have nothing important to tell me, leave me be. I have much work to do.",
+        "Tue4": "I trust you enough to allow you in my basement. Treat what you find there with respect.",
+        "Wed": "It takes years of study to understand the language of the elementals.#$e#To actually speak their language requires a lifetime of devoted effort.#$e#Now, if you'll excuse me...",
+        "Thu": "There are many mysteries around us. You must be patient if you wish to discover them.",
+        "Thu10": "You musn't tell anyone... but I have reason to believe that one of the locals is actually my daughter...#$e#I could be mistaken... It's rare, but it does happen.",
+        "Fri": "I believe the townsfolk are afraid of me.#$e#It is unfortunate, but I suppose it is human to be afraid of the unknown.",
+        "Fri6": "I was married, long ago. After my wife and I split, she began flying around the countryside, cursing everything she saw.#$e#It's not a very mature way to express one's anger.",
+        "Sat": "Beware, you are standing above a potent magical field.#$e#I built my hut right here on purpose, you know.",
+        "Sat2": "Have you made any headway with the forest spirits?",
+        "Sun": "I sometimes observe the local villagers in secret.#$e#I am hoping to find an apprentice. Some day I will leave this mortal plane, but my arcane pursuits must continue."
+    }
 }

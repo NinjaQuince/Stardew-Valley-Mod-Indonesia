@@ -1,0 +1,28 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "House": "Building/-50 -10/Roof/-25 0/Trim/-25 -8",
+        "Log Cabin": "Building/-20 20/Roof/-15 5/Trim/-10 5",
+        "Stone Cabin": "Building/-15 25/Roof/-15 5/Trim/-5 5",
+        "Plank Cabin": "Building/-55 -20/Roof/-10 5/Trim/-55 -30",
+        "Stable": "Building/-20 5/Roof/-25 0/Trim/-15 0",
+        "Big Shed": "Building/-45 -10/Roof/-20 5/Trim/-25 0",
+        "Deluxe Coop": "Building/-25 0/Roof/-15 5/Trim/-25 0",
+        "Deluxe Barn": "Building/-15 0/Roof/-10 5/Trim/-10 5/"
+    }
+}

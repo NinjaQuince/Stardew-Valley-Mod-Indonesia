@@ -1,0 +1,32 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "69": "7/island/91/2000",
+        "628": "0/spring/638/1700",
+        "629": "1/spring/634/1000",
+        "630": "2/summer/635/2000",
+        "631": "3/summer/636/3000",
+        "632": "4/fall/637/3000",
+        "633": "5/fall/613/2000",
+        "835": "8/island/834/2000"
+    }
+}

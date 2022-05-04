@@ -1,11 +1,29 @@
 {
-  "Fri.000": "Akhirnya... Sedikit waktu untuk diriku sendiri.",
-  "Sun.000": "Pemilik sebelumnya yang membangun ruang altar. Kami tidak religius, tetapi kami membiarkan warga kota lain menggunakannya jika mereka mau.",
-  "fall_25.002": "Maaf, saya harus mengatakan beberapa hal kepada Dokter Harvey secara pribadi...$u",
-  "Tue.000": "Hmm... Haruskah saya memakai sesuatu yang istimewa untuk pertemuan aerobik hari ini?",
-  "Tue.001": "Kamu terlihat sangat sehat, Jodi! Halter itu melakukan keajaiban, bukan?",
-  "fall_25.000": "Hari ini adalah pemeriksaan tahunanku. Setidaknya saya tidak harus berjalan jauh.",
-  "fall_25.001": "Kamu di sini untuk menemui dokter juga? Apa yang terjadi?",
-  "Tue.002": "Mmff... Saya pikir saya mendapatkan beberapa kue kering hari ini. *mengerkah*.",
-  "winter_16.000": "Saya baru menyelesaikan semua belanja liburan malam ini! Beritahu saya jika kamu melihat Pierre datang..."
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Fri.000": "Finally... A little time to myself.",
+        "Sun.000": "It was the previous owners who built the altar room. We aren't religious, but we let the other townsfolk use it if they want.",
+        "fall_25.002": "Excuse me, I have to say some things to Doctor Harvey in private...$u",
+        "Tue.000": "Hmm... Should I wear something special to the aerobics meet-up today?",
+        "Tue.001": "You're looking really fit, Jodi! Those dumbells do wonders, don't they?",
+        "fall_25.000": "It's my annual check-up today. At least I don't have to walk very far.",
+        "fall_25.001": "You're here to see the doctor too? What happened?",
+        "Tue.002": "Mmff... I think I've earned some cookies today. *crunch*.",
+        "winter_16.000": "I'm getting all my holiday shopping done tonight! Let me know if you see Pierre coming..."
+    }
 }

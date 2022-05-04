@@ -1,0 +1,33 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Abigail": "spouseRooms/0",
+        "Penny": "spouseRooms/1",
+        "Leah": "spouseRooms/2",
+        "Haley": "spouseRooms/3",
+        "Maru": "spouseRooms/4",
+        "Sebastian": "spouseRooms/5",
+        "Alex": "spouseRooms/6",
+        "Harvey": "spouseRooms/7",
+        "Elliott": "spouseRooms/8",
+        "Sam": "spouseRooms/9",
+        "Shane": "spouseRooms/10",
+        "Emily": "spouseRooms/11",
+        "Krobus": "spouseRooms/12"
+    }
+}

@@ -1,23 +1,41 @@
 {
-  "abigail_videogames": "Urghh... Aku belum bisa juga menyelesaikan level pertama 'Journey of the Prairie King'!$u",
-  "haley_photo": "%Haley terlalu fokus dengan kameranya.",
-  "harvey_radio": "%Harvey sedang sibuk saat ini.",
-  "harvey_examine_left": "Sekarang diam di tempat... Tarik nafas yang dalam.$u",
-  "alex_lift_weights": "Unghh... Tidak bisa ngobrol.",
-  "robin_dance": "%Robin sedang sibuk.",
-  "demetrius_dance": "%Demetrius sedang sibuk.",
-  "demetrius_read": "Kita tinggal di Stardew Valley yang merupakan daerah terpencil di dunia ini. Mungkin ini adalah hal yang bagus",
-  "emily_exercise": "Olahraga bisa menyenangkan!",
-  "robin_exercise": "Tanganku memang sudah kuat... *terengah-engah*... tapi kakiku yang belum... *bernafas*",
-  "caroline_exercise": "Jangan lihat! Aku kepanasan dan penuh keringat.$s",
-  "shane_work": "%Shane sedang bekerja keras. Dia tidak tertarik untuk mengobrol.",
-  "marnie_exercise": "%Marnie tersenyum padamu dengan wajah penuh keringat.",
-  "jodi_exercise": "Ungh... Tarik nafas.... Ungh.... Keluarkan.$4",
-  "vincent_read_right": "Nona Penny bilang aku harus membaca buku dulu baru boleh bermain.$s",
-  "penny_wave_left": "Desa ini memang aman, tapi aku selalu mengantar anak-anak pulang sampai rumah.",
-  "sam_guitar": "%Sam sedang sibuk berlatih dengan gitar.",
-  "sam_gameboy": "Sebentar... Aku mau menyelesaikan level ini.$7",
-  "sam_skateboarding": "%Sam sedang mencoba trik kickflip.",
-  "sam_pool": "$c .5#Hmm... If I give the cue ball a bit of a top spin, maybe I could...$7#$e#*Sigh*... I'm not very good.$s",
-  "sam_work": "%Sam sedang bekerja... lebih baik jangan diganggu."
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "abigail_videogames": "Urghh... I still can't beat the first level of 'Journey of the Prairie King'!$u",
+        "haley_photo": "%Haley's too involved with her camera to notice you.",
+        "harvey_radio": "%Harvey looks busy right now.",
+        "harvey_examine_left": "Now just hold still... Take a deep breath for me.$u",
+        "alex_lift_weights": "Unghh... Can't talk.",
+        "robin_dance": "%Robin is busy.",
+        "demetrius_dance": "%Demetrius is busy.",
+        "demetrius_read": "We're insulated from the rest of the world here in Stardew Valley. Maybe that's a good thing.",
+        "emily_exercise": "Exercising can be fun!",
+        "robin_exercise": "My arms are strong... *pant*... but my legs need work... *gasp*",
+        "caroline_exercise": "Don't look! I'm all red and sweaty.$s",
+        "shane_work": "%Shane's hard at work. He doesn't seem interested in talking.",
+        "marnie_exercise": "%Marnie smiles at you through a mist of sweat.",
+        "jodi_exercise": "Ungh... Breathe in.... Ungh.... Breathe out.$4",
+        "vincent_read_right": "Ms. Penny says I have to read this book before I can go play.$s",
+        "penny_wave_left": "This town's safe, but I always walk the children home anyway.",
+        "sam_guitar": "%Sam is busy practicing the guitar.",
+        "sam_gameboy": "One sec... I gotta beat this level.$7",
+        "sam_skateboarding": "%Sam's trying to do a kickflip.",
+        "sam_pool": "$c .5#Hmm... If I give the cue ball a bit of a top spin, maybe I could...$7#$e#*Sigh*... I'm not very good.$s",
+        "sam_work": "%Sam's on the clock... better not get him in trouble."
+    }
 }

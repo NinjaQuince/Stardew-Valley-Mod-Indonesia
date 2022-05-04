@@ -1,0 +1,37 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Rare Crops": "Rare Crops",
+        "Fish Farmer's": "Fish Farmer's",
+        "Garden": "Garden",
+        "Brewer's": "Brewer's",
+        "Quality Fish": "Quality Fish",
+        "Master Fisher's": "Master Fisher's",
+        "Treasure Hunter's": "Treasure Hunter's",
+        "Children's": "Children's",
+        "Forager's": "Forager's",
+        "Home Cook's": "Home Cook's",
+        "Wild Medicine": "Wild Medicine",
+        "Sticky": "Sticky",
+        "Engineer's": "Engineer's",
+        "Slime Farmer's": "Slime Farmer's",
+        "Beekeeper's": "Beekeeper's",
+        "Prospector's": "Prospector's",
+        "Archaeologist's": "Archaeologist's"
+    }
+}

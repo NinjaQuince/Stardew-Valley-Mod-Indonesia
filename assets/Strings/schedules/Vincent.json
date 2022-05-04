@@ -1,6 +1,24 @@
 {
-  "winter_16.000": "Aku ingin menaiki perahunya!!",
-  "spring_11.001": "*glek*... Mami, jangan paksa aku.$s",
-  "spring_11.002": "Kalau aku berani, apa aku akan dapat lolipop?",
-  "spring_11.000": "*hiks*... aku akan disuntik hari ini.$s"
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_16.000": "I wanna ride the boat!!",
+        "spring_11.001": "*gulp*... Mommy, don't make me do it.$s",
+        "spring_11.002": "Do I get a lollipop for being so brave?",
+        "spring_11.000": "*sob*... I have to get my shots today.$s"
+    }
 }

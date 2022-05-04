@@ -1,6 +1,24 @@
 {
-  "name": "Saturday Spotlight",
-  "intro": "0/Hai, penonton. Setiap minggu aku mengelilingi negeri untuk bertemu dengan berbagai macam lapisan masyarakat. Bersama, kita akan menambah pengetahuan dan belajar tentang keunikan karir, gaya hidup, dan sudut pandang mereka. Aku Tom Laminar, dan kalian sedang menyaksikan 'Saturday Spotlight'.",
-  "day": "Sat",
-  "6": "Sat"
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "6": "Sat",
+        "name": "Saturday Spotlight",
+        "intro": "0/Hi there, viewers. Every week I travel around the country to meet people from all different walks of life. Together, we'll broaden our horizons and learn about unique careers, lifestyles, and perspectives. I'm Tom Laminar, and you're watching 'Saturday Spotlight'.",
+        "day": "Sat"
+    }
 }

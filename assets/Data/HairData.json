@@ -1,0 +1,47 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "100": "hairstyles2/0/0/true/-1/false",
+        "101": "hairstyles2/1/0/true/-101/false",
+        "102": "hairstyles2/2/0/true/-1/false",
+        "103": "hairstyles2/3/0/true/-1/false",
+        "104": "hairstyles2/4/0/true/103/false",
+        "105": "hairstyles2/5/0/true/-1/false",
+        "106": "hairstyles2/6/0/true/105/false",
+        "107": "hairstyles2/7/0/true/-111/false",
+        "108": "hairstyles2/0/8/true/116/false",
+        "109": "hairstyles2/1/8/true/-111/false",
+        "110": "hairstyles2/2/8/true/-110/false",
+        "111": "hairstyles2/3/8/true/112/false",
+        "112": "hairstyles2/4/8/true/-1/false",
+        "113": "hairstyles2/5/8/true/-1/false",
+        "114": "hairstyles2/6/8/true/-114/false",
+        "115": "hairstyles2/7/8/true/-115/false",
+        "116": "hairstyles2/0/16/true/-1/false",
+        "117": "hairstyles2/1/16/true/112/false",
+        "-101": "hairstyles2/2/16/true/-1/false",
+        "-114": "hairstyles2/3/16/true/-1/false",
+        "-115": "hairstyles2/4/16/true/-1/false",
+        "-110": "hairstyles2/5/16/true/-1/false",
+        "-111": "hairstyles2/6/16/true/-1/false"
+    }
+}

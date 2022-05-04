@@ -1,0 +1,37 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Starburst": "Starburst",
+        "Artful": "Artful",
+        "Haymaker": "Haymaker",
+        "Bug Killer": "Bug Killer",
+        "Vampiric": "Vampiric",
+        "Crusader": "Crusader",
+        "Powerful": "Powerful",
+        "Efficient": "Efficient",
+        "Swift": "Swift",
+        "Expansive": "Reaching",
+        "Bottomless": "Bottomless",
+        "Shaving": "Shaving",
+        "Archaeologist": "Archaeologist",
+        "Generous": "Generous",
+        "Master": "Master",
+        "Auto-Hook": "Auto-Hook",
+        "Preserving": "Preserving"
+    }
+}

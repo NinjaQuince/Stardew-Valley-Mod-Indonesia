@@ -1,14 +1,32 @@
 {
-  "Introduction": "Hei, untuk seukuran manusia, kamu hebat juga menambangnya.",
-  "Mon": "Aku mendapat barang-barang ini dari daratan. Aku cuma mengambilnya dari kalian saat malam.#$e#Hmm? Apa maksudnya konsep \"kepemilikan pribadi\" kalian itu?",
-  "Tue": "Ah... wortel gua rebus, wortel gua panggang, sup wortel gua, dan parutan wortel gua.#$e#...Dan semangkuk sajian wortel gua sebagai pemanis malam.#$e#Kenapa?",
-  "Wed": "Hei, kau mau beli sesuatu?",
-  "Wed_6": "Dulu kala, kaumku tahu rahasia dari teknologi maju. Bukti arkeolog yang ditemukan adalah buktinya.#$e#Tapi, aku penasaran, dari mana asalnya? Dan ke mana rahasia itu pergi sekarang? Kayaknya ada beberapa pertanyaan yang takkan pernah bisa dijawab...",
-  "Thu_4": "Aku merasa paling nyaman di bawah tanah.#$e#Semakin jauh di dalam, semakin nyaman.",
-  "Fri": "Kau belum pernah melihat Dwarf, kan?",
-  "Sat_8": "Area tambang bisa jadi tempat yang berbahaya. Berhati-hatilah, sobat.",
-  "Sat": "Area tambang berbahaya. Gimana kalau coba beli beberapa barang dulu di tokoku untuk jaga-jaga?",
-  "Sun": "Suatu saat, kau harus beritahu aku soal minuman yang namanya \"susu\" ini.",
-  "Thu": "Kau bukan mata-mata yang diutus Kelompok Bayangan, kan?#$e#Aku terus mengawasimu.",
-  "Fri_2": "Mayoritas manusia takut dengan ketidaktahuan... Oleh karenanya, aku menyembunyikan tokoku di sini.#$e#Kemampuan menambangmu menunjukkan bahwa dirimu dapat dipercaya."
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Hey, you're pretty good at mining, for a human.",
+        "Mon": "I got all this stuff from the surface. I just take it from your people during the night.#$e#Hmm? What is this concept you call \"private property\"?",
+        "Tue": "Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin.#$e#...And a ramekin of cave carrot brulee to sweeten the night.#$e#What?",
+        "Wed": "Hey, wanna buy something?",
+        "Wed_6": "Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that.#$e#But I wonder where it came from? And where did it all go? I guess some questions will never be answered...",
+        "Thu_4": "I feel most comfortable underground.#$e#The deeper underground the better.",
+        "Fri": "You've never seen a dwarf before, have you?",
+        "Sat_8": "The mines can be a treacherous place. Be careful, friend.",
+        "Sat": "It's dangerous in the mines. Why don't you buy a few things from my shop to ensure your safety?",
+        "Sun": "One day you'll have to tell me about this beverage you call \"milk\".",
+        "Thu": "You're not a spy sent by the Shadow People, are you?#$e#I'm keeping my eye on you.",
+        "Fri_2": "Most humans fear the unknown... that's why I've hidden my shop here.#$e#Your mining skills prove you're trustworthy."
+    }
 }
